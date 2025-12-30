@@ -36,14 +36,14 @@ Devices/
 └── sqlite/       # SQLite database
 ```
 
-| Format | Best For |
-|--------|----------|
-| **CSV** | Excel, pandas, quick parsing |
-| **JSON** | Web apps, APIs, JavaScript |
-| **Parquet** | Data science, Spark, fast analytics |
-| **SQLite** | SQL queries, local databases |
+| Format | Best For | Size |
+|--------|----------|------|
+| **CSV** | Excel, pandas, quick parsing | 941 MB |
+| **JSON** | Web apps, APIs, JavaScript | 217 MB |
+| **Parquet** | Data science, Spark, fast analytics | 316 MB |
+| **SQLite** | SQL queries, local databases | 113 MB |
 
-Large tables are chunked into parts to stay under 100MB.
+Large tables (MAC_Vendors, DHCP_Vendors) are chunked into parts to stay under 100MB.
 
 ---
 
@@ -71,6 +71,15 @@ import sqlite3
 conn = sqlite3.connect('Devices/sqlite/device.db')
 for row in conn.execute("SELECT name FROM device WHERE name LIKE '%iPhone%'"):
     print(row[0])
+```
+
+### Python — Load Parquet (fastest)
+```python
+import pandas as pd
+
+df = pd.read_parquet('Devices/parquet/device.parquet')
+iphones = df[df['name'].str.contains('iPhone')]
+print(iphones)
 ```
 
 ### JavaScript — Load JSON
