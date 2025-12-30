@@ -1,0 +1,6 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large database files (use CSV instead)
+*.sqlite
