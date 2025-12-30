@@ -1,5 +1,7 @@
 # Huginn & Muninn
 
+![Huginn & Muninn](Hugiin_Muniin.jpg)
+
 > *"Every day Huginn and Muninn fly over the vast earth. I fear for Huginn that he may not return, but I fear even more for Muninn."*
 > — Odin, from the Grímnismál
 
