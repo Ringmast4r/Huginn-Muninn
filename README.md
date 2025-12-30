@@ -187,9 +187,9 @@ console.log(`Found ${iphones.length} iPhone variants`);
 
 | Source | License | What It Provides |
 |--------|---------|-----------------|
-| [Fingerbank](https://fingerbank.org) | ODbL 1.0 | DHCP fingerprints, devices, vendors |
 | [Satori](https://github.com/xnih/satori) | GPL | OS/protocol fingerprints with device mappings |
 | [IEEE OUI](https://standards.ieee.org/products-programs/regauth/) | Public | Official MAC vendor registry |
+| Community OSINT | ODbL 1.0 | DHCP fingerprints, devices, vendors |
 
 ---
 
@@ -208,7 +208,7 @@ console.log(`Found ${iphones.length} iPhone variants`);
 
 Open data for network security, research, and educational purposes.
 
-- Fingerbank data: [Open Database License (ODbL 1.0)](https://opendatacommons.org/licenses/odbl/)
+- DHCP/Device data: [Open Database License (ODbL 1.0)](https://opendatacommons.org/licenses/odbl/)
 - Satori data: [GPL](https://github.com/xnih/satori/blob/master/LICENSE)
 
 ---
