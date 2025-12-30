@@ -29,9 +29,10 @@ This repository is the knowledge the ravens have gathered — scouring the inter
 Each folder contains the same data in multiple formats:
 
 ```
-MAC_Vendors/
+Devices/
 ├── csv/          # Comma-separated values
 ├── json/         # JSON records array
+├── parquet/      # Columnar format (compressed)
 └── sqlite/       # SQLite database
 ```
 
@@ -39,6 +40,7 @@ MAC_Vendors/
 |--------|----------|
 | **CSV** | Excel, pandas, quick parsing |
 | **JSON** | Web apps, APIs, JavaScript |
+| **Parquet** | Data science, Spark, fast analytics |
 | **SQLite** | SQL queries, local databases |
 
 Large tables are chunked into parts to stay under 100MB.
