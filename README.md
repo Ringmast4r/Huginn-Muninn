@@ -15,12 +15,58 @@ This repository is the knowledge the ravens have gathered — scouring the inter
 
 | Folder | What the Ravens Found | Records |
 |--------|----------------------|---------|
-| `MAC_Vendors/` | Hardware manufacturer identities | 10.1M |
-| `DHCP_Signatures/` | Network request patterns → device/OS | 368K |
-| `DHCP_Vendors/` | Device vendor strings | 425K |
-| `Devices/` | Device profiles (phones, consoles, routers, etc.) | 116K |
+| `MAC_Vendors/` | Hardware manufacturer identities (OUI lookup) | 10.1M |
+| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 368K |
+| `DHCP_Vendors/` | DHCP vendor class strings | 425K |
+| `Devices/` | Device profiles (phones, routers, IoT, etc.) | 116K |
 | `DHCPv6_Enterprise/` | IPv6 enterprise identifiers | 58K |
-| `DHCPv6_Signatures/` | IPv6 network signatures | 1.6K |
+| `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 1.6K |
+| `Satori_Fingerprints/` | OS & protocol fingerprinting (TCP, SSH, SSL, etc.) | 1,980 |
+| `Combinations/` | **Fingerprint → Device mappings** (the missing link!) | 813 |
+
+---
+
+## The Missing Link: Combinations
+
+Most fingerprint databases give you raw patterns but don't tell you what device they belong to. The `Combinations/` folder bridges this gap:
+
+```
+DHCP Pattern "1,3,6,15,28,51,58,59"
+        ↓
+    Fingerprint ID #450
+        ↓
+    Device ID #9417 → "Amazon Android"
+```
+
+This mapping was built by cross-referencing [Satori](https://github.com/xnih/satori) fingerprints with our device database.
+
+| Stat | Count |
+|------|-------|
+| Total mappings | 813 |
+| Linked to device IDs | 727 |
+| Satori-only (new devices) | 86 |
+
+---
+
+## Satori Fingerprints
+
+The `Satori_Fingerprints/` folder contains OS and protocol identification signatures from the [Satori project](https://github.com/xnih/satori). Unlike DHCP fingerprinting, these identify devices by analyzing protocol behavior:
+
+| File | Fingerprints | What It Identifies |
+|------|-------------|-------------------|
+| `dhcp.json` | 481 | DHCP → Device name/type |
+| `webuseragent.json` | 899 | User-Agent → Browser/Device |
+| `tcp.json` | 184 | TCP stack → Operating System |
+| `smb.json` | 89 | SMB → Windows version |
+| `ssh.json` | 67 | SSH banner → Server software |
+| `web.json` | 67 | HTTP response → Web server |
+| `ssl.json` | 51 | TLS handshake → Implementation |
+| `dns.json` | 48 | DNS quirks → DNS server |
+| `ntp.json` | 25 | NTP → Device type |
+| `sip.json` | 25 | SIP → VoIP device |
+| `browser.json` | 22 | Browser behavior → Browser type |
+| `icmp.json` | 13 | Ping response → OS |
+| `dhcpv6.json` | 9 | DHCPv6 → Device |
 
 ---
 
@@ -29,98 +75,141 @@ This repository is the knowledge the ravens have gathered — scouring the inter
 Each folder contains the same data in multiple formats:
 
 ```
-Devices/
+MAC_Vendors/
 ├── csv/          # Comma-separated values
 ├── json/         # JSON records array
 ├── parquet/      # Columnar format (compressed)
 └── sqlite/       # SQLite database
 ```
 
-| Format | Best For | Size |
-|--------|----------|------|
-| **CSV** | Excel, pandas, quick parsing | 941 MB |
-| **JSON** | Web apps, APIs, JavaScript | 217 MB |
-| **Parquet** | Data science, Spark, fast analytics | 316 MB |
-| **SQLite** | SQL queries, local databases | 113 MB |
+| Format | Best For | Notes |
+|--------|----------|-------|
+| **CSV** | Excel, pandas, quick parsing | Universal compatibility |
+| **JSON** | Web apps, APIs, JavaScript | Easy to parse |
+| **Parquet** | Data science, Spark, fast analytics | Compressed, fast queries |
+| **SQLite** | SQL queries, local databases | Single file, queryable |
 
-Large tables (MAC_Vendors, DHCP_Vendors) are chunked into parts to stay under 100MB.
+Large datasets are chunked into parts to stay under GitHub's 100MB limit.
 
 ---
 
 ## Quick Start
 
-### Python — Load MAC Vendors
-```python
-import csv
-import glob
-
-mac_vendors = {}
-for part in glob.glob('MAC_Vendors/csv/mac_vendor_part*.csv'):
-    with open(part, 'r') as f:
-        for row in csv.DictReader(f):
-            mac_vendors[row['mac']] = row['name']
-
-# Lookup
-print(mac_vendors.get('9CE330', 'Unknown'))  # → Cisco
-```
-
-### Python — Query SQLite
+### Python — Lookup a MAC Address
 ```python
 import sqlite3
 
-conn = sqlite3.connect('Devices/sqlite/device.db')
-for row in conn.execute("SELECT name FROM device WHERE name LIKE '%iPhone%'"):
-    print(row[0])
+conn = sqlite3.connect('MAC_Vendors/sqlite/mac_vendor_part01.db')
+cursor = conn.execute("SELECT name FROM mac_vendors WHERE mac = '9CE330'")
+print(cursor.fetchone())  # → ('Cisco Systems, Inc.',)
 ```
 
-### Python — Load Parquet (fastest)
+### Python — Find Device from DHCP Fingerprint
 ```python
-import pandas as pd
+import sqlite3
 
-df = pd.read_parquet('Devices/parquet/device.parquet')
-iphones = df[df['name'].str.contains('iPhone')]
-print(iphones)
+# 1. Get fingerprint ID
+conn = sqlite3.connect('DHCP_Signatures/sqlite/dhcp_signature.db')
+cursor = conn.execute("SELECT id FROM dhcp_signatures WHERE value = '1,3,6,15,28,51,58,59'")
+fp_id = cursor.fetchone()[0]
+
+# 2. Get device from combinations
+conn2 = sqlite3.connect('Combinations/sqlite/combinations.db')
+cursor2 = conn2.execute("SELECT satori_name, device_type FROM dhcp_combinations WHERE dhcp_fingerprint_id = ?", (fp_id,))
+print(cursor2.fetchone())  # → ('Amazon Fire OS', 'eBook Reader')
 ```
 
-### JavaScript — Load JSON
+### Python — OS Fingerprint from TCP Behavior
+```python
+import json
+
+with open('Satori_Fingerprints/json/tcp.json') as f:
+    tcp_fps = json.load(f)
+
+# Find fingerprints for Linux
+linux_fps = [fp for fp in tcp_fps if 'Linux' in fp.get('os_name', '')]
+print(f"Found {len(linux_fps)} Linux TCP fingerprints")
+```
+
+### JavaScript — Load Devices
 ```javascript
 const devices = require('./Devices/json/device.json');
 const iphones = devices.filter(d => d.name.includes('iPhone'));
+console.log(`Found ${iphones.length} iPhone variants`);
 ```
 
 ---
 
 ## Use Cases
 
-- **Network Reconnaissance** — Identify devices on any network
-- **Asset Discovery** — Catalog all connected hardware
-- **Threat Detection** — Spot rogue or spoofed devices
-- **BYOD Classification** — Sort personal vs corporate devices
-- **Security Research** — Know what's out there
+| Use Case | What You Need |
+|----------|---------------|
+| **"What device is this MAC?"** | `MAC_Vendors/` |
+| **"What device sent this DHCP?"** | `DHCP_Signatures/` + `Combinations/` |
+| **"What OS from TCP behavior?"** | `Satori_Fingerprints/tcp.json` |
+| **"Identify SSH server version"** | `Satori_Fingerprints/ssh.json` |
+| **"Detect browser from User-Agent"** | `Satori_Fingerprints/webuseragent.json` |
+| **"Full device profile"** | `Devices/` |
 
 ---
 
-## The Ravens Report
+## The Identification Chain
 
-Like Odin's ravens returning at dusk, this database brings you knowledge:
-
-| When a device... | The ravens tell you... |
-|------------------|------------------------|
-| Joins a network | Device type, OS, manufacturer |
-| Shows its MAC | Who made it |
-| Sends vendor strings | What it claims to be |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  NETWORK TRAFFIC                                            │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  MAC Address: 00:1A:2B:XX:XX:XX                             │
+│  → MAC_Vendors/ → "Apple, Inc."                             │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  DHCP Option 55: 1,3,6,15,28,51,58,59                       │
+│  → DHCP_Signatures/ → ID #450                               │
+│  → Combinations/ → "Amazon Fire OS" (eBook Reader)          │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  TCP SYN: Window=65535, TTL=64, Options=MSS,NOP,WS,NOP,NOP  │
+│  → Satori tcp.json → "iOS 14.x"                             │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  RESULT: Apple device running iOS 14                        │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Data Source
+## Data Sources
 
-Internet crowdsourced OSINT under the [Open Database License (ODbL 1.0)](https://opendatacommons.org/licenses/odbl/).
+| Source | License | What It Provides |
+|--------|---------|-----------------|
+| [Fingerbank](https://fingerbank.org) | ODbL 1.0 | DHCP fingerprints, devices, vendors |
+| [Satori](https://github.com/xnih/satori) | GPL | OS/protocol fingerprints with device mappings |
+| [IEEE OUI](https://standards.ieee.org/products-programs/regauth/) | Public | Official MAC vendor registry |
+
+---
+
+## Repository Stats
+
+| Metric | Value |
+|--------|-------|
+| Total records | ~11 million |
+| Data formats | CSV, JSON, Parquet, SQLite |
+| Folders | 8 |
+| Last updated | December 2025 |
 
 ---
 
 ## License
 
 Open data for network security, research, and educational purposes.
+
+- Fingerbank data: [Open Database License (ODbL 1.0)](https://opendatacommons.org/licenses/odbl/)
+- Satori data: [GPL](https://github.com/xnih/satori/blob/master/LICENSE)
 
 ---
 
