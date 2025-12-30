@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Boomi",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-JSCH-0.1.53"
+      }
+    ]
+  },
+  {
+    "name": "Cisco Call Manager",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-JSCH-0.1.54"
+      }
+    ]
+  },
+  {
+    "name": "Cisco DNA Center?",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-05-27",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-XDE_PAL_3.4.2"
+      }
+    ]
+  },
+  {
+    "name": "Cisco Prime?",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-XDE_PAL_3.4.8"
+      }
+    ]
+  },
+  {
+    "name": "Cisco Router",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-Cisco-1.25"
+      },
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-1.99-Cisco-1.25"
+      },
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-Cisco-2.0"
+      }
+    ]
+  },
+  {
+    "name": "Cyberduck 8.6.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-Cyberduck/8.6."
+      }
+    ]
+  },
+  {
+    "name": "FlowSsh",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "FlowSsh"
+      }
+    ]
+  },
+  {
+    "name": "FlowSsh 8.35",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-8.35 FlowSsh"
+      }
+    ]
+  },
+  {
+    "name": "FreeBSD",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.6-hpn14v15 FreeBSD-openssh-portable-8.6.p1,1"
+      }
+    ]
+  },
+  {
+    "name": "Go",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-Go"
+      }
+    ]
+  },
+  {
+    "name": "libssh",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "libssh"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.3.4",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.3.4"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.3.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.3."
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.4.8",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.4.8"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.4.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.4."
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.5.5",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.5.5"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.5.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.5."
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.6.0",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.6.0"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.6.3",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.6.3"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.6.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.6."
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.7.7",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.7.7"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.7.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.7."
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.9.3",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.9.6"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.9.6",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh_0.9.6"
+      }
+    ]
+  },
+  {
+    "name": "libssh 0.9.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh_0.9."
+      }
+    ]
+  },
+  {
+    "name": "libssh2 1.10.0",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh2_1.10.0"
+      }
+    ]
+  },
+  {
+    "name": "libssh2 1.10.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh2_1.10."
+      }
+    ]
+  },
+  {
+    "name": "libssh2 1.11.0",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-libssh2_1.11.0"
+      }
+    ]
+  },
+  {
+    "name": "libssh2 1.11.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-libssh2_1.11."
+      }
+    ]
+  },
+  {
+    "name": "Nessus",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "tenable",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-${jndi:ldap://log4shell-ssh-DKyXZXqRY3m7c6v1EWC9${lower:ten}.w.nessus.org/nessus}"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 3.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_3."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 4.3",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_4.3"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 4.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_4."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 5.2",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_5.2"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 5.3",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_5.3"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 5.9",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_5.9"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 5.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_5."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 6.1",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_6.1"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 6.2",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_6.2"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 6.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_6."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 7.4",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_7.4"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 7.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_7."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 8.0",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.0"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 8.8",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.8"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 8.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_8."
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 9.1",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_9.1"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 9.4",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_9.4"
+      }
+    ]
+  },
+  {
+    "name": "OpenSSH 9.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-OpenSSH_9."
+      }
+    ]
+  },
+  {
+    "name": "OS X 14.2.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "exact",
+        "ssh": "Mac OS X/14.2."
+      }
+    ]
+  },
+  {
+    "name": "paramiko",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-paramiko"
+      }
+    ]
+  },
+  {
+    "name": "PuTTY",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-PuTTY"
+      }
+    ]
+  },
+  {
+    "name": "PuTTY 0.79",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-PuTTY_Release_0.79"
+      }
+    ]
+  },
+  {
+    "name": "PuTTY 0.7x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-PuTTY_Release_0.7"
+      }
+    ]
+  },
+  {
+    "name": "PuTTY 0.80",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-PuTTY_Release_0.80"
+      }
+    ]
+  },
+  {
+    "name": "PuTTY 0.8x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-PuTTY_Release_0.8"
+      }
+    ]
+  },
+  {
+    "name": "rclone 1.55",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-rclone/v1.55.1"
+      }
+    ]
+  },
+  {
+    "name": "SecureCRT 9.3.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-SecureCRT_9.3."
+      }
+    ]
+  },
+  {
+    "name": "Insecure - SSH 1.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-05-27",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "partial",
+        "ssh": "SSH-1."
+      }
+    ]
+  },
+  {
+    "name": "Ubuntu - OpenSSH 7.6p1",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_7.6p1 Ubuntu-4ubuntu0.7"
+      }
+    ]
+  },
+  {
+    "name": "Ubuntu - OpenSSH 8.2p1",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.11"
+      }
+    ]
+  },
+  {
+    "name": "Ubuntu - OpenSSH 8.9p1",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6"
+      }
+    ]
+  },
+  {
+    "name": "Ubuntu 22.04",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5"
+      }
+    ]
+  },
+  {
+    "name": "Windows",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-PuTTY"
+      }
+    ]
+  },
+  {
+    "name": "Windows 10",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-OpenSSH_for_Windows_8.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 11",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "OpenSSH_for_Windows_8.6"
+      }
+    ]
+  },
+  {
+    "name": "WinSCP 6.1.x",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-11",
+    "tests": [
+      {
+        "weight": "7",
+        "matchtype": "partial",
+        "ssh": "SSH-2.0-WinSCP_release_6.1."
+      }
+    ]
+  },
+  {
+    "name": "ZMap/ZGrab 9",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "",
+    "last_updated": "2024-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "ssh": "SSH-2.0-ZGrab ZGrab SSH Survey and SSH-2.0-zgrab2 opt-out available at http://195.37.190.89/"
+      }
+    ]
+  }
+]
