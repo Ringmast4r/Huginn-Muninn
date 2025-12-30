@@ -204,13 +204,4 @@ console.log(`Found ${iphones.length} iPhone variants`);
 
 ---
 
-## License
-
-Open data for network security, research, and educational purposes.
-
-- DHCP/Device data: [Open Database License (ODbL 1.0)](https://opendatacommons.org/licenses/odbl/)
-- Satori data: [GPL](https://github.com/xnih/satori/blob/master/LICENSE)
-
----
-
 *"Thought and Memory fly each day over the spacious earth. I fear for Thought, that he come not back, yet more anxious am I for Memory."*
