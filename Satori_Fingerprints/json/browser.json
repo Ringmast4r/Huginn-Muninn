@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Brother Printer",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "Printer",
+    "device_vendor": "Brother Industries, Ltd.",
+    "device_url": "http://www.brother.com",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "1.51",
+        "browserversion": "11.3"
+      }
+    ]
+  },
+  {
+    "name": "Hewlett-Packard Printer",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "device_url": "http://www.hp.com",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.22",
+        "browserversion": "0.4"
+      }
+    ]
+  },
+  {
+    "name": "Linksys Printer",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "Printer",
+    "device_vendor": "Linksys",
+    "device_url": "http://www.linksys.com",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "1.0",
+        "browserversion": "0.0"
+      }
+    ]
+  },
+  {
+    "name": "NetWare",
+    "os_name": "NetWare",
+    "os_class": "NetWare",
+    "os_vendor": "Novell",
+    "os_url": "http://www.novell.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.0",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Ricoh Printer",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "Printer",
+    "device_vendor": "Ricoh Co., Ltd.",
+    "device_url": "http://www.ricoh.com",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "1.0",
+        "browserversion": "0.0"
+      }
+    ]
+  },
+  {
+    "name": "Samba 2.0 Client",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "http://www.samba.org",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.2",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Samba 2.2.0 - 2.2.6 Client",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "http://www.samba.org",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.5",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Samba 2.2.7 - 3.0.x Client",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "http://www.samba.org",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-03",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.9",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 10",
+    "os_name": "Windows 10",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "10.0",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 2000",
+    "os_name": "Windows 2000",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "5.0",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 7",
+    "os_name": "Windows 7",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windows/windows-7/default.aspx",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2010-01-06",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.1",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 8",
+    "os_name": "Windows 8",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.2",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 8.1",
+    "os_name": "Windows 8",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.3",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows 95",
+    "os_name": "Windows 95",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.0",
+        "browserversion": "15.1"
+      },
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "osversion": "4.0",
+        "browserversion": "21.4"
+      }
+    ]
+  },
+  {
+    "name": "Windows NT 4",
+    "os_name": "Windows NT 4",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.0",
+        "browserversion": "15.1"
+      },
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "4.0",
+        "browserversion": "21.4"
+      }
+    ]
+  },
+  {
+    "name": "Windows Server 2003",
+    "os_name": "Windows Server 2003",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windowsserver2003",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "5.2",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows Server 2008",
+    "os_name": "Windows Server 2008",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windowsserver2008",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.0",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows Server 2008 R2",
+    "os_name": "Windows Server 2008 R2",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windows",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.1",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows Server 2012",
+    "os_name": "Windows Server 2012",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2018-12-22",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.2",
+        "browserversion": "15.1"
+      },
+      {
+        "weight": "5",
+        "matchtype": "exact",
+        "osversion": "6.3",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows Vista",
+    "os_name": "Windows Vista",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windows/windows-vista",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "6.0",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Windows XP",
+    "os_name": "Windows XP",
+    "os_class": "Windows",
+    "os_vendor": "Microsoft Corp.",
+    "os_url": "http://www.microsoft.com/windows/windows-xp",
+    "device_type": "",
+    "device_vendor": "",
+    "device_url": "",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2008-05-21",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "5.1",
+        "browserversion": "15.1"
+      }
+    ]
+  },
+  {
+    "name": "Xerox Printer",
+    "os_name": "",
+    "os_class": "",
+    "os_vendor": "",
+    "os_url": "",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "device_url": "http://www.xerox.com",
+    "comments": "",
+    "author": "xnih13@gmail.com",
+    "last_updated": "2009-03-02",
+    "tests": [
+      {
+        "weight": "10",
+        "matchtype": "exact",
+        "osversion": "2.2",
+        "browserversion": "15.1"
+      }
+    ]
+  }
+]

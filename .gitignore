@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pipeline internals -- these stay on the CT, never pushed
+pipeline.py
+PRIVATE_README.md
+.env
+logs/
+database/
+*.log
+__pycache__/
+*.pyc

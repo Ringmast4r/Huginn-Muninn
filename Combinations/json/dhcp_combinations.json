@@ -1,0 +1,6506 @@
+[
+  {
+    "dhcp_fingerprint_id": 54841,
+    "device_id": 91,
+    "satori_name": "2Wire Residential Gateway",
+    "device_type": "Router",
+    "device_vendor": "2Wire, Inc.",
+    "dhcp_option55": "1,2,3,6,15,88,42,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 714,
+    "device_id": 181,
+    "satori_name": "3Com IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "3Com",
+    "dhcp_option55": "1,3,6,15,35,66,58,59,120,184,26"
+  },
+  {
+    "dhcp_fingerprint_id": 32951,
+    "device_id": 29763,
+    "satori_name": "Adobe Flash Player",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Adobe",
+    "dhcp_option55": "43"
+  },
+  {
+    "dhcp_fingerprint_id": 104,
+    "device_id": 5510,
+    "satori_name": "Alcatel 4037 Advanced Reflex IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Alcatel-Lucent",
+    "dhcp_option55": "1,28,54,58,59,60,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 104,
+    "device_id": 5510,
+    "satori_name": "Alcatel 4037 Advanced Reflex IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Alcatel-Lucent",
+    "dhcp_option55": "1,28,54,58,59,60,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 2287,
+    "device_id": 5510,
+    "satori_name": "Alcatel IP Touch 8 Series Phones",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Alcatel-Lucent",
+    "dhcp_option55": "1,3,28,43,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 2287,
+    "device_id": 5510,
+    "satori_name": "Alcatel IP Touch 8 Series Phones",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Alcatel-Lucent",
+    "dhcp_option55": "1,3,28,43,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 3.0",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 3.0",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 467,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 4.5.5",
+    "device_type": "tablet",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,26,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 467,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 5.2.x",
+    "device_type": "Smart TV",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,26,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 5.6.x",
+    "device_type": "Tablet",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 5.6.x",
+    "device_type": "Tablet",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 467,
+    "device_id": 9417,
+    "satori_name": "Amazon Fire OS 5.6.x",
+    "device_type": "Tablet",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,33,3,6,15,26,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 6320,
+    "device_id": 30006,
+    "satori_name": "Amcrest IP3M-943 Camera",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Amcrest",
+    "dhcp_option55": "1,3,4,5,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 6320,
+    "device_id": 30006,
+    "satori_name": "Amcrest IP3M-943 Camera",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Amcrest",
+    "dhcp_option55": "1,3,4,5,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 45444,
+    "device_id": 142,
+    "satori_name": "Amino AmiNET110",
+    "device_type": "IPTV",
+    "device_vendor": "Amino Technologies",
+    "dhcp_option55": "1,2,3,6,12,15,17,23,28,29,31,33,40,41,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 301,
+    "device_id": 142,
+    "satori_name": "Amino AmiNET110",
+    "device_type": "IPTV",
+    "device_vendor": "Amino Technologies",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 45444,
+    "device_id": 142,
+    "satori_name": "Amino AmiNET110",
+    "device_type": "IPTV",
+    "device_vendor": "Amino Technologies",
+    "dhcp_option55": "1,2,3,6,12,15,17,23,28,29,31,33,40,41,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 7521,
+    "device_id": 243,
+    "satori_name": "Anaconda",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49,26"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 202,
+    "satori_name": "Android 0.9",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 202,
+    "satori_name": "Android 0.9",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 448,
+    "device_id": 202,
+    "satori_name": "Android 1.0",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,33,51,58,59,121"
+  },
+  {
+    "dhcp_fingerprint_id": 448,
+    "device_id": 202,
+    "satori_name": "Android 1.0",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,33,51,58,59,121"
+  },
+  {
+    "dhcp_fingerprint_id": 448,
+    "device_id": 202,
+    "satori_name": "Android 1.5-2.1",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,33,51,58,59,121"
+  },
+  {
+    "dhcp_fingerprint_id": 448,
+    "device_id": 202,
+    "satori_name": "Android 1.5-2.1",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,33,51,58,59,121"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 202,
+    "satori_name": "Android 1.5-2.1",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 10.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 10.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 72622,
+    "device_id": 202,
+    "satori_name": "Android 10.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72622,
+    "device_id": 202,
+    "satori_name": "Android 10.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72473,
+    "device_id": 202,
+    "satori_name": "Android 11.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 11.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 72473,
+    "device_id": 202,
+    "satori_name": "Android 11.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 11.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 11.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 12.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 12.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 13.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 13.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 72620,
+    "device_id": 202,
+    "satori_name": "Android 14.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43,114,108"
+  },
+  {
+    "dhcp_fingerprint_id": 445,
+    "device_id": 202,
+    "satori_name": "Android 2.2.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 445,
+    "device_id": 202,
+    "satori_name": "Android 2.2.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 444,
+    "device_id": 202,
+    "satori_name": "Android 2.3.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,15,28,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 444,
+    "device_id": 202,
+    "satori_name": "Android 2.3.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,15,28,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 456,
+    "device_id": 202,
+    "satori_name": "Android 3.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,33,3,6,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 456,
+    "device_id": 202,
+    "satori_name": "Android 3.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,33,3,6,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 3828,
+    "device_id": 202,
+    "satori_name": "Android 6.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 3828,
+    "device_id": 202,
+    "satori_name": "Android 6.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 7.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 7.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 7.1.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 7.1.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 8.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 8.0.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 8.1.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 8.1.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 9.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 13149,
+    "device_id": 202,
+    "satori_name": "Android 9.x",
+    "device_type": "Smartphone",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,26,28,51,58,59,43"
+  },
+  {
+    "dhcp_fingerprint_id": 11878,
+    "device_id": null,
+    "satori_name": "Anonym.OS",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3"
+  },
+  {
+    "dhcp_fingerprint_id": 11878,
+    "device_id": null,
+    "satori_name": "Anonym.OS",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3"
+  },
+  {
+    "dhcp_fingerprint_id": 11883,
+    "device_id": null,
+    "satori_name": "APC UPS",
+    "device_type": "UPS",
+    "device_vendor": "American Power Conversion Corp.",
+    "dhcp_option55": "6,3,1,15,66,67,13,43,58,59,42,2,12"
+  },
+  {
+    "dhcp_fingerprint_id": 11883,
+    "device_id": null,
+    "satori_name": "APC UPS",
+    "device_type": "UPS",
+    "device_vendor": "American Power Conversion Corp.",
+    "dhcp_option55": "6,3,1,15,66,67,13,43,58,59,42,2,12"
+  },
+  {
+    "dhcp_fingerprint_id": 490,
+    "device_id": null,
+    "satori_name": "APC UPS",
+    "device_type": "UPS",
+    "device_vendor": "American Power Conversion Corp.",
+    "dhcp_option55": "6,3,1,15,66,67,13,44,12,43,58,59,42,2"
+  },
+  {
+    "dhcp_fingerprint_id": 60438,
+    "device_id": 86,
+    "satori_name": "Apple Airport",
+    "device_type": "Wireless Router",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "28,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 9299,
+    "device_id": 86,
+    "satori_name": "Apple Airport",
+    "device_type": "Wireless Router",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,28,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 183,
+    "device_id": 86,
+    "satori_name": "Apple Airport",
+    "device_type": "Wireless Router",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,2,3,15,6,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 183,
+    "device_id": 86,
+    "satori_name": "Apple Airport Extreme",
+    "device_type": "Wireless Router",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,2,3,15,6,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 1231,
+    "device_id": 86,
+    "satori_name": "Apple Netboot",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,43,60"
+  },
+  {
+    "dhcp_fingerprint_id": 513,
+    "device_id": 86,
+    "satori_name": "Apple Netboot",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,67,43,60"
+  },
+  {
+    "dhcp_fingerprint_id": 1231,
+    "device_id": 86,
+    "satori_name": "Apple Netboot",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,43,60"
+  },
+  {
+    "dhcp_fingerprint_id": 513,
+    "device_id": 86,
+    "satori_name": "Apple Netboot",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,67,43,60"
+  },
+  {
+    "dhcp_fingerprint_id": 56311,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,3,6,15,66,69,43,176"
+  },
+  {
+    "dhcp_fingerprint_id": 56312,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,3,7,6,15,66,69,43,176"
+  },
+  {
+    "dhcp_fingerprint_id": 5320,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,28,3,6,15,42,242"
+  },
+  {
+    "dhcp_fingerprint_id": 5320,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,28,3,6,15,42,242"
+  },
+  {
+    "dhcp_fingerprint_id": 1021,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,28,3,6,15,42,43,176,66"
+  },
+  {
+    "dhcp_fingerprint_id": 1021,
+    "device_id": 42,
+    "satori_name": "Avaya IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Avaya, Inc.",
+    "dhcp_option55": "1,28,3,6,15,42,43,176,66"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 15633,
+    "satori_name": "Axis 212 PTZ",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 15633,
+    "satori_name": "Axis 216FD",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 15633,
+    "satori_name": "Axis 216FD",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 15633,
+    "satori_name": "AXIS 241Q Video Server",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 15633,
+    "satori_name": "AXIS M3007",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 15633,
+    "satori_name": "AXIS M3203",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 15633,
+    "satori_name": "AXIS M5065",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 15633,
+    "satori_name": "Axis Network Camera",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 15633,
+    "satori_name": "AXIS P3224-LV",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 15633,
+    "satori_name": "AXIS P3304",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Axis Communications",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": null,
+    "satori_name": "Backtrack 1.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": null,
+    "satori_name": "Backtrack 1.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 76,
+    "device_id": 98973,
+    "satori_name": "BATM VoIP Adapter",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "BATM",
+    "dhcp_option55": "1,3,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 168,
+    "device_id": 106,
+    "satori_name": "Belkin F5D8235-4 v2",
+    "device_type": "Wireless Router",
+    "device_vendor": "Belkin",
+    "dhcp_option55": "1,3,6,12,15,28,44"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 106,
+    "satori_name": "Belkin Skype Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Belkin",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 76,
+    "device_id": 239,
+    "satori_name": "BeOS 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 76,
+    "device_id": 239,
+    "satori_name": "BeOS 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 60455,
+    "device_id": 239,
+    "satori_name": "BeOS 5.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,12,19"
+  },
+  {
+    "dhcp_fingerprint_id": 60455,
+    "device_id": 239,
+    "satori_name": "BeOS 5.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,12,19"
+  },
+  {
+    "dhcp_fingerprint_id": 284,
+    "device_id": 16122,
+    "satori_name": "Biamp Tesira",
+    "device_type": "DSP",
+    "device_vendor": "Biamp",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 270,
+    "device_id": 16122,
+    "satori_name": "Biamp Tesira ForteX",
+    "device_type": "",
+    "device_vendor": "Biamp",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 270,
+    "device_id": 16122,
+    "satori_name": "Biamp Tesira ForteX",
+    "device_type": "",
+    "device_vendor": "Biamp",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 42921,
+    "device_id": null,
+    "satori_name": "Big-IP F5",
+    "device_type": "Load Balancer",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,15,6,12,42,26"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 192,
+    "satori_name": "BlackBerry",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 192,
+    "satori_name": "BlackBerry",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 60442,
+    "device_id": 192,
+    "satori_name": "BlackBerry",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "56,6,1,3,15"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 192,
+    "satori_name": "BlackBerry Smartphone",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 192,
+    "satori_name": "BlackBerry Smartphone",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 192,
+    "satori_name": "BlackBerry Tablet",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 192,
+    "satori_name": "BlackBerry Tablet",
+    "device_type": "Smartphone",
+    "device_vendor": "BlackBerry",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 60466,
+    "device_id": 94,
+    "satori_name": "Bluesocket BSC",
+    "device_type": "Wireless Router",
+    "device_vendor": "Bluesocket",
+    "dhcp_option55": "1,28,3,15,6,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign AU335",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 5565,
+    "device_id": 7554,
+    "satori_name": "BrightSign HD1022",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,28,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 42715,
+    "device_id": 7554,
+    "satori_name": "BrightSign HD223",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 45407,
+    "device_id": 7554,
+    "satori_name": "BrightSign HD223",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 45407,
+    "device_id": 7554,
+    "satori_name": "BrightSign HD223",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign HD225",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 45407,
+    "device_id": 7554,
+    "satori_name": "BrightSign LS424",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 45407,
+    "device_id": 7554,
+    "satori_name": "BrightSign LS424",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign XD234",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign XD234",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign XT1144",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 72609,
+    "device_id": 7554,
+    "satori_name": "BrightSign XT1144",
+    "device_type": "Digital Signage",
+    "device_vendor": "BrightSign",
+    "dhcp_option55": "1,121,3,6,12,15,26,28,33,42,43,51,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 11681,
+    "device_id": 161,
+    "satori_name": "Brother Printer",
+    "device_type": "Printer",
+    "device_vendor": "Brother Industries, Ltd.",
+    "dhcp_option55": "1,3,6,12,15,28,42,40,44,46"
+  },
+  {
+    "dhcp_fingerprint_id": 11681,
+    "device_id": 161,
+    "satori_name": "Brother Printer",
+    "device_type": "Printer",
+    "device_vendor": "Brother Industries, Ltd.",
+    "dhcp_option55": "1,3,6,12,15,28,42,40,44,46"
+  },
+  {
+    "dhcp_fingerprint_id": 365,
+    "device_id": 161,
+    "satori_name": "Brother Printer",
+    "device_type": "Printer",
+    "device_vendor": "Brother Industries, Ltd.",
+    "dhcp_option55": "6,3,1,15,66,67,13,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 365,
+    "device_id": 161,
+    "satori_name": "Brother Printer 2",
+    "device_type": "Printer",
+    "device_vendor": "Brother Industries, Ltd.",
+    "dhcp_option55": "6,3,1,15,66,67,13,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 50180,
+    "device_id": 93,
+    "satori_name": "Buffalo Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Buffalo Technology, Inc.",
+    "dhcp_option55": "1,3,6,12,15,23,28,29,31,33,40,41,42,44"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner 6755",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 11876,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner C3826",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "1,3,6,15,44"
+  },
+  {
+    "dhcp_fingerprint_id": 42928,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner C3826",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "1,3,6,15,44,69"
+  },
+  {
+    "dhcp_fingerprint_id": 48664,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner C5550 III",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "1,3,6,12,15,44"
+  },
+  {
+    "dhcp_fingerprint_id": 42602,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner C5850",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "12,15"
+  },
+  {
+    "dhcp_fingerprint_id": 11876,
+    "device_id": 103003,
+    "satori_name": "Cannon Image Runner C5850",
+    "device_type": "Printer",
+    "device_vendor": "Cannon",
+    "dhcp_option55": "1,3,6,15,44"
+  },
+  {
+    "dhcp_fingerprint_id": 60458,
+    "device_id": 158,
+    "satori_name": "Canon Printer",
+    "device_type": "Printer",
+    "device_vendor": "Canon, Inc.",
+    "dhcp_option55": "3,6,15,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 342,
+    "device_id": 158,
+    "satori_name": "Canon Printer",
+    "device_type": "Printer",
+    "device_vendor": "Canon, Inc.",
+    "dhcp_option55": "1,3,6,15,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 284,
+    "device_id": 14805,
+    "satori_name": "Chromebook",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 285,
+    "device_id": 14805,
+    "satori_name": "Chromebook",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 284,
+    "device_id": 14805,
+    "satori_name": "Chromebook",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 285,
+    "device_id": 14805,
+    "satori_name": "Chromebook",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 33640,
+    "satori_name": "Chromecast",
+    "device_type": "Digital Media Player",
+    "device_vendor": "Google, Inc.",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 33640,
+    "satori_name": "Chromecast",
+    "device_type": "Digital Media Player",
+    "device_vendor": "Google, Inc.",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 11247,
+    "device_id": 41,
+    "satori_name": "Cisco 7841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,42,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 42711,
+    "device_id": 41,
+    "satori_name": "Cisco 7841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150,2,7,42,43,58,59,159,160"
+  },
+  {
+    "dhcp_fingerprint_id": 42711,
+    "device_id": 41,
+    "satori_name": "Cisco 7841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150,2,7,42,43,58,59,159,160"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco 7905 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 67,
+    "device_id": 41,
+    "satori_name": "Cisco 7905 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,51,150"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco 7905 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7910 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7910 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7911x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7911x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 67,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,51,150"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 64,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 64,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 65,
+    "device_id": 41,
+    "satori_name": "Cisco 7912 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,51,150"
+  },
+  {
+    "dhcp_fingerprint_id": 2053,
+    "device_id": 41,
+    "satori_name": "Cisco 7935 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,66,6,15,3,35,150"
+  },
+  {
+    "dhcp_fingerprint_id": 2053,
+    "device_id": 41,
+    "satori_name": "Cisco 7935 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,66,6,15,3,35,150"
+  },
+  {
+    "dhcp_fingerprint_id": 64,
+    "device_id": 41,
+    "satori_name": "Cisco 7937G IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 64,
+    "device_id": 41,
+    "satori_name": "Cisco 7937G IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7940/7960x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 69,
+    "device_id": 41,
+    "satori_name": "Cisco 7940/7960x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35,151"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7940/7960x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 69,
+    "device_id": 41,
+    "satori_name": "Cisco 7940/7960x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35,151"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7945x IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7961G IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7961G IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 7965G IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco 8831 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 11247,
+    "device_id": 41,
+    "satori_name": "Cisco 8841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,42,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 55153,
+    "device_id": 41,
+    "satori_name": "Cisco 8841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,33,252,42,17"
+  },
+  {
+    "dhcp_fingerprint_id": 42711,
+    "device_id": 41,
+    "satori_name": "Cisco 8841 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150,2,7,42,43,58,59,159,160"
+  },
+  {
+    "dhcp_fingerprint_id": 42711,
+    "device_id": 41,
+    "satori_name": "Cisco 8851 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,35,66,150,2,7,42,43,58,59,159,160"
+  },
+  {
+    "dhcp_fingerprint_id": 2037,
+    "device_id": 41,
+    "satori_name": "Cisco 8945 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,15,6,12,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 2037,
+    "device_id": 41,
+    "satori_name": "Cisco 8945 IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,15,6,12,35,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1130",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1130",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1130",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1130",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1140",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1140",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1200",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1200",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1200",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1200",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1240",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 10262,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1240",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,67,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1240",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 10262,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1240",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,67,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1310",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1310",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1310",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1310",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1856,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1310",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,15,44,3,67,12,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 11488,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1500",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,43,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 68885,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1500",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,43,6,15,7"
+  },
+  {
+    "dhcp_fingerprint_id": 11488,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1500",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,43,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1530",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1530",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1550",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1550",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1560",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1570",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1815",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1815",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1815",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42794,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 1850",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2600",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2600",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2700",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2700",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42794,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42794,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 2800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 3500",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 3500",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 3600",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 4800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 60441,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 4800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,6,15,67,4"
+  },
+  {
+    "dhcp_fingerprint_id": 45415,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 4800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,6,15,67,4,7"
+  },
+  {
+    "dhcp_fingerprint_id": 45415,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 4800",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,6,15,67,4,7"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 702",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 156,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 702",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,7,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9105AXx",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9105AXx",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9120AX",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9120AX",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9120AX",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 47410,
+    "device_id": 41,
+    "satori_name": "Cisco Aironet 9164",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,15,3,28,12,6,7,26,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco ATA 186",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco ATA 186",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 67,
+    "device_id": 41,
+    "satori_name": "Cisco ATA 186",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,51,150"
+  },
+  {
+    "dhcp_fingerprint_id": 142,
+    "device_id": 41,
+    "satori_name": "Cisco ATA 188",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,12,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 142,
+    "device_id": 41,
+    "satori_name": "Cisco ATA 188",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,12,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 49319,
+    "device_id": 41,
+    "satori_name": "Cisco Catalyst 29xx",
+    "device_type": "Switch",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,67,12,150"
+  },
+  {
+    "dhcp_fingerprint_id": 44063,
+    "device_id": 41,
+    "satori_name": "Cisco Catalyst 29xx",
+    "device_type": "Switch",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,67"
+  },
+  {
+    "dhcp_fingerprint_id": 10262,
+    "device_id": 41,
+    "satori_name": "Cisco Catalyst 29xx",
+    "device_type": "Switch",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,67,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2045,
+    "device_id": 41,
+    "satori_name": "Cisco Catalyst 35xx",
+    "device_type": "Switch",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33"
+  },
+  {
+    "dhcp_fingerprint_id": 60443,
+    "device_id": 41,
+    "satori_name": "Cisco Catalyst 35xx",
+    "device_type": "Switch",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,52"
+  },
+  {
+    "dhcp_fingerprint_id": 66,
+    "device_id": 41,
+    "satori_name": "Cisco IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,42,66,150"
+  },
+  {
+    "dhcp_fingerprint_id": 1014,
+    "device_id": 41,
+    "satori_name": "Cisco IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,3,15,150,35"
+  },
+  {
+    "dhcp_fingerprint_id": 45415,
+    "device_id": 41,
+    "satori_name": "Cisco Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,28,3,6,15,67,4,7"
+  },
+  {
+    "dhcp_fingerprint_id": 1394,
+    "device_id": 41,
+    "satori_name": "Cisco Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,6,15,44,3,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 19348,
+    "device_id": 41,
+    "satori_name": "Cisco Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,15,44,3,67,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1856,
+    "device_id": 41,
+    "satori_name": "Cisco Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Cisco Systems, Inc.",
+    "dhcp_option55": "1,66,6,15,44,3,67,12,33,150,43"
+  },
+  {
+    "dhcp_fingerprint_id": 56314,
+    "device_id": 50,
+    "satori_name": "Clipcomm IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Clipcomm, Inc.",
+    "dhcp_option55": "1,3,6,15,44,46,47,31,33,43"
+  },
+  {
+    "dhcp_fingerprint_id": 60445,
+    "device_id": 82,
+    "satori_name": "Compex Wireless Access Point",
+    "device_type": "Wireless Router",
+    "device_vendor": "Compex Systems Pte, Ltd. ",
+    "dhcp_option55": "1,3,15,6,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 450,
+    "device_id": 15692,
+    "satori_name": "Crestron",
+    "device_type": "",
+    "device_vendor": "https://www.crestron.com/",
+    "dhcp_option55": "1,33,3,6,15,28,51,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": null,
+    "satori_name": "DD-WRT Router",
+    "device_type": "Wireless Router",
+    "device_vendor": "DD-WRT",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 71752,
+    "device_id": 117,
+    "satori_name": "Debian 12.5",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,6,12,15,26,28,121,3,33,40,41,42,119,249,252,17"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 117,
+    "satori_name": "Debian 3.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 117,
+    "satori_name": "Debian 3.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 11375,
+    "device_id": 117,
+    "satori_name": "Debian 4 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 11375,
+    "device_id": 117,
+    "satori_name": "Debian 4 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 117,
+    "satori_name": "Debian 5",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 117,
+    "satori_name": "Debian 5",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 117,
+    "satori_name": "Debian 6",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 117,
+    "satori_name": "Debian 6",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 117,
+    "satori_name": "Debian 7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 117,
+    "satori_name": "Debian 7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 715,
+    "device_id": 117,
+    "satori_name": "Debian GNU/Linux 8 (jessie)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,1,252,42,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 715,
+    "device_id": 117,
+    "satori_name": "Debian GNU/Linux 8 (jessie)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,1,252,42,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 117,
+    "satori_name": "Debian-based Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 248,
+    "device_id": 117,
+    "satori_name": "Debian-based Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,42"
+  },
+  {
+    "dhcp_fingerprint_id": 56423,
+    "device_id": 117,
+    "satori_name": "Debian-based Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 117,
+    "satori_name": "Debian-based Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 11375,
+    "device_id": 117,
+    "satori_name": "Debian-based Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 362,
+    "device_id": 160,
+    "satori_name": "Dell C1760nw Color Printer",
+    "device_type": "Printer",
+    "device_vendor": "Dell, Inc.",
+    "dhcp_option55": "1,2,3,6,12,15,26,28,88,44,45,46,47,70,69,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 43556,
+    "device_id": 160,
+    "satori_name": "Dell iDrac",
+    "device_type": "",
+    "device_vendor": "Dell, Inc.",
+    "dhcp_option55": "1,3,6,12,15,28,42,43,121,249"
+  },
+  {
+    "dhcp_fingerprint_id": 362,
+    "device_id": 160,
+    "satori_name": "Dell Printer",
+    "device_type": "Printer",
+    "device_vendor": "Dell, Inc.",
+    "dhcp_option55": "1,2,3,6,12,15,26,28,88,44,45,46,47,70,69,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 193,
+    "device_id": 44,
+    "satori_name": "D-Link Wireless Router",
+    "device_type": "Wireless Router",
+    "device_vendor": "D-Link Systems, Inc.",
+    "dhcp_option55": "1,3,6,12,15,66,69,70,67"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "DSL 4.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "DSL 4.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 14837,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 2610/2620/2650/2660",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,28,3,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 14837,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 2610/2620/2650/2660",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,28,3,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 11878,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 2630/2640",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,28,3"
+  },
+  {
+    "dhcp_fingerprint_id": 11878,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 2630/2640",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,28,3"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 3610/3620",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless Access Point 3610/3620",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 56629,
+    "device_id": 99,
+    "satori_name": "Enterasys HiPath Wireless C20N Controller",
+    "device_type": "Wireless Controller",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "78"
+  },
+  {
+    "dhcp_fingerprint_id": 11352,
+    "device_id": 99,
+    "satori_name": "Enterasys Matrix N-Series DFE-G/P/D",
+    "device_type": "Switch",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,44,46,47,6"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1002-EU Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1002-EU Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1602 Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1602 Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1602C Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-1602C Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-4102C-EU Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-4102C-EU Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-4102-EU Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 292,
+    "device_id": 99,
+    "satori_name": "Enterasys RBT-8200 Wireless Controller",
+    "device_type": "Wireless Controller",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "1,3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 412,
+    "device_id": 99,
+    "satori_name": "Enterasys SecureStack A2",
+    "device_type": "Switch",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "3,1"
+  },
+  {
+    "dhcp_fingerprint_id": 412,
+    "device_id": 99,
+    "satori_name": "Enterasys SecureStack B2/B3/C2/C3",
+    "device_type": "Switch",
+    "device_vendor": "Enterasys Networks, Inc.",
+    "dhcp_option55": "3,1"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 164,
+    "satori_name": "Epson Printer",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 375,
+    "device_id": 164,
+    "satori_name": "Epson Printer",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,51,54,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 375,
+    "device_id": 164,
+    "satori_name": "Epson Printer",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,51,54,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 425,
+    "device_id": 164,
+    "satori_name": "Epson Printer",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,17,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 425,
+    "device_id": 164,
+    "satori_name": "Epson Printer",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,17,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 425,
+    "device_id": 164,
+    "satori_name": "Epson Workforce 845",
+    "device_type": "Printer",
+    "device_vendor": "Seiko Epson Corp.",
+    "dhcp_option55": "1,3,6,12,15,17,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 11658,
+    "device_id": 240,
+    "satori_name": "Etherboot/gPXE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 54926,
+    "device_id": 240,
+    "satori_name": "Etherboot/gPXE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,12,43"
+  },
+  {
+    "dhcp_fingerprint_id": 11658,
+    "device_id": 240,
+    "satori_name": "Etherboot/gPXE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2719,
+    "device_id": 21574,
+    "satori_name": "Extron MLC 226 IP",
+    "device_type": "Media Link Controller",
+    "device_vendor": "Extron",
+    "dhcp_option55": "1,3,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 489,
+    "device_id": null,
+    "satori_name": "Eye-Fi Wireless Memory Card",
+    "device_type": "Miscellaneous",
+    "device_vendor": "EyeFi, Inc.",
+    "dhcp_option55": "1,3,28,6"
+  },
+  {
+    "dhcp_fingerprint_id": 489,
+    "device_id": null,
+    "satori_name": "Eye-Fi Wireless Memory Card",
+    "device_type": "Miscellaneous",
+    "device_vendor": "EyeFi, Inc.",
+    "dhcp_option55": "1,3,28,6"
+  },
+  {
+    "dhcp_fingerprint_id": 1163,
+    "device_id": 120,
+    "satori_name": "Fedora 13 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42,26"
+  },
+  {
+    "dhcp_fingerprint_id": 1163,
+    "device_id": 120,
+    "satori_name": "Fedora 13 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42,26"
+  },
+  {
+    "dhcp_fingerprint_id": 283,
+    "device_id": 120,
+    "satori_name": "Fedora 14 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,15,6,12,40,41,42,26,119,3"
+  },
+  {
+    "dhcp_fingerprint_id": 283,
+    "device_id": 120,
+    "satori_name": "Fedora 14 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,15,6,12,40,41,42,26,119,3"
+  },
+  {
+    "dhcp_fingerprint_id": 287,
+    "device_id": 120,
+    "satori_name": "Fedora 15-16 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 287,
+    "device_id": 120,
+    "satori_name": "Fedora 15-16 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,15,6,12,40,41,42,26,119,3,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 266,
+    "device_id": 120,
+    "satori_name": "Fedora 3-8 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 266,
+    "device_id": 120,
+    "satori_name": "Fedora 3-8 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 266,
+    "device_id": 120,
+    "satori_name": "Fedora 9-12 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 266,
+    "device_id": 120,
+    "satori_name": "Fedora 9-12 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 19930,
+    "satori_name": "Fluke OneTouch Series II 10/100",
+    "device_type": "Network Diagnostics",
+    "device_vendor": "Fluke Electronics",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 19930,
+    "satori_name": "Fluke OneTouch Series II 10/100",
+    "device_type": "Network Diagnostics",
+    "device_vendor": "Fluke Electronics",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 19930,
+    "satori_name": "Fluke OptiView Series III",
+    "device_type": "Network Diagnostics",
+    "device_vendor": "Fluke Electronics",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 19930,
+    "satori_name": "Fluke OptiView Series III",
+    "device_type": "Network Diagnostics",
+    "device_vendor": "Fluke Electronics",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": null,
+    "satori_name": "FluorChem",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 1968,
+    "device_id": 33740,
+    "satori_name": "FortiGate 30D",
+    "device_type": "Firewall",
+    "device_vendor": "Fortinet",
+    "dhcp_option55": "1,2,3,6,12,15,28,40,42"
+  },
+  {
+    "dhcp_fingerprint_id": 48598,
+    "device_id": 33740,
+    "satori_name": "FortiGate 60F",
+    "device_type": "Firewall",
+    "device_vendor": "Fortinet",
+    "dhcp_option55": "1,2,3,6,12,15,28,40,42,240,241"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 230,
+    "satori_name": "FreeBSD 6.0-6.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 230,
+    "satori_name": "FreeBSD 6.0-6.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 6.3-6.4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 6.3-6.4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.1 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.1 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": 230,
+    "satori_name": "FreeBSD 7.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": null,
+    "satori_name": "FreeNAS 0.7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 44651,
+    "device_id": 137,
+    "satori_name": "GameCube",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "3,6,26,28,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 30841,
+    "device_id": 89,
+    "satori_name": "Gemtek Wireless Router",
+    "device_type": "Wireless Router",
+    "device_vendor": "Gemtek Technology Co., Ltd.",
+    "dhcp_option55": "1,28,2,3,15,6,12,4,7,23,26,43,50,51,54,55,60,61,72"
+  },
+  {
+    "dhcp_fingerprint_id": 385,
+    "device_id": 118,
+    "satori_name": "Generic Printer",
+    "device_type": "Printer",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,7,12,15,18,23,26,44,46,51,54,58,59,78,79,81"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 121,
+    "satori_name": "Gentoo 2004.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 121,
+    "satori_name": "Gentoo 2004.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 121,
+    "satori_name": "Gentoo 2005.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 121,
+    "satori_name": "Gentoo 2005.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2006.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2006.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2006.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2006.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2007.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 121,
+    "satori_name": "Gentoo 2007.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 641,
+    "device_id": 121,
+    "satori_name": "Gentoo 2008.0 R1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "6"
+  },
+  {
+    "dhcp_fingerprint_id": 6929,
+    "device_id": 71,
+    "satori_name": "Grandstream GXP1405",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Grandstream",
+    "dhcp_option55": "1,3,6,12,15,28,43,125"
+  },
+  {
+    "dhcp_fingerprint_id": 6929,
+    "device_id": 71,
+    "satori_name": "Grandstream GXP1405",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Grandstream",
+    "dhcp_option55": "1,3,6,12,15,28,43,125"
+  },
+  {
+    "dhcp_fingerprint_id": 49786,
+    "device_id": 78790,
+    "satori_name": "Haiku",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,15"
+  },
+  {
+    "dhcp_fingerprint_id": 49786,
+    "device_id": 78790,
+    "satori_name": "Haiku",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,28,15"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 3410,
+    "satori_name": "Hakin9 Live 2.8",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 3410,
+    "satori_name": "Hakin9 Live 2.8",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 20566,
+    "satori_name": "HELLA Aglaia People Sensor",
+    "device_type": "Sensor",
+    "device_vendor": "Hella Aglaia",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 1126,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard iLO Agent",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,6,15,28,33,43,44,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 59358,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard iLO Agent",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "202"
+  },
+  {
+    "dhcp_fingerprint_id": 59668,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard iLO Agent",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "203"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard iLO Agent (Not Configured)",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 2028,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (5205FE)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,42,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 322,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (CB472A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,43,119"
+  },
+  {
+    "dhcp_fingerprint_id": 2028,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (CF287A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,42,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 2028,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (CF287A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,42,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 329,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J311xA/J32xxx)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,7,44,51,54,58,59,12,15,144,18"
+  },
+  {
+    "dhcp_fingerprint_id": 329,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J311xA/J32xxx)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,7,44,51,54,58,59,12,15,144,18"
+  },
+  {
+    "dhcp_fingerprint_id": 11816,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J4169A/J6035D/J6038A/J6057A/J7934x/J7949E/J7957A-7959A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,18,144"
+  },
+  {
+    "dhcp_fingerprint_id": 319,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J4169A/J6035D/J6038A/J6057A/J7934x/J7949E/J7957A-7959A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,144"
+  },
+  {
+    "dhcp_fingerprint_id": 319,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J6035A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,144"
+  },
+  {
+    "dhcp_fingerprint_id": 319,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J7973E)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,144"
+  },
+  {
+    "dhcp_fingerprint_id": 319,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J7973E)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,144"
+  },
+  {
+    "dhcp_fingerprint_id": 323,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (J8017E)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,43,119,154"
+  },
+  {
+    "dhcp_fingerprint_id": 321,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard JetDirect (Q7545A)",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,44,6,7,12,15,22,54,58,59,69,18,43"
+  },
+  {
+    "dhcp_fingerprint_id": 522,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard LaserJet P2015 Printer Series",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,66,67,13,44"
+  },
+  {
+    "dhcp_fingerprint_id": 37694,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard Printer",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "54,44,6,7,12,15,22,69,18,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 42460,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard Printer MFP",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "54,44,6,7,12,15,22,69,18,119"
+  },
+  {
+    "dhcp_fingerprint_id": 550,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard Printer MFP M425dn",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 550,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard Printer MFP M425dn",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 1712,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard Procurve",
+    "device_type": "Switch",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,4,23,67"
+  },
+  {
+    "dhcp_fingerprint_id": 1439,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard ProCurve AP",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,28,2,3,15,6,12,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1439,
+    "device_id": 16882,
+    "satori_name": "Hewlett-Packard ProCurve AP",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,28,2,3,15,6,12,43"
+  },
+  {
+    "dhcp_fingerprint_id": 418,
+    "device_id": 185,
+    "satori_name": "Hotway LanDrive",
+    "device_type": "NAS",
+    "device_vendor": "Hotway",
+    "dhcp_option55": "1,3,6,15,28"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": null,
+    "satori_name": "HP iPAQ",
+    "device_type": "PDA",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 85894,
+    "device_id": 112449,
+    "satori_name": "HP Jetdirect",
+    "device_type": "Printer",
+    "device_vendor": "HP",
+    "dhcp_option55": "1,3,44,6,7,12,15,54,58,59,69,119,81"
+  },
+  {
+    "dhcp_fingerprint_id": 85894,
+    "device_id": 112449,
+    "satori_name": "HP Jetdirect",
+    "device_type": "Printer",
+    "device_vendor": "HP",
+    "dhcp_option55": "1,3,44,6,7,12,15,54,58,59,69,119,81"
+  },
+  {
+    "dhcp_fingerprint_id": 2028,
+    "device_id": 16421,
+    "satori_name": "HP LaserJet",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,12,44,81,69,42,43,18,66,67,150,7"
+  },
+  {
+    "dhcp_fingerprint_id": 335,
+    "device_id": 16421,
+    "satori_name": "HP LaserJet",
+    "device_type": "Printer",
+    "device_vendor": "Hewlett-Packard",
+    "dhcp_option55": "6,3,1,15,44,12"
+  },
+  {
+    "dhcp_fingerprint_id": 56055,
+    "device_id": null,
+    "satori_name": "iDRAC",
+    "device_type": "",
+    "device_vendor": "Dell",
+    "dhcp_option55": "1,3,15,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 32951,
+    "device_id": null,
+    "satori_name": "iDRAC",
+    "device_type": "",
+    "device_vendor": "Dell",
+    "dhcp_option55": "43"
+  },
+  {
+    "dhcp_fingerprint_id": 2288,
+    "device_id": 265,
+    "satori_name": "iPad 12.1",
+    "device_type": "Multimedia Device",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,121,3,6,15,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 2288,
+    "device_id": 265,
+    "satori_name": "iPad 13.5",
+    "device_type": "Multimedia Device",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,121,3,6,15,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 2288,
+    "device_id": 265,
+    "satori_name": "iPad 13.5",
+    "device_type": "Multimedia Device",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,121,3,6,15,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 428,
+    "device_id": 264,
+    "satori_name": "iPhone/iPod touch/iPad",
+    "device_type": "Multimedia Device",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,3,6,15,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 428,
+    "device_id": 264,
+    "satori_name": "iPhone/iPod touch/iPad",
+    "device_type": "Multimedia Device",
+    "device_vendor": "Apple, Inc.",
+    "dhcp_option55": "1,3,6,15,119,252"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 9419,
+    "satori_name": "Kindle 1G",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 9419,
+    "satori_name": "Kindle 1G",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.10.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.10.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.12.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.12.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.3.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 9419,
+    "satori_name": "Kindle Firmware 5.3.x",
+    "device_type": "eBook Reader",
+    "device_vendor": "Amazon",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 927,
+    "device_id": 122,
+    "satori_name": "Knoppix",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,51,44"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": 122,
+    "satori_name": "Knoppix 3.6-3.7 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": 122,
+    "satori_name": "Knoppix 3.6-3.7 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": 122,
+    "satori_name": "Knoppix 3.8-4.02 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": 122,
+    "satori_name": "Knoppix 3.8-4.02 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 7521,
+    "device_id": 122,
+    "satori_name": "Knoppix 5.0.1-5.3 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49,26"
+  },
+  {
+    "dhcp_fingerprint_id": 7521,
+    "device_id": 122,
+    "satori_name": "Knoppix 5.0.1-5.3 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49,26"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 122,
+    "satori_name": "Knoppix 6.0 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 122,
+    "satori_name": "Knoppix 6.0 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 1324,
+    "device_id": 163,
+    "satori_name": "Kyocera FS-1028MFP",
+    "device_type": "Scanner",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,15,6,44"
+  },
+  {
+    "dhcp_fingerprint_id": 1324,
+    "device_id": 163,
+    "satori_name": "Kyocera FS-1028MFP",
+    "device_type": "Scanner",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,15,6,44"
+  },
+  {
+    "dhcp_fingerprint_id": 370,
+    "device_id": 163,
+    "satori_name": "Kyocera KM-XXXX",
+    "device_type": "Scanner",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,12,23,6,15,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 370,
+    "device_id": 163,
+    "satori_name": "Kyocera KM-XXXX",
+    "device_type": "Scanner",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,12,23,6,15,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 60448,
+    "device_id": 163,
+    "satori_name": "Kyocera Printer",
+    "device_type": "Printer",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,12,6,15,23,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 370,
+    "device_id": 163,
+    "satori_name": "Kyocera Printer",
+    "device_type": "Printer",
+    "device_vendor": "Kyocera Mita Corp.",
+    "dhcp_option55": "1,3,12,23,6,15,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 1716,
+    "device_id": 165,
+    "satori_name": "Lexmark MFP Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,42,4,6,7,12,15,26,44,51,54,58,59,190"
+  },
+  {
+    "dhcp_fingerprint_id": 8740,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,6,12,15,28,42,40,38,23,37,44,39,19,26"
+  },
+  {
+    "dhcp_fingerprint_id": 60471,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,4,42,6,7,12,15,26,44,51,54,58,59,190"
+  },
+  {
+    "dhcp_fingerprint_id": 54116,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,7,12,26,44,51,54,58,59,190"
+  },
+  {
+    "dhcp_fingerprint_id": 60456,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,7,12,26,44,51,54,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 1716,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,42,4,6,7,12,15,26,44,51,54,58,59,190"
+  },
+  {
+    "dhcp_fingerprint_id": 11392,
+    "device_id": 165,
+    "satori_name": "Lexmark Printer",
+    "device_type": "Printer",
+    "device_vendor": "Lexmark International, Inc.",
+    "dhcp_option55": "1,3,42,4,6,7,12,26,44,51,54,58,59,190"
+  },
+  {
+    "dhcp_fingerprint_id": 248,
+    "device_id": 228,
+    "satori_name": "LifeSize Room",
+    "device_type": "Video Conferencing",
+    "device_vendor": "LifeSize Communications, Inc.",
+    "dhcp_option55": "1,28,2,3,15,6,12,42"
+  },
+  {
+    "dhcp_fingerprint_id": 1041,
+    "device_id": 228,
+    "satori_name": "LifeSize Room",
+    "device_type": "Video Conferencing",
+    "device_vendor": "LifeSize Communications, Inc.",
+    "dhcp_option55": "1,28,2,3,15,6,12,42,157"
+  },
+  {
+    "dhcp_fingerprint_id": 1664,
+    "device_id": 44,
+    "satori_name": "Linksys PAP2/PAP2T",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,66"
+  },
+  {
+    "dhcp_fingerprint_id": 1664,
+    "device_id": 44,
+    "satori_name": "Linksys PAP2/PAP2T",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,66"
+  },
+  {
+    "dhcp_fingerprint_id": 166,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,6,12,15,28"
+  },
+  {
+    "dhcp_fingerprint_id": 171,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,6,15,28,54"
+  },
+  {
+    "dhcp_fingerprint_id": 164,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,28,2,3,15,6,12,4,7,23,26,43,50,51,54,55,60,61"
+  },
+  {
+    "dhcp_fingerprint_id": 60434,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,28,2,3,15,6,12,4,7,23,26,43,50,51,54,55,60,72"
+  },
+  {
+    "dhcp_fingerprint_id": 51255,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,6,12,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 1149,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,15,3,6,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 60469,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,15,3,6,44,46,47,1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 26777,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,15,3,6,44,46,47,66,1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 168,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,6,12,15,28,44"
+  },
+  {
+    "dhcp_fingerprint_id": 60444,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "15,3,6,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 173,
+    "device_id": 44,
+    "satori_name": "Linksys Router",
+    "device_type": "Router",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "6,3,1"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 5,
+    "satori_name": "Linux 2.0.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 5,
+    "satori_name": "Linux 2.0.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 3296,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 3296,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 5,
+    "satori_name": "Linux 2.2.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42589,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,200,44"
+  },
+  {
+    "dhcp_fingerprint_id": 3296,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 43521,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,40"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42589,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,200,44"
+  },
+  {
+    "dhcp_fingerprint_id": 3296,
+    "device_id": 5,
+    "satori_name": "Linux 2.4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42589,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,200,44"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42589,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,200,44"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": 5,
+    "satori_name": "Linux 2.6.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 5,
+    "satori_name": "Linux Mint Debian",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 5,
+    "satori_name": "Linux Mint Debian",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 8589,
+    "device_id": null,
+    "satori_name": "Mac OS 9.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,33,42,44,45,46,47,69,70,71,74,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 8589,
+    "device_id": null,
+    "satori_name": "Mac OS 9.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,33,42,44,45,46,47,69,70,71,74,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 27264,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95,252,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 56274,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,6,15,112,113,78,79,95,252,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 56273,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,112,113,78,79,95,252"
+  },
+  {
+    "dhcp_fingerprint_id": 56272,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 56271,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,6,15,112,113,78,79,95,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 45,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95,252"
+  },
+  {
+    "dhcp_fingerprint_id": 45,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95,252"
+  },
+  {
+    "dhcp_fingerprint_id": 56269,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,6,15,112,113,78,79,95,252"
+  },
+  {
+    "dhcp_fingerprint_id": 50,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,95,252,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 50,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,95,252,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 50,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,95,252,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 8592,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95"
+  },
+  {
+    "dhcp_fingerprint_id": 8592,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79,95"
+  },
+  {
+    "dhcp_fingerprint_id": 55122,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,12,6,15,112,113,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 56270,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3,6,15,112,113,78,79,95"
+  },
+  {
+    "dhcp_fingerprint_id": 24649,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,112,113,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 42590,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "60,43"
+  },
+  {
+    "dhcp_fingerprint_id": 37891,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "43,60"
+  },
+  {
+    "dhcp_fingerprint_id": 60,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,95,252,44,46"
+  },
+  {
+    "dhcp_fingerprint_id": 60,
+    "device_id": null,
+    "satori_name": "Mac OS X",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,119,95,252,44,46"
+  },
+  {
+    "dhcp_fingerprint_id": 9721,
+    "device_id": null,
+    "satori_name": "Mag 522",
+    "device_type": "IPTV",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 284,
+    "device_id": 5587,
+    "satori_name": "Mandriva 2011",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 1023,
+    "device_id": 45,
+    "satori_name": "Mediatrix VoIP Adapter",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "Mediatrix Telecom",
+    "dhcp_option55": "1,3,6,12,15,42,43"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 112,
+    "satori_name": "Meraki Indoor",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Meraki",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 6321,
+    "device_id": 62,
+    "satori_name": "Mitel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Mitel Corp.",
+    "dhcp_option55": "1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43"
+  },
+  {
+    "dhcp_fingerprint_id": 6321,
+    "device_id": 62,
+    "satori_name": "Mitel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Mitel Corp.",
+    "dhcp_option55": "1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,224,138,125,43"
+  },
+  {
+    "dhcp_fingerprint_id": 59324,
+    "device_id": 62,
+    "satori_name": "Mitel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Mitel Corp.",
+    "dhcp_option55": "1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,138,125,43"
+  },
+  {
+    "dhcp_fingerprint_id": 59324,
+    "device_id": 62,
+    "satori_name": "Mitel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Mitel Corp.",
+    "dhcp_option55": "1,3,6,12,42,44,51,54,58,59,128,66,120,129,130,131,132,133,134,135,138,125,43"
+  },
+  {
+    "dhcp_fingerprint_id": 1607,
+    "device_id": 261,
+    "satori_name": "Moneris HiSpeed 3100IP",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Moneris Solutions",
+    "dhcp_option55": "1,3,6,15,70,69"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 38505,
+    "satori_name": "Morse Watchman Keywatch",
+    "device_type": "Key Lock Box",
+    "device_vendor": "Morse Watchman",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 38505,
+    "satori_name": "Morse Watchman Keywatch",
+    "device_type": "Key Lock Box",
+    "device_vendor": "Morse Watchman",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 60474,
+    "device_id": 92,
+    "satori_name": "Motorola NIM100",
+    "device_type": "DVR",
+    "device_vendor": "Motorola, Inc.",
+    "dhcp_option55": "1,3,6,15,23,51,54"
+  },
+  {
+    "dhcp_fingerprint_id": 47005,
+    "device_id": 92,
+    "satori_name": "Motorola Router",
+    "device_type": "Router",
+    "device_vendor": "Motorola, Inc.",
+    "dhcp_option55": "1,28,1,3,6,4"
+  },
+  {
+    "dhcp_fingerprint_id": 60472,
+    "device_id": 254,
+    "satori_name": "Neoware Capio Thin Client (Windows CE)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,44,46,47,137,215,224,226"
+  },
+  {
+    "dhcp_fingerprint_id": 60472,
+    "device_id": 254,
+    "satori_name": "Neoware Capio Thin Client (Windows CE)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,44,46,47,137,215,224,226"
+  },
+  {
+    "dhcp_fingerprint_id": 59668,
+    "device_id": 254,
+    "satori_name": "Neoware Capio Thin Client (Windows CE)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "203"
+  },
+  {
+    "dhcp_fingerprint_id": 60464,
+    "device_id": 254,
+    "satori_name": "Neoware Capio Thin Client (Windows CE)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,44,46,47,137,215"
+  },
+  {
+    "dhcp_fingerprint_id": 42731,
+    "device_id": 254,
+    "satori_name": "Neoware e100 Thin Client (NeoLinux)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49,137,211,212,213,214,219"
+  },
+  {
+    "dhcp_fingerprint_id": 42731,
+    "device_id": 254,
+    "satori_name": "Neoware e100 Thin Client (NeoLinux)",
+    "device_type": "Thin Client",
+    "device_vendor": "Neoware Systems, Inc.",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49,137,211,212,213,214,219"
+  },
+  {
+    "dhcp_fingerprint_id": 53056,
+    "device_id": 220,
+    "satori_name": "NetBotz WallBotz 400C",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Netbotz",
+    "dhcp_option55": "1,3,6,15,12,69,70,88,42"
+  },
+  {
+    "dhcp_fingerprint_id": 11322,
+    "device_id": 220,
+    "satori_name": "NetBotz WallBotz 420E",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Netbotz",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119,43"
+  },
+  {
+    "dhcp_fingerprint_id": 11322,
+    "device_id": 220,
+    "satori_name": "NetBotz WallBotz 500",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Netbotz",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119,43"
+  },
+  {
+    "dhcp_fingerprint_id": 9,
+    "device_id": 84,
+    "satori_name": "NETGEAR FVS114",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 84,
+    "satori_name": "NETGEAR FVS114",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 11486,
+    "device_id": 84,
+    "satori_name": "NETGEAR Router",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 4196,
+    "device_id": 84,
+    "satori_name": "NETGEAR Router",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "3,1,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 4196,
+    "device_id": 84,
+    "satori_name": "NETGEAR WGR614v6",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "3,1,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 4196,
+    "device_id": 84,
+    "satori_name": "NETGEAR WGR614v6",
+    "device_type": "Router",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "3,1,6,15,12"
+  },
+  {
+    "dhcp_fingerprint_id": 1626,
+    "device_id": 84,
+    "satori_name": "NETGEAR WGT624v4",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,12,15,28,33,44,121"
+  },
+  {
+    "dhcp_fingerprint_id": 1626,
+    "device_id": 84,
+    "satori_name": "NETGEAR WNDR3000",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,12,15,28,33,44,121"
+  },
+  {
+    "dhcp_fingerprint_id": 1626,
+    "device_id": 84,
+    "satori_name": "NETGEAR WNDR3000",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,12,15,28,33,44,121"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 84,
+    "satori_name": "NETGEAR WNR854T",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 84,
+    "satori_name": "NETGEAR WNR854T",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "NETGEAR",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 137,
+    "satori_name": "Nintendo DS",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 137,
+    "satori_name": "Nintendo DS",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 137,
+    "satori_name": "Nintendo Switch",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 137,
+    "satori_name": "Nintendo Switch",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 12042,
+    "device_id": 78766,
+    "satori_name": "NodeMCU - ESP8266",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,28,6,15,44,46,47,31,33,121,43"
+  },
+  {
+    "dhcp_fingerprint_id": 12042,
+    "device_id": 78766,
+    "satori_name": "NodeMCU - ESP8266",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,28,6,15,44,46,47,31,33,121,43"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 191,
+    "satori_name": "Nokia 6086 UMA",
+    "device_type": "Smartphone",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 426,
+    "device_id": 191,
+    "satori_name": "Nokia 6086 UMA",
+    "device_type": "Smartphone",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,28"
+  },
+  {
+    "dhcp_fingerprint_id": 433,
+    "device_id": 191,
+    "satori_name": "Nokia E-Series",
+    "device_type": "Phone",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "12,6,15,1,3,28,120"
+  },
+  {
+    "dhcp_fingerprint_id": 433,
+    "device_id": 191,
+    "satori_name": "Nokia E-Series",
+    "device_type": "Phone",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "12,6,15,1,3,28,120"
+  },
+  {
+    "dhcp_fingerprint_id": 166,
+    "device_id": 191,
+    "satori_name": "Nokia Internet Tablet",
+    "device_type": "PDA",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,12,15,28"
+  },
+  {
+    "dhcp_fingerprint_id": 166,
+    "device_id": 191,
+    "satori_name": "Nokia Internet Tablet",
+    "device_type": "PDA",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,12,15,28"
+  },
+  {
+    "dhcp_fingerprint_id": 425,
+    "device_id": 191,
+    "satori_name": "Nokia Internet Tablet",
+    "device_type": "PDA",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,12,15,17,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 425,
+    "device_id": 191,
+    "satori_name": "Nokia Internet Tablet",
+    "device_type": "PDA",
+    "device_vendor": "Nokia",
+    "dhcp_option55": "1,3,6,12,15,17,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42976,
+    "device_id": 67,
+    "satori_name": "Nortel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Nortel Networks",
+    "dhcp_option55": "1,28,1,3"
+  },
+  {
+    "dhcp_fingerprint_id": 11878,
+    "device_id": 67,
+    "satori_name": "Nortel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Nortel Networks",
+    "dhcp_option55": "1,28,3"
+  },
+  {
+    "dhcp_fingerprint_id": 22314,
+    "device_id": 67,
+    "satori_name": "Nortel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Nortel Networks",
+    "dhcp_option55": "51,58,59,1,3,43,128,144,157,191,251"
+  },
+  {
+    "dhcp_fingerprint_id": 56316,
+    "device_id": 67,
+    "satori_name": "Nortel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Nortel Networks",
+    "dhcp_option55": "1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 13146,
+    "device_id": 67,
+    "satori_name": "Nortel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Nortel Networks",
+    "dhcp_option55": "1,28,3,43,128,131,144,157,188,191,205,219,223,232,247,251,58,59,66"
+  },
+  {
+    "dhcp_fingerprint_id": 42454,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "78,79,85"
+  },
+  {
+    "dhcp_fingerprint_id": 510,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "85,86,87"
+  },
+  {
+    "dhcp_fingerprint_id": 42757,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "100"
+  },
+  {
+    "dhcp_fingerprint_id": 57336,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "85"
+  },
+  {
+    "dhcp_fingerprint_id": 60467,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "85,86"
+  },
+  {
+    "dhcp_fingerprint_id": 44326,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 42782,
+    "device_id": 119,
+    "satori_name": "Novell NetWare Client",
+    "device_type": "Miscellaneous",
+    "device_vendor": "Novell, Inc.",
+    "dhcp_option55": "79,78"
+  },
+  {
+    "dhcp_fingerprint_id": 32951,
+    "device_id": 26790,
+    "satori_name": "Nutanix",
+    "device_type": "Key Lock Box",
+    "device_vendor": "Morse Watchman",
+    "dhcp_option55": "43"
+  },
+  {
+    "dhcp_fingerprint_id": 72744,
+    "device_id": 26790,
+    "satori_name": "Nutanix",
+    "device_type": "Key Lock Box",
+    "device_vendor": "Morse Watchman",
+    "dhcp_option55": "43,1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 1011,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.1.10)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,121"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.1.10)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 1011,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.1.10)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,121"
+  },
+  {
+    "dhcp_fingerprint_id": 1011,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.2.1)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,121"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.2.1)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 1011,
+    "device_id": 20488,
+    "satori_name": "Onion Omega2 (0.2.1)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,121"
+  },
+  {
+    "dhcp_fingerprint_id": 6181,
+    "device_id": 229,
+    "satori_name": "OpenBSD 3.8",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 6181,
+    "device_id": 229,
+    "satori_name": "OpenBSD 3.8",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 6181,
+    "device_id": 229,
+    "satori_name": "OpenBSD 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 6181,
+    "device_id": 229,
+    "satori_name": "OpenBSD 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 27576,
+    "device_id": 229,
+    "satori_name": "OpenBSD 6.7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,119,6,12,67,66"
+  },
+  {
+    "dhcp_fingerprint_id": 27576,
+    "device_id": 229,
+    "satori_name": "OpenBSD 6.7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,119,6,12,67,66"
+  },
+  {
+    "dhcp_fingerprint_id": 4211,
+    "device_id": 250,
+    "satori_name": "OpenSolaris 2008.11 - 2010.02",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,43"
+  },
+  {
+    "dhcp_fingerprint_id": 4211,
+    "device_id": 250,
+    "satori_name": "OpenSolaris 2008.11 - 2010.02",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,43"
+  },
+  {
+    "dhcp_fingerprint_id": 893,
+    "device_id": null,
+    "satori_name": "openSUSE 12.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,121,26,12,15,119,6,40,41,87,85,86,44,45,46,47,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 893,
+    "device_id": null,
+    "satori_name": "openSUSE 12.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,3,121,26,12,15,119,6,40,41,87,85,86,44,45,46,47,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 76371,
+    "satori_name": "OpenWRT Chaos Calmer 15.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": 76371,
+    "satori_name": "OpenWRT Chaos Calmer 15.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 496,
+    "device_id": null,
+    "satori_name": "OS/2 Warp",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,33"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.2-1.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.2-1.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.5",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": null,
+    "satori_name": "PC-BSD 1.5",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": null,
+    "satori_name": "PC-BSD 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 424,
+    "device_id": null,
+    "satori_name": "PC-BSD 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,121,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 44969,
+    "satori_name": "PCLinuxOS 2007-2008",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 44969,
+    "satori_name": "PCLinuxOS 2007-2008",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 292,
+    "device_id": 139,
+    "satori_name": "PlayStation 2",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "1,3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 50043,
+    "device_id": 139,
+    "satori_name": "PlayStation 2",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 296,
+    "device_id": 139,
+    "satori_name": "PlayStation 3",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "1,3,28,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 292,
+    "device_id": 139,
+    "satori_name": "PlayStation 3",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "1,3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 292,
+    "device_id": 139,
+    "satori_name": "PlayStation 4",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "1,3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 292,
+    "device_id": 139,
+    "satori_name": "PlayStation 5",
+    "device_type": "Game Console",
+    "device_vendor": "Sony Corp.",
+    "dhcp_option55": "1,3,15,6"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": null,
+    "satori_name": "PogoPlug",
+    "device_type": "NAS",
+    "device_vendor": "Adorama",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 73259,
+    "device_id": 63,
+    "satori_name": "Polycom Studio X70",
+    "device_type": "Video Phone",
+    "device_vendor": "Polycom, Inc.",
+    "dhcp_option55": "1,33,3,6,15,28,42,51,58,59,66,160"
+  },
+  {
+    "dhcp_fingerprint_id": 1762,
+    "device_id": 63,
+    "satori_name": "Polycom Video Phone (VSX 3000A)",
+    "device_type": "Video Phone",
+    "device_vendor": "Polycom, Inc.",
+    "dhcp_option55": "1,3,6,15,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 60447,
+    "device_id": 63,
+    "satori_name": "Polycom ViewStation",
+    "device_type": "Video Conferencing",
+    "device_vendor": "Polycom, Inc.",
+    "dhcp_option55": "6,1,3,12,44"
+  },
+  {
+    "dhcp_fingerprint_id": 270,
+    "device_id": null,
+    "satori_name": "Porteus 1.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 641,
+    "device_id": 124,
+    "satori_name": "Puppy Linux 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "6"
+  },
+  {
+    "dhcp_fingerprint_id": 11244,
+    "device_id": 124,
+    "satori_name": "Puppy Linux 4.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "58,59,1,28,121,33,3,12,119,15,6,40,41,42,26,17,120"
+  },
+  {
+    "dhcp_fingerprint_id": 501,
+    "device_id": 21,
+    "satori_name": "PXE Client",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,5,6,11,12,13,15,16,17,18,43,54,60,67,128,129,130,131,132,133,134,135"
+  },
+  {
+    "dhcp_fingerprint_id": 501,
+    "device_id": 21,
+    "satori_name": "PXE Client",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,5,6,11,12,13,15,16,17,18,43,54,60,67,128,129,130,131,132,133,134,135"
+  },
+  {
+    "dhcp_fingerprint_id": 499,
+    "device_id": 21,
+    "satori_name": "PXE Client (ZEN)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,4,5,6,11,12,13,15,16,17,18,22,23,28,40,41,42,43,50,51,54,58,59,60,66,67,128,129,130,131,132,133,134,135"
+  },
+  {
+    "dhcp_fingerprint_id": 499,
+    "device_id": 21,
+    "satori_name": "PXE Client (ZEN)",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,4,5,6,11,12,13,15,16,17,18,22,23,28,40,41,42,43,50,51,54,58,59,60,66,67,128,129,130,131,132,133,134,135"
+  },
+  {
+    "dhcp_fingerprint_id": 253,
+    "device_id": null,
+    "satori_name": "Raspbian GNU/Linux 8 (jessie)",
+    "device_type": "",
+    "device_vendor": "Pi",
+    "dhcp_option55": "1,121,33,3,6,12,15,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 270,
+    "device_id": null,
+    "satori_name": "Raspbian GNU/Linux 9 (stretch)",
+    "device_type": "",
+    "device_vendor": "Pi",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 270,
+    "device_id": null,
+    "satori_name": "Raspbian GNU/Linux 9 (stretch)",
+    "device_type": "",
+    "device_vendor": "Pi",
+    "dhcp_option55": "1,121,33,3,6,12,15,26,28,42,51,54,58,59,119"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "Red Hat Linux 6.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "Red Hat Linux 6.2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "Red Hat Linux 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 1209,
+    "device_id": null,
+    "satori_name": "Red Hat Linux 7.0",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,28,12,7,9,42,48,49"
+  },
+  {
+    "dhcp_fingerprint_id": 44186,
+    "device_id": null,
+    "satori_name": "ReplayTV",
+    "device_type": "DVR",
+    "device_vendor": "DIRECTV, Inc.",
+    "dhcp_option55": "1,2,3,4,7,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 11388,
+    "device_id": null,
+    "satori_name": "ReplayTV",
+    "device_type": "DVR",
+    "device_vendor": "DIRECTV, Inc.",
+    "dhcp_option55": "1,28"
+  },
+  {
+    "dhcp_fingerprint_id": 14088,
+    "device_id": 98,
+    "satori_name": "Ruckus H320/R510",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Ruckus",
+    "dhcp_option55": "1,2,3,6,15,28,42,43,44"
+  },
+  {
+    "dhcp_fingerprint_id": 307,
+    "device_id": 148,
+    "satori_name": "Samsung SmartTV",
+    "device_type": "SmartTV",
+    "device_vendor": "Samsung",
+    "dhcp_option55": "1,3,6,12,15,28,42,125"
+  },
+  {
+    "dhcp_fingerprint_id": 307,
+    "device_id": 148,
+    "satori_name": "Samsung SmartTV",
+    "device_type": "SmartTV",
+    "device_vendor": "Samsung",
+    "dhcp_option55": "1,3,6,12,15,28,42,125"
+  },
+  {
+    "dhcp_fingerprint_id": 4068,
+    "device_id": 54,
+    "satori_name": "ShoreTel IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "ShoreTel, Inc.",
+    "dhcp_option55": "1,28,156,4,3,66,42"
+  },
+  {
+    "dhcp_fingerprint_id": 2419,
+    "device_id": 56,
+    "satori_name": "Siemens OpenStage 20/40/60/80",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,33,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 2419,
+    "device_id": 56,
+    "satori_name": "Siemens OpenStage 20/40/60/80",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,33,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 2419,
+    "device_id": 56,
+    "satori_name": "Siemens OpenStage 20/40/60/80 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,33,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 2419,
+    "device_id": 56,
+    "satori_name": "Siemens OpenStage 20/40/60/80 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,33,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 56322,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 150 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,3,6,12,15,66"
+  },
+  {
+    "dhcp_fingerprint_id": 56322,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 150 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,3,6,12,15,66"
+  },
+  {
+    "dhcp_fingerprint_id": 2219,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 2219,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 56320,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,3,6,15,33,42,2,43"
+  },
+  {
+    "dhcp_fingerprint_id": 56320,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,3,6,15,33,42,2,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2219,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 2219,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,43,3"
+  },
+  {
+    "dhcp_fingerprint_id": 56321,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,3,6,15,33,42,2,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 56321,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint 410/420 S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,28,3,6,15,33,42,2,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 46885,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint WL2 professional",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 46885,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint WL2 professional",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 46885,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint WL2 professional S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 46885,
+    "device_id": 56,
+    "satori_name": "Siemens optiPoint WL2 professional S",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Siemens Enterprise Communications",
+    "dhcp_option55": "1,2,3,6,12,15,28,42,43,120"
+  },
+  {
+    "dhcp_fingerprint_id": 47487,
+    "device_id": 49,
+    "satori_name": "Sipura VoIP Adaptor",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "Sipura Technology",
+    "dhcp_option55": "1,15,3,6,44,46,47,66"
+  },
+  {
+    "dhcp_fingerprint_id": 1071,
+    "device_id": 49,
+    "satori_name": "Sipura VoIP Adaptor",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "Sipura Technology",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,44,66"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": null,
+    "satori_name": "Slax 5.x-6.x based distros",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 273,
+    "device_id": null,
+    "satori_name": "Slax 5.x-6.x based distros",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,119"
+  },
+  {
+    "dhcp_fingerprint_id": 11635,
+    "device_id": 43427,
+    "satori_name": "SLED 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41"
+  },
+  {
+    "dhcp_fingerprint_id": 11635,
+    "device_id": 43427,
+    "satori_name": "SLED 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41"
+  },
+  {
+    "dhcp_fingerprint_id": 1168,
+    "device_id": 43427,
+    "satori_name": "SLED 10.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47,119"
+  },
+  {
+    "dhcp_fingerprint_id": 1168,
+    "device_id": 43427,
+    "satori_name": "SLED 10.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47,119"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 143,
+    "satori_name": "Slingbox",
+    "device_type": "DVR",
+    "device_vendor": "Sling Media",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 1664,
+    "device_id": null,
+    "satori_name": "SPA 941",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,66"
+  },
+  {
+    "dhcp_fingerprint_id": 1664,
+    "device_id": null,
+    "satori_name": "SPA 941",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,66"
+  },
+  {
+    "dhcp_fingerprint_id": 19206,
+    "device_id": null,
+    "satori_name": "SPA 942",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,44,66,150,151"
+  },
+  {
+    "dhcp_fingerprint_id": 19206,
+    "device_id": null,
+    "satori_name": "SPA 942",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,44,66,150,151"
+  },
+  {
+    "dhcp_fingerprint_id": 9274,
+    "device_id": null,
+    "satori_name": "SPA 942",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,44,66,150,2,151"
+  },
+  {
+    "dhcp_fingerprint_id": 9274,
+    "device_id": null,
+    "satori_name": "SPA 942",
+    "device_type": "VoIP Phone",
+    "device_vendor": "Linksys",
+    "dhcp_option55": "1,3,42,6,7,15,58,59,44,66,150,2,151"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 53,
+    "satori_name": "Star TSP654",
+    "device_type": "Printer",
+    "device_vendor": "Star",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 54926,
+    "device_id": 240,
+    "satori_name": "Sun Blade 100 Workstation",
+    "device_type": "Workstation",
+    "device_vendor": "Sun Microsystems, Inc.",
+    "dhcp_option55": "1,3,12,43"
+  },
+  {
+    "dhcp_fingerprint_id": 60468,
+    "device_id": 251,
+    "satori_name": "SunOS 5.6",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,5,6,12,15,19,28,33,40,41,64,65"
+  },
+  {
+    "dhcp_fingerprint_id": 42926,
+    "device_id": 48,
+    "satori_name": "SunRocket Gizmo",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "InnoMedia, Inc.",
+    "dhcp_option55": "3,1,6,12,15,67,66,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42926,
+    "device_id": 48,
+    "satori_name": "SunRocket Gizmo",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "InnoMedia, Inc.",
+    "dhcp_option55": "3,1,6,12,15,67,66,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42589,
+    "device_id": 119,
+    "satori_name": "SUSE Linux Enterprise",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,200,44"
+  },
+  {
+    "dhcp_fingerprint_id": 11635,
+    "device_id": 119,
+    "satori_name": "SUSE Linux Enterprise",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,40,41"
+  },
+  {
+    "dhcp_fingerprint_id": 56427,
+    "device_id": 119,
+    "satori_name": "SUSE Linux Enterprise 9.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 56427,
+    "device_id": 119,
+    "satori_name": "SUSE Linux Enterprise 9.3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42,9,7,44,45,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 11390,
+    "device_id": 87,
+    "satori_name": "Symbol Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "Symbol",
+    "dhcp_option55": "1,3,6,12,15,43,66,67,128,129,130,131,132,133,134,135"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 87,
+    "satori_name": "Symbol Wireless Switch",
+    "device_type": "Wireless Controller",
+    "device_vendor": "Symbol",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 87,
+    "satori_name": "Symbol Wireless Switch",
+    "device_type": "Wireless Controller",
+    "device_vendor": "Symbol",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 53904,
+    "device_id": 33710,
+    "satori_name": "TallyGenicom Printer",
+    "device_type": "Printer",
+    "device_vendor": "TallyGenicom LP",
+    "dhcp_option55": "1,3,6,58,59,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 60457,
+    "device_id": 224,
+    "satori_name": "TANDBERG",
+    "device_type": "Video Conferencing",
+    "device_vendor": "TANDBERG",
+    "dhcp_option55": "1,3,7"
+  },
+  {
+    "dhcp_fingerprint_id": 60459,
+    "device_id": 224,
+    "satori_name": "TANDBERG 1000",
+    "device_type": "Video Conferencing",
+    "device_vendor": "TANDBERG",
+    "dhcp_option55": "1,3,6,12,15,120,242"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 140,
+    "satori_name": "TiVo",
+    "device_type": "DVR",
+    "device_vendor": "TiVo",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 60454,
+    "device_id": 140,
+    "satori_name": "TiVo",
+    "device_type": "DVR",
+    "device_vendor": "TiVo",
+    "dhcp_option55": "28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 307,
+    "device_id": 9961,
+    "satori_name": "Tizen Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,125"
+  },
+  {
+    "dhcp_fingerprint_id": 307,
+    "device_id": 9961,
+    "satori_name": "Tizen Linux",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,28,42,125"
+  },
+  {
+    "dhcp_fingerprint_id": 1199,
+    "device_id": 44,
+    "satori_name": "TP-LINK Wireless LAN Router",
+    "device_type": "Wireless Router",
+    "device_vendor": "TP-LINK Technologies Co., Ltd.",
+    "dhcp_option55": "1,3,43,44,46,47,6"
+  },
+  {
+    "dhcp_fingerprint_id": 1199,
+    "device_id": 44,
+    "satori_name": "TP-LINK Wireless LAN Router",
+    "device_type": "Wireless Router",
+    "device_vendor": "TP-LINK Technologies Co., Ltd.",
+    "dhcp_option55": "1,3,43,44,46,47,6"
+  },
+  {
+    "dhcp_fingerprint_id": 1103,
+    "device_id": 99,
+    "satori_name": "Trapeze MP-422 Wireless Access Point",
+    "device_type": "Wireless Access Point           ",
+    "device_vendor": "Trapeze Networks",
+    "dhcp_option55": "1,15,3,6,43"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 96,
+    "satori_name": "Trendnet IP Camera",
+    "device_type": "IP Network Camera",
+    "device_vendor": "TRENDnet",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 384,
+    "device_id": 96,
+    "satori_name": "Trendnet Print Server",
+    "device_type": "Printer",
+    "device_vendor": "TRENDnet",
+    "dhcp_option55": "1,3"
+  },
+  {
+    "dhcp_fingerprint_id": 55778,
+    "device_id": 96,
+    "satori_name": "Trendnet Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "TRENDnet",
+    "dhcp_option55": "1,28,6,5,3,44,15"
+  },
+  {
+    "dhcp_fingerprint_id": 44325,
+    "device_id": 96,
+    "satori_name": "Trendnet Wireless Access Point",
+    "device_type": "Wireless Access Point",
+    "device_vendor": "TRENDnet",
+    "dhcp_option55": "6,5,3,44,15"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 122,
+    "satori_name": "Ubuntu",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 246,
+    "device_id": 122,
+    "satori_name": "Ubuntu",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 122,
+    "satori_name": "Ubuntu 11 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 122,
+    "satori_name": "Ubuntu 11 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 122,
+    "satori_name": "Ubuntu 12 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 282,
+    "device_id": 122,
+    "satori_name": "Ubuntu 12 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,252,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42733,
+    "device_id": 122,
+    "satori_name": "Ubuntu 18.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42,249,33,252"
+  },
+  {
+    "dhcp_fingerprint_id": 56087,
+    "device_id": 122,
+    "satori_name": "Ubuntu 19.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,12,15,6,2,26,28,121,33,40,41,42,54,119,249,252,17"
+  },
+  {
+    "dhcp_fingerprint_id": 56087,
+    "device_id": 122,
+    "satori_name": "Ubuntu 19.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,12,15,6,2,26,28,121,33,40,41,42,54,119,249,252,17"
+  },
+  {
+    "dhcp_fingerprint_id": 71752,
+    "device_id": 122,
+    "satori_name": "Ubuntu 20.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,6,12,15,26,28,121,3,33,40,41,42,119,249,252,17"
+  },
+  {
+    "dhcp_fingerprint_id": 71752,
+    "device_id": 122,
+    "satori_name": "Ubuntu 22.x",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,6,12,15,26,28,121,3,33,40,41,42,119,249,252,17"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 6.0.6",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 6.0.6",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 6.10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 6.10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 7.x based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 249,
+    "device_id": 122,
+    "satori_name": "Ubuntu 7.x based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 248,
+    "device_id": 122,
+    "satori_name": "Ubuntu 8.04",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,42"
+  },
+  {
+    "dhcp_fingerprint_id": 248,
+    "device_id": 122,
+    "satori_name": "Ubuntu 8.04",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,12,42"
+  },
+  {
+    "dhcp_fingerprint_id": 244,
+    "device_id": 122,
+    "satori_name": "Ubuntu 8.10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 244,
+    "device_id": 122,
+    "satori_name": "Ubuntu 8.10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 122,
+    "satori_name": "Ubuntu 9-10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 275,
+    "device_id": 122,
+    "satori_name": "Ubuntu 9-10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 122,
+    "satori_name": "Ubuntu 9-10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 276,
+    "device_id": 122,
+    "satori_name": "Ubuntu 9-10 based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26,121,42"
+  },
+  {
+    "dhcp_fingerprint_id": 56313,
+    "device_id": 47,
+    "satori_name": "UniData IP Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "UniData Communications Systems Inc.",
+    "dhcp_option55": "54,51,58,59,1,3,6,15,28,139"
+  },
+  {
+    "dhcp_fingerprint_id": 53162,
+    "device_id": 46,
+    "satori_name": "Uniden DTA VoIP Adapater",
+    "device_type": "VoIP Gateway",
+    "device_vendor": "Uniden",
+    "dhcp_option55": "1,2,3,6,15,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": null,
+    "satori_name": "UnionCam Q5",
+    "device_type": "IP Network Camera",
+    "device_vendor": "UnionCam",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": null,
+    "satori_name": "UnionCam Q5",
+    "device_type": "IP Network Camera",
+    "device_vendor": "UnionCam",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 56319,
+    "device_id": 53,
+    "satori_name": "UTStarcom F3000",
+    "device_type": "VoIP Phone",
+    "device_vendor": "UTStarcom, Inc.",
+    "dhcp_option55": "1,6,15,3,43"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 4903,
+    "satori_name": "Vizio Smart TV 2.1.18.x",
+    "device_type": "Smart TV",
+    "device_vendor": "Vizio",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": 4903,
+    "satori_name": "Vizio Smart TV 2.1.18.x",
+    "device_type": "Smart TV",
+    "device_vendor": "Vizio",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": null,
+    "satori_name": "WD My Book World Edition",
+    "device_type": "NAS",
+    "device_vendor": "Western Digital Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": null,
+    "satori_name": "WD My Book World Edition",
+    "device_type": "NAS",
+    "device_vendor": "Western Digital Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": null,
+    "satori_name": "WD ShareSpace",
+    "device_type": "NAS",
+    "device_vendor": "Western Digital Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 555,
+    "device_id": null,
+    "satori_name": "WD ShareSpace",
+    "device_type": "NAS",
+    "device_vendor": "Western Digital Corp.",
+    "dhcp_option55": "1,3,6,12,15,28,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 496,
+    "device_id": null,
+    "satori_name": "Wii",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6,15,28,33"
+  },
+  {
+    "dhcp_fingerprint_id": 496,
+    "device_id": null,
+    "satori_name": "Wii",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6,15,28,33"
+  },
+  {
+    "dhcp_fingerprint_id": 6784,
+    "device_id": null,
+    "satori_name": "Wii",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6,12,15,28,33,58,59"
+  },
+  {
+    "dhcp_fingerprint_id": 496,
+    "device_id": null,
+    "satori_name": "Wii 4.3u",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6,15,28,33"
+  },
+  {
+    "dhcp_fingerprint_id": 496,
+    "device_id": null,
+    "satori_name": "Wii 4.3u",
+    "device_type": "Game Console",
+    "device_vendor": "Nintendo Co., Ltd.",
+    "dhcp_option55": "1,3,6,15,28,33"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 3,
+    "device_id": 1,
+    "satori_name": "Windows",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 33,
+    "device_id": 1,
+    "satori_name": "Windows 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 2432,
+    "device_id": 1,
+    "satori_name": "Windows 10",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,121,3,6,15,119,252,95,44,46"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1607",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1607",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1703",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1703",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1709",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1803",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1809",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 10 - 1909",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 11 - 22000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 44120,
+    "device_id": 1,
+    "satori_name": "Windows 11 - 22000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,119,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 9,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42606,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 56280,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43,252,12"
+  },
+  {
+    "dhcp_fingerprint_id": 9,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43"
+  },
+  {
+    "dhcp_fingerprint_id": 56281,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,43"
+  },
+  {
+    "dhcp_fingerprint_id": 56282,
+    "device_id": 1,
+    "satori_name": "Windows 2000",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows 7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows 7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 33,
+    "device_id": 1,
+    "satori_name": "Windows 7",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 33,
+    "device_id": 1,
+    "satori_name": "Windows 7 SP1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows 7 SP1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 35,
+    "device_id": 1,
+    "satori_name": "Windows 8.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,252,43"
+  },
+  {
+    "dhcp_fingerprint_id": 35,
+    "device_id": 1,
+    "satori_name": "Windows 8.1",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,252,43"
+  },
+  {
+    "dhcp_fingerprint_id": 50225,
+    "device_id": 1,
+    "satori_name": "Windows 95",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,15,6,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 50225,
+    "device_id": 1,
+    "satori_name": "Windows 95 B",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,15,6,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 7520,
+    "device_id": 1,
+    "satori_name": "Windows 98",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,44,46,47,57"
+  },
+  {
+    "dhcp_fingerprint_id": 7520,
+    "device_id": 1,
+    "satori_name": "Windows 98",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,44,46,47,57"
+  },
+  {
+    "dhcp_fingerprint_id": 1357,
+    "device_id": 1,
+    "satori_name": "Windows 98 SE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 1357,
+    "device_id": 1,
+    "satori_name": "Windows 98 SE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 56284,
+    "device_id": 1,
+    "satori_name": "Windows 98 SE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 56285,
+    "device_id": 1,
+    "satori_name": "Windows 98 SE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,43,77,252"
+  },
+  {
+    "dhcp_fingerprint_id": 56286,
+    "device_id": 1,
+    "satori_name": "Windows 98 SE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,43,77,252"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 1,
+    "satori_name": "Windows CE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 1,
+    "satori_name": "Windows CE",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 45583,
+    "device_id": 1,
+    "satori_name": "Windows ME",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 45583,
+    "device_id": 1,
+    "satori_name": "Windows ME",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 56283,
+    "device_id": 1,
+    "satori_name": "Windows ME",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,43,77"
+  },
+  {
+    "dhcp_fingerprint_id": 11352,
+    "device_id": 1,
+    "satori_name": "Windows NT 4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,44,46,47,6"
+  },
+  {
+    "dhcp_fingerprint_id": 11352,
+    "device_id": 1,
+    "satori_name": "Windows NT 4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,44,46,47,6"
+  },
+  {
+    "dhcp_fingerprint_id": 1047,
+    "device_id": 1,
+    "satori_name": "Windows NT 4",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,2,3,6,12,15,26,28,85,86,87,88,44,45,46,47,70,69,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 1,
+    "satori_name": "Windows Phone 7.5",
+    "device_type": "Smartphone",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 302,
+    "device_id": 1,
+    "satori_name": "Windows Phone 7.5",
+    "device_type": "Smartphone",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6,15,44,46,47"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows Server 2003",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows Server 2003",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 3,
+    "device_id": 1,
+    "satori_name": "Windows Server 2003",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows Server 2003",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows Server 2008",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 33,
+    "device_id": 1,
+    "satori_name": "Windows Server 2008",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows Server 2008",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 32949,
+    "device_id": 1,
+    "satori_name": "Windows Server 2012",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "54"
+  },
+  {
+    "dhcp_fingerprint_id": 32952,
+    "device_id": 1,
+    "satori_name": "Windows Server 2012",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "83"
+  },
+  {
+    "dhcp_fingerprint_id": 32951,
+    "device_id": 1,
+    "satori_name": "Windows Server 2012",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "43"
+  },
+  {
+    "dhcp_fingerprint_id": 35,
+    "device_id": 1,
+    "satori_name": "Windows Server 2012 R2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,252,43"
+  },
+  {
+    "dhcp_fingerprint_id": 35,
+    "device_id": 1,
+    "satori_name": "Windows Server 2012 R2",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,252,43"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows Server 2016",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 32949,
+    "device_id": 1,
+    "satori_name": "Windows Server 2016",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "54"
+  },
+  {
+    "dhcp_fingerprint_id": 11253,
+    "device_id": 1,
+    "satori_name": "Windows Server 2016",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,15,31,33,43,44,46,47,121,249,252"
+  },
+  {
+    "dhcp_fingerprint_id": 11446,
+    "device_id": 1,
+    "satori_name": "Windows Server 2016",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "3"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows Vista",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 33,
+    "device_id": 1,
+    "satori_name": "Windows Vista",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 3,
+    "device_id": 1,
+    "satori_name": "Windows Vista",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 24,
+    "device_id": 1,
+    "satori_name": "Windows Vista",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,121,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 3,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 32938,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252,12"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42449,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 42450,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 42451,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "15,3,6,44,46,47,31,33,249,43,252,12"
+  },
+  {
+    "dhcp_fingerprint_id": 42452,
+    "device_id": 1,
+    "satori_name": "Windows XP",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "28,2,3,15,6,12,44,47"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows XP SP3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 2,
+    "device_id": 1,
+    "satori_name": "Windows XP SP3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43"
+  },
+  {
+    "dhcp_fingerprint_id": 3,
+    "device_id": 1,
+    "satori_name": "Windows XP SP3",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": null,
+    "satori_name": "WyzeCam v2",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Wyze",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 419,
+    "device_id": null,
+    "satori_name": "WyzeCam v2",
+    "device_type": "IP Network Camera",
+    "device_vendor": "Wyze",
+    "dhcp_option55": "1,3,6,12,15,28,42"
+  },
+  {
+    "dhcp_fingerprint_id": 244,
+    "device_id": null,
+    "satori_name": "Xandros",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 244,
+    "device_id": null,
+    "satori_name": "Xandros",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,28,2,3,15,6,119,12,44,47,26"
+  },
+  {
+    "dhcp_fingerprint_id": 45417,
+    "device_id": 134,
+    "satori_name": "Xbox",
+    "device_type": "Game Console",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 134,
+    "satori_name": "Xbox 360",
+    "device_type": "Game Console",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 134,
+    "satori_name": "Xbox 360",
+    "device_type": "Game Console",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 291,
+    "device_id": 134,
+    "satori_name": "Xbox 360",
+    "device_type": "Game Console",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6"
+  },
+  {
+    "dhcp_fingerprint_id": 289,
+    "device_id": 134,
+    "satori_name": "Xbox 360",
+    "device_type": "Game Console",
+    "device_vendor": "Microsoft Corp.",
+    "dhcp_option55": "1,3,6,15"
+  },
+  {
+    "dhcp_fingerprint_id": 42608,
+    "device_id": 159,
+    "satori_name": "Xerox - D95",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "252"
+  },
+  {
+    "dhcp_fingerprint_id": 49778,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "51,1,3,58,59,12,44,54,6,15,144"
+  },
+  {
+    "dhcp_fingerprint_id": 346,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,28,3,15,6,12,44,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 6325,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,28,3,15,6,12,44,78,79,66,67"
+  },
+  {
+    "dhcp_fingerprint_id": 356,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,3,28,58,59,6,15,78,79,44,46,69,66,67,12"
+  },
+  {
+    "dhcp_fingerprint_id": 11266,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "12"
+  },
+  {
+    "dhcp_fingerprint_id": 60465,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,3,28,6,15,44,46,69,12,81"
+  },
+  {
+    "dhcp_fingerprint_id": 1090,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,3,28,58,59,6,15,78,79,44,46,69,12,81"
+  },
+  {
+    "dhcp_fingerprint_id": 357,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,3,28,58,59,6,15,78,79,44,46,69,66,67,12,81"
+  },
+  {
+    "dhcp_fingerprint_id": 1132,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,28,3,58,59,6,15,78,79,12,44,46,69,116,66,67"
+  },
+  {
+    "dhcp_fingerprint_id": 1047,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,2,3,6,12,15,26,28,85,86,87,88,44,45,46,47,70,69,78,79"
+  },
+  {
+    "dhcp_fingerprint_id": 344,
+    "device_id": 159,
+    "satori_name": "Xerox Printer",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,2,3,6,12,15,26,28,85,86,87,88,44,45,46,47,70,69,78,79,120"
+  },
+  {
+    "dhcp_fingerprint_id": 42608,
+    "device_id": 159,
+    "satori_name": "Xerox WorkCentre",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "252"
+  },
+  {
+    "dhcp_fingerprint_id": 347,
+    "device_id": 159,
+    "satori_name": "Xerox WorkCentre",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,28,3,15,6,12,44,78,79,2,42"
+  },
+  {
+    "dhcp_fingerprint_id": 42608,
+    "device_id": 159,
+    "satori_name": "Xerox WorkCentre - 5335",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "252"
+  },
+  {
+    "dhcp_fingerprint_id": 42608,
+    "device_id": 159,
+    "satori_name": "Xerox WorkCentre - 7125",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "252"
+  },
+  {
+    "dhcp_fingerprint_id": 32938,
+    "device_id": 159,
+    "satori_name": "Xerox WorkCentre - 7545",
+    "device_type": "Printer",
+    "device_vendor": "Xerox Corp.",
+    "dhcp_option55": "1,15,3,6,44,46,47,31,33,249,43,252,12"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 117,
+    "satori_name": "Zenwalk based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 272,
+    "device_id": 117,
+    "satori_name": "Zenwalk based distro",
+    "device_type": "",
+    "device_vendor": "",
+    "dhcp_option55": "1,3,6,12,15,17,23,28,29,31,33,40,41,42"
+  },
+  {
+    "dhcp_fingerprint_id": 56318,
+    "device_id": 52,
+    "satori_name": "ZyXEL WiFi Phone",
+    "device_type": "VoIP Phone",
+    "device_vendor": "ZyXEL Corp.",
+    "dhcp_option55": "1,3,6,66,15"
+  }
+]
