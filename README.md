@@ -199,7 +199,7 @@ console.log(`Found ${iphones.length} iPhone variants`);
 | Total records | ~11 million |
 | Data formats | CSV, JSON, Parquet, SQLite |
 | Folders | 8 |
-| Last updated | December 2025 |
+| Last updated | April 2026 |
 
 ---
 
