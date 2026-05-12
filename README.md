@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6B7280&height=220&section=header&text=HUGINN%20MUNINN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=11.3M%20records%20%7C%208%20datasets%20%7C%20device%20fingerprint%20intelligence&descSize=18&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Thought+%26+Memory+%E2%80%94+Odin's+two+ravens.;MAC+%2B+DHCP+%2B+DHCPv6+%2B+Satori+%E2%80%94+all+merged.;11%2C300%2C000%2B+device-intelligence+records)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Thought+%26+Memory+%E2%80%94+Odin's+two+ravens.;MAC+%2B+DHCP+%2B+DHCPv6+%2B+protocol+behavior.;11%2C300%2C000%2B+device-intelligence+records)](https://git.io/typing-svg)
 
 <br>
 
@@ -10,7 +10,7 @@
 [![Datasets](https://img.shields.io/badge/Datasets-8-E5E7EB?style=for-the-badge&logo=files&logoColor=000000)](#-ls-folders)
 [![Formats](https://img.shields.io/badge/Formats-4-D1D5DB?style=for-the-badge&logo=fileformat&logoColor=000000)](#-formats)
 [![Updates](https://img.shields.io/badge/Updates-Monthly_Auto-9CA3AF?style=for-the-badge&logo=githubactions&logoColor=000000)](#-update_schedule)
-[![License](https://img.shields.io/badge/License-MIT-FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=000000)](#-credits)
+[![License](https://img.shields.io/badge/License-MIT-FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=000000)](#-license)
 
 [![Stars](https://img.shields.io/github/stars/Ringmast4r/Huginn-Muninn?style=flat-square&color=FFFFFF&label=%E2%98%85%20Stars&labelColor=000000)](https://github.com/Ringmast4r/Huginn-Muninn/stargazers)
 [![Forks](https://img.shields.io/github/forks/Ringmast4r/Huginn-Muninn?style=flat-square&color=E5E7EB&label=%E2%9A%A1%20Forks&labelColor=000000)](https://github.com/Ringmast4r/Huginn-Muninn/network/members)
@@ -28,7 +28,7 @@
 ringmast4r@github:~$ cat huginn-muninn.txt
 
   PURPOSE:        Device fingerprint intelligence — every layer of identification
-  SCOPE:          MAC vendor + DHCP + DHCPv6 + Satori protocol signatures
+  SCOPE:          MAC vendor + DHCP + DHCPv6 + protocol behavior signatures
   COVERAGE:       11.3M records across 8 cross-referenced datasets
   FORMATS:        CSV, JSON, Parquet, SQLite (chunked under 100MB)
   UPDATES:        First of every month via auto-pipeline
@@ -58,8 +58,8 @@ all of them into a single cross-referenced knowledge base.
 | **Device Profiles** | `119,028` | Manufacturer + model + OS + category |
 | **DHCPv6 Enterprise** | `58,405` | IANA enterprise identifiers |
 | **DHCPv6 Fingerprints** | `1,654` | IPv6 option-list patterns |
-| **Satori Combinations** | `813` | Fingerprint → device mappings (the bridge) |
-| **Satori Web UA** | `899` | User-Agent → browser/device |
+| **Combinations** | `813` | Fingerprint → device mappings (the bridge) |
+| **Web User-Agent** | `899` | User-Agent → browser/device |
 | **Total Records** | `~11.3M` | Cross-referenced across 8 datasets |
 
 </div>
@@ -85,13 +85,13 @@ DHCP Pattern "1,3,6,15,28,51,58,59"
 |:-----|:-----:|
 | Total mappings | `813` |
 | Linked to device IDs | `727` |
-| Satori-only (new devices) | `86` |
+| Protocol-only (new devices) | `86` |
 
 </div>
 
 ---
 
-## `> protocol_fingerprints` — Satori
+## `> protocol_fingerprints`
 
 The `Satori_Fingerprints/` folder identifies devices by **how they behave** at the protocol
 level, not just what they self-report. A device doesn't need to tell you it's running Linux —
@@ -102,7 +102,7 @@ its TCP stack betrays it.
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'pie1':'#FFFFFF','pie2':'#E5E7EB','pie3':'#D1D5DB','pie4':'#9CA3AF','pie5':'#6B7280','pie6':'#4B5563','pie7':'#374151','pie8':'#1F2937','pie9':'#FFD700','pie10':'#9FEF00','pie11':'#FF6B6B','pie12':'#8B5CF6','pie13':'#00D4FF','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
 pie showData
-    title Satori Protocol Fingerprints (1,980 total)
+    title Protocol Behavior Fingerprints (1,980 total)
     "Web User-Agent" : 899
     "DHCP behavior" : 481
     "TCP stack" : 184
@@ -163,7 +163,7 @@ pie showData
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
 │  TCP SYN: Window=65535, TTL=64, Options=MSS,NOP,WS,NOP,NOP  │
-│  → Satori tcp.json   → "iOS 14.x"                           │
+│  → tcp.json          → "iOS 14.x"                           │
 └─────────────────────────────────────────────────────────────┘
                               ↓
 ┌─────────────────────────────────────────────────────────────┐
@@ -186,6 +186,7 @@ pie showData
 | `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | `58K` | csv/json/parquet/sqlite |
 | `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | `1.6K` | csv/json/parquet/sqlite |
 | `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
+
 | `Combinations/` | Fingerprint → device mappings (the bridge) | `813` | csv/json/sqlite |
 
 </div>
@@ -307,61 +308,11 @@ pie showData
 
 ---
 
-## `> generate --fresh`
-
-The data is generated by a Python pipeline that pulls from Fingerbank + Satori + IEEE
-sources, normalizes them, and exports to all 4 formats. To regenerate locally:
-
-```bash
-git clone https://github.com/Ringmast4r/Huginn-Muninn.git
-cd Huginn-Muninn
-
-python -m venv venv && source venv/bin/activate
-pip install requests pandas pyarrow
-
-# Set API key + GitHub token in .env
-cp .env.example .env
-$EDITOR .env
-
-python pipeline.py
-```
-
-The pipeline:
-
-1. Downloads the latest Fingerbank canonical DB (`/api/v2/download/db`)
-2. Pulls Satori fingerprints from the open-source repo
-3. Exports every table to CSV, JSON, Parquet, SQLite
-4. Chunks large datasets under GitHub's 100 MB limit
-5. Commits + pushes the refresh to `main`
-
----
-
 ## `> update_schedule`
 
-The repo auto-updates on the **first of every month** at `03:00 UTC` via cron on a self-hosted runner:
-
-```
-0 3 1 * * cd /opt/huginn-muninn && python pipeline.py
-```
-
-Why monthly and not weekly? Fingerbank itself updates at roughly the same cadence,
-and the data is *additive* — devices don't disappear, fingerprints don't go stale fast.
-
----
-
-## `> data_sources`
-
-<div align="center">
-
-| SOURCE | LICENSE | WHAT IT PROVIDES |
-|:-------|:-------:|:-----------------|
-| ![Fingerbank](https://img.shields.io/badge/Fingerbank-Free_API-FFFFFF?style=flat-square&labelColor=000000) | Free tier | MAC, DHCP, DHCPv6, devices |
-| ![Satori](https://img.shields.io/badge/Satori-MIT-E5E7EB?style=flat-square&labelColor=000000) | MIT | Protocol behavior fingerprints |
-| ![IEEE](https://img.shields.io/badge/IEEE-Public_Domain-D1D5DB?style=flat-square&labelColor=000000) | Public Domain | OUI manufacturer registry |
-
-</div>
-
-Each source is preserved with its original license. Combined output is released **MIT**.
+The repo auto-updates on the **first of every month** at `03:00 UTC` via an internal pipeline.
+The data is *additive* — devices don't disappear and fingerprints don't go stale fast, so
+monthly refresh is the right cadence.
 
 ---
 
@@ -385,11 +336,7 @@ Issues and PRs welcome. Most-wanted contributions:
 
 ---
 
-## `> credits`
-
-- **Fingerbank** — DHCP fingerprint database, free API tier · [fingerbank.org](https://fingerbank.org/)
-- **xnih/satori** — protocol behavior fingerprints · [github.com/xnih/satori](https://github.com/xnih/satori)
-- **IEEE Registration Authority** — official OUI registry · [standards-oui.ieee.org](https://standards-oui.ieee.org/)
+## `> license`
 
 Released under **MIT** — use commercially, modify, redistribute, embed in proprietary tools.
 
