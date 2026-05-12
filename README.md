@@ -1,206 +1,410 @@
-# Huginn & Muninn
+<div align="center">
 
-![Huginn & Muninn](Hugiin_Muniin.jpg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=220&section=header&text=HUGINN%20%26%20MUNINN&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=11.3M%20records%20%7C%208%20datasets%20%7C%20device%20fingerprint%20intelligence&descSize=18&descAlignY=58"/>
 
-> *"Every day Huginn and Muninn fly over the vast earth. I fear for Huginn that he may not return, but I fear even more for Muninn."*
-> — Odin, from the Grímnismál
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=Thought+%26+Memory+%E2%80%94+Odin's+two+ravens.;MAC+%2B+DHCP+%2B+DHCPv6+%2B+Satori+%E2%80%94+all+merged.;11%2C300%2C000%2B+device-intelligence+records)](https://git.io/typing-svg)
 
-In Norse mythology, **Huginn** (thought) and **Muninn** (memory) are Odin's two ravens. Each day they fly across Midgard, observing everything, then return to whisper all they've seen and heard into Odin's ear.
+<br>
 
-This repository is the knowledge the ravens have gathered — scouring the internet for crumbs of device intelligence, network signatures, and hardware identities. They report back what they find.
+[![Records](https://img.shields.io/badge/Records-11.3M-FFFFFF?style=for-the-badge&logo=database&logoColor=000000)](#-stats---live)
+[![Datasets](https://img.shields.io/badge/Datasets-8-E5E7EB?style=for-the-badge&logo=files&logoColor=000000)](#-ls-folders)
+[![Formats](https://img.shields.io/badge/Formats-4-D1D5DB?style=for-the-badge&logo=fileformat&logoColor=000000)](#-formats)
+[![Updates](https://img.shields.io/badge/Updates-Monthly_Auto-9CA3AF?style=for-the-badge&logo=githubactions&logoColor=000000)](#-update_schedule)
+[![License](https://img.shields.io/badge/License-MIT-FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=000000)](#-credits)
 
----
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/Huginn-Muninn?style=flat-square&color=FFFFFF&label=%E2%98%85%20Stars&labelColor=000000)](https://github.com/Ringmast4r/Huginn-Muninn/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/Huginn-Muninn?style=flat-square&color=E5E7EB&label=%E2%9A%A1%20Forks&labelColor=000000)](https://github.com/Ringmast4r/Huginn-Muninn/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Huginn-Muninn?style=flat-square&color=D1D5DB&labelColor=000000)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Huginn-Muninn?style=flat-square&color=9CA3AF&labelColor=000000)](https://github.com/Ringmast4r/Huginn-Muninn/commits/main)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ringmast4r.Huginn-Muninn)](#)
 
-## The Ravens' Findings
-
-| Folder | What the Ravens Found | Records |
-|--------|----------------------|---------|
-| `MAC_Vendors/` | Hardware manufacturer identities (OUI lookup) | 10.1M |
-| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 368K |
-| `DHCP_Vendors/` | DHCP vendor class strings | 425K |
-| `Devices/` | Device profiles (phones, routers, IoT, etc.) | 116K |
-| `DHCPv6_Enterprise/` | IPv6 enterprise identifiers | 58K |
-| `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 1.6K |
-| `Satori_Fingerprints/` | OS & protocol fingerprinting (TCP, SSH, SSL, etc.) | 1,980+ |
-| `Combinations/` | **Fingerprint → Device mappings** (the missing link!) | 813 |
+<img src="Hugiin_Muniin.jpg" alt="Huginn & Muninn" width="320">
 
 ---
 
-## The Missing Link: Combinations
+## `> what_is_this`
 
-Most fingerprint databases give you raw patterns but don't tell you what device they belong to. The `Combinations/` folder bridges this gap:
+```bash
+ringmast4r@github:~$ cat huginn-muninn.txt
+
+  PURPOSE:        Device fingerprint intelligence — every layer of identification
+  SCOPE:          MAC vendor + DHCP + DHCPv6 + Satori protocol signatures
+  COVERAGE:       11.3M records across 8 cross-referenced datasets
+  FORMATS:        CSV, JSON, Parquet, SQLite (chunked under 100MB)
+  UPDATES:        First of every month via auto-pipeline
+  USE CASES:      Wardriving | Network forensics | IoT discovery | Threat intel
+
+  STATUS:         [ LIVE & AUTO-UPDATING ]
+```
+
+> In Norse mythology, **Huginn** (thought) and **Muninn** (memory) are Odin's two ravens.
+> Each day they fly across Midgard, observing everything, then return to whisper all they
+> have seen into the Allfather's ear. This repository is what the ravens have gathered.
+
+Most fingerprint databases pick *one* layer of identification. Huginn & Muninn merges
+all of them into a single cross-referenced knowledge base.
+
+---
+
+## `> stats --live`
+
+<div align="center">
+
+| METRIC | COUNT | NOTES |
+|:------:|:-----:|:-----:|
+| **MAC Vendors** | `10,233,053` | OUI + MA-M + MA-S blocks |
+| **DHCP Fingerprints** | `448,002` | Option 55 parameter request patterns |
+| **DHCP Vendors** | `444,126` | Option 60 vendor class strings |
+| **Device Profiles** | `119,028` | Manufacturer + model + OS + category |
+| **DHCPv6 Enterprise** | `58,405` | IANA enterprise identifiers |
+| **DHCPv6 Fingerprints** | `1,654` | IPv6 option-list patterns |
+| **Satori Combinations** | `813` | Fingerprint → device mappings (the bridge) |
+| **Satori Web UA** | `899` | User-Agent → browser/device |
+| **Total Records** | `~11.3M` | Cross-referenced across 8 datasets |
+
+</div>
+
+---
+
+## `> the_missing_link` — Combinations
+
+Most fingerprint databases give you raw patterns but don't tell you *what device they belong to*.
+The `Combinations/` folder bridges this gap by linking protocol fingerprints to actual devices.
 
 ```
 DHCP Pattern "1,3,6,15,28,51,58,59"
         ↓
     Fingerprint ID #450
         ↓
-    Device ID #9417 → "Amazon Android"
+    Device ID #9417 → "Amazon Fire OS" (eBook Reader)
 ```
 
-This mapping was built by cross-referencing protocol fingerprints with our device database.
+<div align="center">
 
-| Stat | Count |
-|------|-------|
-| Total mappings | 813 |
-| Linked to device IDs | 727 |
-| Protocol-only (new devices) | 86 |
+| STAT | COUNT |
+|:-----|:-----:|
+| Total mappings | `813` |
+| Linked to device IDs | `727` |
+| Satori-only (new devices) | `86` |
+
+</div>
 
 ---
 
-## Protocol Fingerprints
+## `> protocol_fingerprints` — Satori
 
-The `Satori_Fingerprints/` folder contains OS and protocol identification signatures. Unlike DHCP fingerprinting, these identify devices by analyzing protocol behavior:
+The `Satori_Fingerprints/` folder identifies devices by **how they behave** at the protocol
+level, not just what they self-report. A device doesn't need to tell you it's running Linux —
+its TCP stack betrays it.
 
-| File | Fingerprints | What It Identifies |
-|------|-------------|-------------------|
-| `dhcp.json` | 481 | DHCP → Device name/type |
-| `webuseragent.json` | 899 | User-Agent → Browser/Device |
-| `tcp.json` | 184 | TCP stack → Operating System |
-| `smb.json` | 89 | SMB → Windows version |
-| `ssh.json` | 67 | SSH banner → Server software |
-| `web.json` | 67 | HTTP response → Web server |
-| `ssl.json` | 51 | TLS handshake → Implementation |
-| `dns.json` | 48 | DNS quirks → DNS server |
-| `ntp.json` | 25 | NTP → Device type |
-| `sip.json` | 25 | SIP → VoIP device |
-| `browser.json` | 22 | Browser behavior → Browser type |
-| `icmp.json` | 13 | Ping response → OS |
-| `dhcpv6.json` | 9 | DHCPv6 → Device |
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#FFFFFF','pie2':'#E5E7EB','pie3':'#D1D5DB','pie4':'#9CA3AF','pie5':'#6B7280','pie6':'#4B5563','pie7':'#374151','pie8':'#1F2937','pie9':'#FFD700','pie10':'#9FEF00','pie11':'#FF6B6B','pie12':'#8B5CF6','pie13':'#00D4FF','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
+pie showData
+    title Satori Protocol Fingerprints (1,980 total)
+    "Web User-Agent" : 899
+    "DHCP behavior" : 481
+    "TCP stack" : 184
+    "SMB handshake" : 89
+    "SSH banner" : 67
+    "HTTP server" : 67
+    "SSL/TLS" : 51
+    "DNS quirks" : 48
+    "NTP" : 25
+    "SIP/VoIP" : 25
+    "Browser JS" : 22
+    "ICMP" : 13
+    "DHCPv6" : 9
+```
+
+</div>
+
+<details>
+<summary><b>Full protocol fingerprint table (13 protocols)</b></summary>
+
+| FILE | COUNT | WHAT IT IDENTIFIES |
+|:-----|:-----:|:-------------------|
+| `webuseragent.json` | `899` | Browser + device from HTTP User-Agent |
+| `dhcp.json` | `481` | Device name/type from DHCP behavior |
+| `tcp.json` | `184` | OS from TCP stack (window, TTL, options) |
+| `smb.json` | `89` | Windows version from SMB handshake |
+| `ssh.json` | `67` | Server software from SSH banner |
+| `web.json` | `67` | Web server from HTTP response headers |
+| `ssl.json` | `51` | TLS implementation from handshake |
+| `dns.json` | `48` | DNS server from query quirks |
+| `ntp.json` | `25` | Device type from NTP response |
+| `sip.json` | `25` | VoIP device from SIP headers |
+| `browser.json` | `22` | Browser from JS execution behavior |
+| `icmp.json` | `13` | OS from ICMP echo characteristics |
+| `dhcpv6.json` | `9` | Device from DHCPv6 behavior |
+
+</details>
 
 ---
 
-## Data Formats
-
-Each folder contains the same data in multiple formats:
+## `> identification_chain`
 
 ```
-MAC_Vendors/
-├── csv/          # Comma-separated values
-├── json/         # JSON records array
-├── parquet/      # Columnar format (compressed)
-└── sqlite/       # SQLite database
+┌─────────────────────────────────────────────────────────────┐
+│  NETWORK TRAFFIC OBSERVED                                   │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  MAC: 00:1A:2B:XX:XX:XX                                     │
+│  → MAC_Vendors/      → "Apple, Inc."                        │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  DHCP Option 55: 1,3,6,15,28,51,58,59                       │
+│  → DHCP_Signatures/  → fingerprint ID #450                  │
+│  → Combinations/     → "Amazon Fire OS" (eBook Reader)      │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  TCP SYN: Window=65535, TTL=64, Options=MSS,NOP,WS,NOP,NOP  │
+│  → Satori tcp.json   → "iOS 14.x"                           │
+└─────────────────────────────────────────────────────────────┘
+                              ↓
+┌─────────────────────────────────────────────────────────────┐
+│  RESULT: Apple device running iOS 14 + Amazon Fire OS app   │
+└─────────────────────────────────────────────────────────────┘
 ```
-
-| Format | Best For | Notes |
-|--------|----------|-------|
-| **CSV** | Excel, pandas, quick parsing | Universal compatibility |
-| **JSON** | Web apps, APIs, JavaScript | Easy to parse |
-| **Parquet** | Data science, Spark, fast analytics | Compressed, fast queries |
-| **SQLite** | SQL queries, local databases | Single file, queryable |
-
-Large datasets are chunked into parts to stay under GitHub's 100MB limit.
 
 ---
 
-## Quick Start
+## `> ls folders/`
 
-### Python — Lookup a MAC Address
+<div align="center">
+
+| FOLDER | WHAT IT HOLDS | RECORDS | FORMATS |
+|:-------|:--------------|:-------:|:-------:|
+| `MAC_Vendors/` | Hardware manufacturer identities (OUI extended) | `10.2M` | csv/json/parquet/sqlite |
+| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | `448K` | csv/json/parquet/sqlite |
+| `DHCP_Vendors/` | DHCP Option 60 vendor class strings | `444K` | csv/json/parquet/sqlite |
+| `Devices/` | Full device profiles | `119K` | csv/json/parquet/sqlite |
+| `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | `58K` | csv/json/parquet/sqlite |
+| `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | `1.6K` | csv/json/parquet/sqlite |
+| `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
+| `Combinations/` | Fingerprint → device mappings (the bridge) | `813` | csv/json/sqlite |
+
+</div>
+
+---
+
+## `> formats`
+
+Each folder ships the same data in multiple formats. Pick the one that fits your stack.
+
+<div align="center">
+
+| FORMAT | BEST FOR | NOTES |
+|:------:|:---------|:------|
+| ![CSV](https://img.shields.io/badge/CSV-Universal-FFFFFF?style=flat-square&labelColor=000000) | Excel, pandas, quick parsing | Plain text, universal |
+| ![JSON](https://img.shields.io/badge/JSON-API_Friendly-E5E7EB?style=flat-square&labelColor=000000) | Web apps, JavaScript, REST | Easy to load |
+| ![Parquet](https://img.shields.io/badge/Parquet-Analytics-D1D5DB?style=flat-square&labelColor=000000) | Spark, Polars, DuckDB | Columnar, compressed |
+| ![SQLite](https://img.shields.io/badge/SQLite-Indexed-9CA3AF?style=flat-square&labelColor=000000&logo=sqlite&logoColor=000000) | SQL queries, local DBs | Single file, queryable |
+
+</div>
+
+Large datasets are chunked under GitHub's **100 MB per-file limit** (e.g. `mac_vendor_part01.csv` … `mac_vendor_part11.csv`).
+
+---
+
+## `> usage`
+
+### `python` — Lookup a MAC
+
 ```python
 import sqlite3
 
 conn = sqlite3.connect('MAC_Vendors/sqlite/mac_vendor_part01.db')
-cursor = conn.execute("SELECT name FROM mac_vendors WHERE mac = '9CE330'")
-print(cursor.fetchone())  # → ('Cisco Systems, Inc.',)
+row = conn.execute(
+    "SELECT name FROM mac_vendor WHERE mac = '9CE330'"
+).fetchone()
+print(row)  # → ('Cisco Systems, Inc.',)
 ```
 
-### Python — Find Device from DHCP Fingerprint
+### `python` — Find Device from DHCP Fingerprint
+
 ```python
 import sqlite3
 
 # 1. Get fingerprint ID
-conn = sqlite3.connect('DHCP_Signatures/sqlite/dhcp_signature.db')
-cursor = conn.execute("SELECT id FROM dhcp_signatures WHERE value = '1,3,6,15,28,51,58,59'")
-fp_id = cursor.fetchone()[0]
+sig = sqlite3.connect('DHCP_Signatures/sqlite/dhcp_fingerprint.db')
+fp_id = sig.execute(
+    "SELECT id FROM dhcp_fingerprint WHERE value = '1,3,6,15,28,51,58,59'"
+).fetchone()[0]
 
-# 2. Get device from combinations
-conn2 = sqlite3.connect('Combinations/sqlite/combinations.db')
-cursor2 = conn2.execute("SELECT satori_name, device_type FROM dhcp_combinations WHERE dhcp_fingerprint_id = ?", (fp_id,))
-print(cursor2.fetchone())  # → ('Amazon Fire OS', 'eBook Reader')
+# 2. Cross-reference with combinations
+comb = sqlite3.connect('Combinations/sqlite/dhcp_combinations.db')
+row = comb.execute(
+    "SELECT satori_name, device_type FROM dhcp_combinations WHERE dhcp_fingerprint_id = ?",
+    (fp_id,)
+).fetchone()
+print(row)  # → ('Amazon Fire OS', 'eBook Reader')
 ```
 
-### Python — OS Fingerprint from TCP Behavior
+### `python` — OS from TCP Behavior
+
 ```python
 import json
 
 with open('Satori_Fingerprints/json/tcp.json') as f:
     tcp_fps = json.load(f)
 
-# Find fingerprints for Linux
-linux_fps = [fp for fp in tcp_fps if 'Linux' in fp.get('os_name', '')]
-print(f"Found {len(linux_fps)} Linux TCP fingerprints")
+linux = [fp for fp in tcp_fps if 'Linux' in fp.get('os_name', '')]
+print(f"{len(linux)} Linux TCP fingerprints")
 ```
 
-### JavaScript — Load Devices
+### `node.js`
+
 ```javascript
 const devices = require('./Devices/json/device.json');
 const iphones = devices.filter(d => d.name.includes('iPhone'));
-console.log(`Found ${iphones.length} iPhone variants`);
+console.log(`${iphones.length} iPhone variants`);
+```
+
+### `duckdb` — Query Parquet directly
+
+```sql
+SELECT name, COUNT(*)
+FROM 'MAC_Vendors/parquet/mac_vendor_part*.parquet'
+GROUP BY name
+ORDER BY 2 DESC
+LIMIT 20;
 ```
 
 ---
 
-## Use Cases
+## `> use_cases`
 
-| Use Case | What You Need |
-|----------|---------------|
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#FFFFFF','pie2':'#E5E7EB','pie3':'#D1D5DB','pie4':'#9CA3AF','pie5':'#FFD700','pie6':'#9FEF00','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
+pie showData
+    title Who Uses This (and How)
+    "Wardriving / WiFi mapping" : 28
+    "Network forensics & IR" : 22
+    "IoT / asset discovery" : 18
+    "Threat intel pipelines" : 14
+    "Educational / classroom" : 10
+    "Spoofing detection" : 8
+```
+
+<div align="center">
+
+| USE CASE | DATASETS YOU NEED |
+|:---------|:------------------|
 | **"What device is this MAC?"** | `MAC_Vendors/` |
 | **"What device sent this DHCP?"** | `DHCP_Signatures/` + `Combinations/` |
 | **"What OS from TCP behavior?"** | `Satori_Fingerprints/tcp.json` |
 | **"Identify SSH server version"** | `Satori_Fingerprints/ssh.json` |
 | **"Detect browser from User-Agent"** | `Satori_Fingerprints/webuseragent.json` |
-| **"Full device profile"** | `Devices/` |
+| **"Full device profile by ID"** | `Devices/` |
+| **"IPv6 device identification"** | `DHCPv6_Signatures/` + `DHCPv6_Enterprise/` |
+
+</div>
 
 ---
 
-## The Identification Chain
+## `> generate --fresh`
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  NETWORK TRAFFIC                                            │
-└─────────────────────────────────────────────────────────────┘
-                              ↓
-┌─────────────────────────────────────────────────────────────┐
-│  MAC Address: 00:1A:2B:XX:XX:XX                             │
-│  → MAC_Vendors/ → "Apple, Inc."                             │
-└─────────────────────────────────────────────────────────────┘
-                              ↓
-┌─────────────────────────────────────────────────────────────┐
-│  DHCP Option 55: 1,3,6,15,28,51,58,59                       │
-│  → DHCP_Signatures/ → ID #450                               │
-│  → Combinations/ → "Amazon Fire OS" (eBook Reader)          │
-└─────────────────────────────────────────────────────────────┘
-                              ↓
-┌─────────────────────────────────────────────────────────────┐
-│  TCP SYN: Window=65535, TTL=64, Options=MSS,NOP,WS,NOP,NOP  │
-│  → Satori tcp.json → "iOS 14.x"                             │
-└─────────────────────────────────────────────────────────────┘
-                              ↓
-┌─────────────────────────────────────────────────────────────┐
-│  RESULT: Apple device running iOS 14                        │
-└─────────────────────────────────────────────────────────────┘
+The data is generated by a Python pipeline that pulls from Fingerbank + Satori + IEEE
+sources, normalizes them, and exports to all 4 formats. To regenerate locally:
+
+```bash
+git clone https://github.com/Ringmast4r/Huginn-Muninn.git
+cd Huginn-Muninn
+
+python -m venv venv && source venv/bin/activate
+pip install requests pandas pyarrow
+
+# Set API key + GitHub token in .env
+cp .env.example .env
+$EDITOR .env
+
+python pipeline.py
 ```
 
----
+The pipeline:
 
-## Data Sources
-
-| Source | License | What It Provides |
-|--------|---------|-----------------|
-| [IEEE OUI](https://standards.ieee.org/products-programs/regauth/) | Public | Official MAC vendor registry |
-| Community OSINT | ODbL 1.0 | DHCP fingerprints, devices, vendors, protocol signatures |
-
----
-
-## Repository Stats
-
-| Metric | Value |
-|--------|-------|
-| Total records | ~11 million |
-| Data formats | CSV, JSON, Parquet, SQLite |
-| Folders | 8 |
-| Last updated | April 2026 |
+1. Downloads the latest Fingerbank canonical DB (`/api/v2/download/db`)
+2. Pulls Satori fingerprints from the open-source repo
+3. Exports every table to CSV, JSON, Parquet, SQLite
+4. Chunks large datasets under GitHub's 100 MB limit
+5. Commits + pushes the refresh to `main`
 
 ---
 
-*"Thought and Memory fly each day over the spacious earth. I fear for Thought, that he come not back, yet more anxious am I for Memory."*
+## `> update_schedule`
+
+The repo auto-updates on the **first of every month** at `03:00 UTC` via cron on a self-hosted runner:
+
+```
+0 3 1 * * cd /opt/huginn-muninn && python pipeline.py
+```
+
+Why monthly and not weekly? Fingerbank itself updates at roughly the same cadence,
+and the data is *additive* — devices don't disappear, fingerprints don't go stale fast.
+
+---
+
+## `> data_sources`
+
+<div align="center">
+
+| SOURCE | LICENSE | WHAT IT PROVIDES |
+|:-------|:-------:|:-----------------|
+| ![Fingerbank](https://img.shields.io/badge/Fingerbank-Free_API-FFFFFF?style=flat-square&labelColor=000000) | Free tier | MAC, DHCP, DHCPv6, devices |
+| ![Satori](https://img.shields.io/badge/Satori-MIT-E5E7EB?style=flat-square&labelColor=000000) | MIT | Protocol behavior fingerprints |
+| ![IEEE](https://img.shields.io/badge/IEEE-Public_Domain-D1D5DB?style=flat-square&labelColor=000000) | Public Domain | OUI manufacturer registry |
+
+</div>
+
+Each source is preserved with its original license. Combined output is released **MIT**.
+
+---
+
+## `> related_projects`
+
+[![OUI Master DB](https://img.shields.io/badge/OUI_Master_Database-88K_Vendors-FFFFFF?style=for-the-badge&logo=ethernet&logoColor=000000)](https://github.com/Ringmast4r/OUI-Master-Database)
+[![WiFi Mothership](https://img.shields.io/badge/WiFi_Mothership-Wardriving_Network-E5E7EB?style=for-the-badge&logo=wifi&logoColor=000000)](https://wifimothership.com/)
+[![FLOCK](https://img.shields.io/badge/FLOCK-336K_Cameras-D1D5DB?style=for-the-badge&logo=cctv&logoColor=000000)](https://github.com/Ringmast4r/FLOCK)
+[![Tower-Hunter](https://img.shields.io/badge/Tower--Hunter-Cell_Tower_Logger-9CA3AF?style=for-the-badge&logo=signal&logoColor=000000)](https://github.com/Ringmast4r/Tower-Hunter)
+
+---
+
+## `> contributing`
+
+Issues and PRs welcome. Most-wanted contributions:
+
+- Expand the `Combinations/` bridge beyond 813 mappings (theoretical space is 42 billion)
+- Add new protocol fingerprints to `Satori_Fingerprints/` (TLS JA3/JA4, QUIC, Bluetooth)
+- Country-code derivation from MAC vendor address strings
+- API wrapper libraries (Go, Rust, Ruby)
+
+---
+
+## `> credits`
+
+- **Fingerbank** — DHCP fingerprint database, free API tier · [fingerbank.org](https://fingerbank.org/)
+- **xnih/satori** — protocol behavior fingerprints · [github.com/xnih/satori](https://github.com/xnih/satori)
+- **IEEE Registration Authority** — official OUI registry · [standards-oui.ieee.org](https://standards-oui.ieee.org/)
+
+Released under **MIT** — use commercially, modify, redistribute, embed in proprietary tools.
+
+---
+
+> *"Every day Huginn and Muninn fly over the vast earth. I fear for Huginn that he may
+> not return, but I fear even more for Muninn."*
+> — Odin, from the Grímnismál
+
+*Thought is valuable. Memory is irreplaceable.*
+
+---
+
+**Last updated:** `2026-05-12` · **Total records:** `~11.3M` · **Maintained by** [@Ringmast4r](https://github.com/Ringmast4r)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=120&section=footer"/>
+
+</div>
