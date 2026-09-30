@@ -4,6 +4,7 @@ Thumbs.db
 
 # Pipeline internals -- these stay on the CT, never pushed
 pipeline.py
+daily_pull.py
 PRIVATE_README.md
 .env
 logs/
@@ -11,3 +12,8 @@ database/
 *.log
 __pycache__/
 *.pyc
+export_v4.py
+alert.py
+export_devices_extract.py
+crontab.txt
+JA4_Fingerprints/

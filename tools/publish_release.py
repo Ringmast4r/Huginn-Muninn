@@ -77,7 +77,9 @@ def main() -> int:
     (work / "RELEASE_NOTES.md").write_text(notes, encoding="utf-8")
     print(f"master: build {built_iso}, {size_gb:.2f} GB, sha256 {digest[:12]}...")
 
-    tags = ["data-latest"] + ([f"data-{datetime.now(timezone.utc):%Y-%m-%d}"] if args.dated else [])
+    today = datetime.now(timezone.utc)
+    dated = args.dated or today.day == 1  # the scheduled daily run keeps one dated release per month
+    tags = ["data-latest"] + ([f"data-{today:%Y-%m-%d}"] if dated else [])
     for tag in tags:
         exists = sh("gh", "release", "view", tag, "-R", REPO, check=False).returncode == 0
         if not exists:
