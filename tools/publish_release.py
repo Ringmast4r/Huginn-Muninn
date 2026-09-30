@@ -5,8 +5,8 @@ The master (1.5 GB, refreshed daily on CT 152) cannot live in git - GitHub refus
 100 MB - so it is published as a release asset instead: releases allow 2 GB per file, are served
 from a CDN with no bandwidth quota, and do not grow the repository history.
 
-  data-latest          rolling release; its asset is replaced on every run
-  data-YYYY-MM-DD      dated release, created on the first of each month (or with --tag)
+  data-latest          rolling release; its asset is replaced on every run (weekly, Sundays 11:00)
+  data-YYYY-MM-DD      dated release, created by the first run of each month (or with --dated)
 
 Runs on the workstation, where gh is signed in (unset GH_TOKEN first; the keyring token is the
 good one). Needs ssh access to the Proxmox host to pull the file out of CT 152.
@@ -78,7 +78,10 @@ def main() -> int:
     print(f"master: build {built_iso}, {size_gb:.2f} GB, sha256 {digest[:12]}...")
 
     today = datetime.now(timezone.utc)
-    dated = args.dated or today.day == 1  # the scheduled daily run keeps one dated release per month
+    # The weekly run keeps one dated release per month: the first run of a month creates it.
+    listed = sh("gh", "release", "list", "-R", REPO, "--limit", "200", "--json", "tagName", "--jq", ".[].tagName", check=False).stdout.split()
+    this_month = any(t.startswith(f"data-{today:%Y-%m}-") for t in listed)
+    dated = args.dated or not this_month
     tags = ["data-latest"] + ([f"data-{today:%Y-%m-%d}"] if dated else [])
     for tag in tags:
         exists = sh("gh", "release", "view", tag, "-R", REPO, check=False).returncode == 0
