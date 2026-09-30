@@ -95,6 +95,8 @@ DHCP Pattern "1,3,6,15,28,51,58,59"
 
 ## `> protocol_fingerprints`
 
+The `AppleDB/` folder maps Apple model identifiers (the `iPhone15,2` a device announces over mDNS) to the marketing name, chip, and release and discontinuation dates. Apple hardware randomizes its MAC address, so this is how an Apple device gets named at all. Mirrored from AppleDB (MIT) on every run; `raw/main.json` is the upstream file untouched.
+
 The `Satori_Fingerprints/` folder identifies devices by **how they behave** at the protocol
 level, not just what they self-report. A device doesn't need to tell you it's running Linux —
 its TCP stack betrays it.
@@ -188,6 +190,7 @@ pie showData
 | `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | 58K | csv/json/parquet/sqlite |
 | `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 2K | csv/json/parquet/sqlite |
 | `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
+| `AppleDB/` | Apple device identifiers (iPhone15,2 -> name, chip, release dates; MIT, mirrored from AppleDB) | `946` | csv/json/sqlite/raw |
 
 | `Combinations/` | Fingerprint → device mappings (the bridge) | `813` | csv/json/sqlite |
 
