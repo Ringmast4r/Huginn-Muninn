@@ -1,0 +1,40 @@
+{
+ "table": "dhcp6_fingerprint",
+ "fingerbank_generated_on": 1790651020,
+ "rows": 1665,
+ "files": [
+  {
+   "file": "csv/dhcp6_signature.csv",
+   "rows": 1665,
+   "bytes": 122810,
+   "sha256": "29d8636a9cfbcda7b0ddd57aaf335208b708c1be76fc98955bf078d82585ae59",
+   "first_id": 2,
+   "last_id": 1680
+  },
+  {
+   "file": "sqlite/dhcp6_signature.db",
+   "rows": 1665,
+   "bytes": 163840,
+   "sha256": "28d64e71ad37f1c34e57ed2203a9532d5cbdd77799660236a330af6e339da8b6",
+   "first_id": 2,
+   "last_id": 1680
+  },
+  {
+   "file": "parquet/dhcp6_signature.parquet",
+   "rows": 1665,
+   "bytes": 63369,
+   "sha256": "275472321bc2dad95f592f5bdc100a78e6dfac552ac0be62faf8ba3f53e46279",
+   "first_id": 2,
+   "last_id": 1680
+  },
+  {
+   "file": "json/dhcp6_signature.json",
+   "rows": 1665,
+   "bytes": 199418,
+   "sha256": "a7b3e2a2747ffcd4a0353acbfe4cd4fc5e9fd1d07d0c0542729c649019b00ec9",
+   "first_id": 2,
+   "last_id": 1680,
+   "note": "feed: id,value,created_at,updated_at"
+  }
+ ]
+}

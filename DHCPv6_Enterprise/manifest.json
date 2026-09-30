@@ -1,0 +1,40 @@
+{
+ "table": "dhcp6_enterprise",
+ "fingerbank_generated_on": 1790651020,
+ "rows": 58405,
+ "files": [
+  {
+   "file": "csv/dhcp6_enterprise.csv",
+   "rows": 58405,
+   "bytes": 4288238,
+   "sha256": "49254c2e8bfc8002366997a0b13fc13f23ff3b8a66cde12c78eba62c1b7bfa7f",
+   "first_id": 2,
+   "last_id": 58407
+  },
+  {
+   "file": "sqlite/dhcp6_enterprise.db",
+   "rows": 58405,
+   "bytes": 5242880,
+   "sha256": "8ff31f1cf0729fa61dcdfd3971b4c53c23253680399c58f82f7a72f4d96afe85",
+   "first_id": 2,
+   "last_id": 58407
+  },
+  {
+   "file": "parquet/dhcp6_enterprise.parquet",
+   "rows": 58405,
+   "bytes": 1857025,
+   "sha256": "7c3a84ce01f95cf788e0c9218fe46f89f18901a7ce54c4ed8dc6da8ad424afcf",
+   "first_id": 2,
+   "last_id": 58407
+  },
+  {
+   "file": "json/dhcp6_enterprise.json",
+   "rows": 58405,
+   "bytes": 8065840,
+   "sha256": "14e873f2678579691e120ecebd7f32bb079562603aa0cadb6a8f11ffc77c1f98",
+   "first_id": 2,
+   "last_id": 58407,
+   "note": "feed: id,value,created_at,updated_at,organization"
+  }
+ ]
+}

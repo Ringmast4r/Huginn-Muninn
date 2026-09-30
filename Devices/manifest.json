@@ -1,0 +1,40 @@
+{
+ "table": "device",
+ "fingerbank_generated_on": 1790651020,
+ "rows": 122186,
+ "files": [
+  {
+   "file": "csv/device.csv",
+   "rows": 122186,
+   "bytes": 17101894,
+   "sha256": "080ccb2c698c0e9c1d62533df71a6079e44485815929788854b2ebd9748722b7",
+   "first_id": 1,
+   "last_id": 165693
+  },
+  {
+   "file": "sqlite/device.db",
+   "rows": 122186,
+   "bytes": 18714624,
+   "sha256": "c5fc88d5f3a41d3069492abdbf5739b7ddd9ca201a52401480d765b62701806d",
+   "first_id": 1,
+   "last_id": 165693
+  },
+  {
+   "file": "parquet/device.parquet",
+   "rows": 122186,
+   "bytes": 4831043,
+   "sha256": "974e453bbaa378773b8eda56464596e6635d94f717a1401b37ed7ebdecfb9db0",
+   "first_id": 1,
+   "last_id": 165693
+  },
+  {
+   "file": "json/device.json",
+   "rows": 122186,
+   "bytes": 46345515,
+   "sha256": "e7a302a87ec9cbbaa39b9f227fc1231ff71f9025ff91f5041b5e35acd2f75d1e",
+   "first_id": 1,
+   "last_id": 165693,
+   "note": "feed: id,name,mobile,tablet,created_at,updated_at,parent_id,inherit,submitter_id,approved,devices_count,details,updated_by_id,virtual_parent_id,virtual_devices_count,simplified_name"
+  }
+ ]
+}

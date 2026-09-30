@@ -183,10 +183,10 @@ pie showData
 
 | FOLDER | WHAT IT HOLDS | RECORDS | FORMATS |
 |:-------|:--------------|:-------:|:-------:|
-| `MAC_Vendors/` | Hardware manufacturer identities (OUI extended) | 10.3M | csv/json/parquet/sqlite |
-| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 457K | csv/json/parquet/sqlite |
-| `DHCP_Vendors/` | DHCP Option 60 vendor class strings | 447K | csv/json/parquet/sqlite |
-| `Devices/` | Full device profiles | 119K | csv/json/parquet/sqlite |
+| `MAC_Vendors/` | Hardware manufacturer identities (OUI extended) | 10.4M | csv/json/parquet/sqlite |
+| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 510K | csv/json/parquet/sqlite |
+| `DHCP_Vendors/` | DHCP Option 60 vendor class strings | 460K | csv/json/parquet/sqlite |
+| `Devices/` | Full device profiles | 122K | csv/json/parquet/sqlite |
 | `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | 58K | csv/json/parquet/sqlite |
 | `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 2K | csv/json/parquet/sqlite |
 | `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
