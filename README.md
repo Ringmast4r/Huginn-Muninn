@@ -190,7 +190,7 @@ pie showData
 | `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | 58K | csv/json/parquet/sqlite |
 | `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 2K | csv/json/parquet/sqlite |
 | `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
-| `AppleDB/` | Apple device identifiers (iPhone15,2 -> name, chip, release dates; MIT, mirrored from AppleDB) | `946` | csv/json/sqlite/raw |
+| `AppleDB/` | Apple device identifiers (iPhone15,2 -> name, chip, release dates; MIT, mirrored from AppleDB) | `952` | csv/json/sqlite/raw |
 
 | `Combinations/` | Fingerprint → device mappings (the bridge) | `813` | csv/json/sqlite |
 

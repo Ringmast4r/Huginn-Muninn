@@ -3250,7 +3250,8 @@
  {
   "name": "AirPods 5 (Left)",
   "identifier": [
-   "AirPods3,7"
+   "AirPods3,7",
+   "Device1,8246"
   ],
   "key": "AirPods3,7-left",
   "soc": "H2",
@@ -3278,7 +3279,8 @@
  {
   "name": "AirPods 5 (Right)",
   "identifier": [
-   "AirPods3,7"
+   "AirPods3,7",
+   "Device1,8246"
   ],
   "key": "AirPods3,7-right",
   "soc": "H2",
@@ -3306,7 +3308,8 @@
  {
   "name": "AirPods 5 with Wireless Charging Case (Left)",
   "identifier": [
-   "AirPods3,8"
+   "AirPods3,8",
+   "Device1,8240"
   ],
   "key": "AirPods3,8-left",
   "soc": "H2",
@@ -3334,7 +3337,8 @@
  {
   "name": "AirPods 5 with Wireless Charging Case (Right)",
   "identifier": [
-   "AirPods3,8"
+   "AirPods3,8",
+   "Device1,8240"
   ],
   "key": "AirPods3,8-right",
   "soc": "H2",
@@ -3989,7 +3993,8 @@
  {
   "name": "Charging Case for AirPods 5",
   "identifier": [
-   "AirPods3,7"
+   "AirPods3,7",
+   "Device1,8246"
   ],
   "key": "AirPods3,7-case",
   "type": "AirPods",
@@ -4012,7 +4017,8 @@
  {
   "name": "Wireless Charging Case for AirPods 5",
   "identifier": [
-   "AirPods3,8"
+   "AirPods3,8",
+   "Device1,8240"
   ],
   "key": "AirPods3,8-case",
   "type": "AirPods",

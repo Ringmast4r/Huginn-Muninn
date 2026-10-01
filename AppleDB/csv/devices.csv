@@ -289,6 +289,12 @@ identifier,name,type,soc,arch,released,discontinued,boards,models,appledb_key
 "Device1,8239",Powerbeats Fit Charging Case,Beats Earbuds,,,2025-10-02,,B494bAP,A3479,Powerbeats Fit-case
 "Device1,8239",Powerbeats Fit (Left),Beats Earbuds,,,2025-10-02,,B494bAP,A3476,Powerbeats Fit-left
 "Device1,8239",Powerbeats Fit (Right),Beats Earbuds,,,2025-10-02,,B494bAP,A3477,Powerbeats Fit-right
+"Device1,8240",Wireless Charging Case for AirPods 5,AirPods,,,2026-09-18,,,A3529,"AirPods3,8-case"
+"Device1,8240",AirPods 5 with Wireless Charging Case (Left),AirPods,H2,,2026-09-18,,B868MAP,"A3440, A3441","AirPods3,8-left"
+"Device1,8240",AirPods 5 with Wireless Charging Case (Right),AirPods,H2,,2026-09-18,,B868MAP,"A3439, A3441","AirPods3,8-right"
+"Device1,8246",Charging Case for AirPods 5,AirPods,,,2026-09-18,,,A3530,"AirPods3,7-case"
+"Device1,8246",AirPods 5 (Left),AirPods,H2,,2026-09-18,,B868EAP,"A3532, A3533","AirPods3,7-left"
+"Device1,8246",AirPods 5 (Right),AirPods,H2,,2026-09-18,,B868EAP,"A3531, A3533","AirPods3,7-right"
 "Device1,8248",Beats 360,Beats Headphones,,,2026-09-24,,B518AP,A3577,"Beats3601,1"
 "Device1,9728",Beats Pill+,Beats Speakers,,,2015-10-26,,,A1680,"Device1,9728"
 "Device1,9728",Beats Pill+ Devin Booker Edition,Beats Speakers,,,2022-08-01,,,A1680,"Device1,9728-booker"
