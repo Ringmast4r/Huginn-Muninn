@@ -1,7 +1,7 @@
 {
  "table": "mac_vendor",
- "fingerbank_generated_on": 1791083002,
- "rows": 10422875,
+ "fingerbank_generated_on": 1791169411,
+ "rows": 10423150,
  "files": [
   {
    "file": "json/mac_vendor.part-00000000-00399999.json",
@@ -837,35 +837,35 @@
   },
   {
    "file": "json/mac_vendor.part-10400000-10799999.json",
-   "rows": 140529,
-   "bytes": 19533534,
-   "sha256": "512d5f7f7046242a8ece785b6492a237e368a84e6427e2308ea206a24f1d0c60",
+   "rows": 140804,
+   "bytes": 19571759,
+   "sha256": "882d7c012c1ddbf23efaa4fc071f7330ac85cb199987727cbb96132c966e1302",
    "first_id": 10400000,
-   "last_id": 10540528
+   "last_id": 10540803
   },
   {
    "file": "csv/mac_vendor.part-10400000-10799999.csv",
-   "rows": 140529,
-   "bytes": 11804470,
-   "sha256": "1ed4fb31c7eabebee82b48ae6f406db1160e26de9f3c93d8a52c53391a18027a",
+   "rows": 140804,
+   "bytes": 11827570,
+   "sha256": "67a2ab145d9c3ab1c655c5272f694c3dc552ec6933d325c1dfdec38e5b0668f2",
    "first_id": 10400000,
-   "last_id": 10540528
+   "last_id": 10540803
   },
   {
    "file": "sqlite/mac_vendor.part-10400000-10799999.db",
-   "rows": 140529,
-   "bytes": 14336000,
-   "sha256": "6b9e4d8f1da607c46855971c35b85abd69210a18ad8540e6583a31869894ae2e",
+   "rows": 140804,
+   "bytes": 14364672,
+   "sha256": "4b7bda41d99c5ecbea4aaf309705039a767c43c7bd37422e1a23fd2c7a26c9c5",
    "first_id": 10400000,
-   "last_id": 10540528
+   "last_id": 10540803
   },
   {
    "file": "parquet/mac_vendor.part-10400000-10799999.parquet",
-   "rows": 140529,
-   "bytes": 4648111,
-   "sha256": "0c2063f57ca7bc2b84dc96a5ea92baf43033bcd9d1813b7a06381e13eb173b5a",
+   "rows": 140804,
+   "bytes": 4656753,
+   "sha256": "d00781029c8bf0a292f5fdf0c7cbbe0e07aaa14733db59be80b6d0c5c4bfd28e",
    "first_id": 10400000,
-   "last_id": 10540528
+   "last_id": 10540803
   }
  ]
 }
