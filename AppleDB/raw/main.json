@@ -16156,7 +16156,7 @@
    "AppleDisplay18,1"
   ],
   "soc": "A19 Pro",
-  "cpid": "0x8140",
+  "cpid": "0x8150",
   "arch": "arm64e",
   "type": "Display",
   "board": [
@@ -16177,7 +16177,7 @@
   ],
   "imageKey": "AppleDisplay2,1",
   "soc": "A19",
-  "cpid": "0x8140",
+  "cpid": "0x8150",
   "arch": "arm64e",
   "type": "Display",
   "board": [
