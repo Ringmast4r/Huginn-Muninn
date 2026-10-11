@@ -2529,6 +2529,7 @@
   "identifier": [
    "iAccy1,1"
   ],
+  "soc": "Samsung S5L8747",
   "cpid": "0x8747",
   "type": "Adapters",
   "board": [
@@ -2647,6 +2648,7 @@
   "identifier": [
    "iAccy1,2"
   ],
+  "soc": "Samsung S5L8747",
   "cpid": "0x8747",
   "type": "Adapters",
   "board": [
@@ -11728,19 +11730,19 @@
    },
    {
     "name": "Coral Pink",
-    "hex": "F79488",
+    "hex": "E69A8F",
     "released": "2023-02-23",
     "key": "Coral Pink"
    },
    {
     "name": "Tidal Blue",
-    "hex": "334768",
+    "hex": "3B4763",
     "released": "2023-02-23",
     "key": "Tidal Blue"
    },
    {
     "name": "Volt Yellow",
-    "hex": "D9E74E",
+    "hex": "E7F165",
     "released": "2023-02-23",
     "key": "Volt Yellow"
    },
@@ -11764,25 +11766,25 @@
    },
    {
     "name": "Beats Black",
-    "hex": "333434",
+    "hex": "000000",
     "released": "2021-11-05",
     "key": "Beats Black"
    },
    {
     "name": "Beats White",
-    "hex": "EFF1F3",
+    "hex": "EBEBEB",
     "released": "2021-11-05",
     "key": "Beats White"
    },
    {
     "name": "Sage Gray",
-    "hex": "696969",
+    "hex": "6C6C6D",
     "released": "2021-11-05",
     "key": "Sage Gray"
    },
    {
     "name": "Stone Purple",
-    "hex": "DFBCE0",
+    "hex": "E4CCEE",
     "released": "2021-11-05",
     "key": "Stone Purple"
    }
@@ -11835,19 +11837,19 @@
    },
    {
     "name": "Coral Pink",
-    "hex": "F79488",
+    "hex": "E69A8F",
     "released": "2023-02-23",
     "key": "Coral Pink"
    },
    {
     "name": "Tidal Blue",
-    "hex": "334768",
+    "hex": "3B4763",
     "released": "2023-02-23",
     "key": "Tidal Blue"
    },
    {
     "name": "Volt Yellow",
-    "hex": "D9E74E",
+    "hex": "E7F165",
     "released": "2023-02-23",
     "key": "Volt Yellow"
    },
@@ -11871,25 +11873,25 @@
    },
    {
     "name": "Beats Black",
-    "hex": "333434",
+    "hex": "000000",
     "released": "2021-11-05",
     "key": "Beats Black"
    },
    {
     "name": "Beats White",
-    "hex": "EFF1F3",
+    "hex": "EBEBEB",
     "released": "2021-11-05",
     "key": "Beats White"
    },
    {
     "name": "Sage Gray",
-    "hex": "696969",
+    "hex": "6C6C6D",
     "released": "2021-11-05",
     "key": "Sage Gray"
    },
    {
     "name": "Stone Purple",
-    "hex": "DFBCE0",
+    "hex": "E4CCEE",
     "released": "2021-11-05",
     "key": "Stone Purple"
    }
@@ -11942,19 +11944,19 @@
    },
    {
     "name": "Coral Pink",
-    "hex": "F79488",
+    "hex": "E69A8F",
     "released": "2023-02-23",
     "key": "Coral Pink"
    },
    {
     "name": "Tidal Blue",
-    "hex": "334768",
+    "hex": "3B4763",
     "released": "2023-02-23",
     "key": "Tidal Blue"
    },
    {
     "name": "Volt Yellow",
-    "hex": "D9E74E",
+    "hex": "E7F165",
     "released": "2023-02-23",
     "key": "Volt Yellow"
    },
@@ -11978,25 +11980,25 @@
    },
    {
     "name": "Beats Black",
-    "hex": "333434",
+    "hex": "000000",
     "released": "2021-11-05",
     "key": "Beats Black"
    },
    {
     "name": "Beats White",
-    "hex": "EFF1F3",
+    "hex": "EBEBEB",
     "released": "2021-11-05",
     "key": "Beats White"
    },
    {
     "name": "Sage Gray",
-    "hex": "696969",
+    "hex": "6C6C6D",
     "released": "2021-11-05",
     "key": "Sage Gray"
    },
    {
     "name": "Stone Purple",
-    "hex": "DFBCE0",
+    "hex": "E4CCEE",
     "released": "2021-11-05",
     "key": "Stone Purple"
    }
@@ -12052,27 +12054,26 @@
    },
    {
     "name": "Flame Blue",
-    "hex": "02BBE4",
+    "hex": "ADDDF3",
     "released": "2021-01-20",
     "key": "Flame Blue"
    },
    {
     "name": "Smoke Gray",
-    "hex": "CED4D5",
+    "hex": "E0E5E5",
     "released": "2021-01-20",
     "key": "Smoke Gray"
    },
    {
-    "name": "Black",
-    "hex": "201E1F",
-    "released": "2020-10-21",
-    "key": "Black"
-   },
-   {
     "name": "Yuzu Yellow",
-    "hex": "DBDF7E",
+    "hex": "F3FB97",
     "released": "2020-10-21",
     "key": "Yuzu Yellow"
+   },
+   {
+    "name": "Beats Black",
+    "hex": "2B2B2B",
+    "key": "Beats Black"
    }
   ],
   "key": "BeatsX2,1",
@@ -12108,25 +12109,25 @@
    },
    {
     "name": "Arctic Purple",
-    "hex": "B5BAD7",
+    "hex": "BEC1E4",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "303030",
+    "hex": "000000",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "BFC5C3",
+    "hex": "C7CCCA",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "910E1D",
+    "hex": "A9182A",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12164,25 +12165,25 @@
    },
    {
     "name": "Arctic Purple",
-    "hex": "B5BAD7",
+    "hex": "BEC1E4",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "303030",
+    "hex": "000000",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "BFC5C3",
+    "hex": "C7CCCA",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "910E1D",
+    "hex": "A9182A",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12220,25 +12221,25 @@
    },
    {
     "name": "Arctic Purple",
-    "hex": "B5BAD7",
+    "hex": "BEC1E4",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "303030",
+    "hex": "000000",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "BFC5C3",
+    "hex": "C7CCCA",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "910E1D",
+    "hex": "A9182A",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12299,19 +12300,19 @@
    },
    {
     "name": "Moon Grey",
-    "hex": "A2A1A6",
+    "hex": "A4A4A4",
     "released": "2022-04-13",
     "key": "Moon Grey"
    },
    {
     "name": "Ocean Blue",
-    "hex": "283A89",
+    "hex": "384484",
     "released": "2022-04-13",
     "key": "Ocean Blue"
    },
    {
     "name": "Sunset Pink",
-    "hex": "F8CCE0",
+    "hex": "F4CCE4",
     "released": "2022-04-13",
     "key": "Sunset Pink"
    },
@@ -12335,19 +12336,19 @@
    },
    {
     "name": "Beats Red",
-    "hex": "C41C25",
+    "hex": "B10311",
     "released": "2021-06-24",
     "key": "Beats Red"
    },
    {
     "name": "Black",
-    "hex": "1C1C1C",
+    "hex": "2B2B2B",
     "released": "2021-06-24",
     "key": "Black"
    },
    {
     "name": "White",
-    "hex": "E2E3E5",
+    "hex": "D0D1D3",
     "released": "2021-06-24",
     "key": "White"
    }
@@ -12408,19 +12409,19 @@
    },
    {
     "name": "Moon Grey",
-    "hex": "A2A1A6",
+    "hex": "A4A4A4",
     "released": "2022-04-13",
     "key": "Moon Grey"
    },
    {
     "name": "Ocean Blue",
-    "hex": "283A89",
+    "hex": "384484",
     "released": "2022-04-13",
     "key": "Ocean Blue"
    },
    {
     "name": "Sunset Pink",
-    "hex": "F8CCE0",
+    "hex": "F4CCE4",
     "released": "2022-04-13",
     "key": "Sunset Pink"
    },
@@ -12444,19 +12445,19 @@
    },
    {
     "name": "Beats Red",
-    "hex": "C41C25",
+    "hex": "B10311",
     "released": "2021-06-24",
     "key": "Beats Red"
    },
    {
     "name": "Black",
-    "hex": "1C1C1C",
+    "hex": "2B2B2B",
     "released": "2021-06-24",
     "key": "Black"
    },
    {
     "name": "White",
-    "hex": "E2E3E5",
+    "hex": "D0D1D3",
     "released": "2021-06-24",
     "key": "White"
    }
@@ -12517,19 +12518,19 @@
    },
    {
     "name": "Moon Grey",
-    "hex": "A2A1A6",
+    "hex": "A4A4A4",
     "released": "2022-04-13",
     "key": "Moon Grey"
    },
    {
     "name": "Ocean Blue",
-    "hex": "283A89",
+    "hex": "384484",
     "released": "2022-04-13",
     "key": "Ocean Blue"
    },
    {
     "name": "Sunset Pink",
-    "hex": "F8CCE0",
+    "hex": "F4CCE4",
     "released": "2022-04-13",
     "key": "Sunset Pink"
    },
@@ -12553,19 +12554,19 @@
    },
    {
     "name": "Beats Red",
-    "hex": "C41C25",
+    "hex": "B10311",
     "released": "2021-06-24",
     "key": "Beats Red"
    },
    {
     "name": "Black",
-    "hex": "1C1C1C",
+    "hex": "2B2B2B",
     "released": "2021-06-24",
     "key": "Black"
    },
    {
     "name": "White",
-    "hex": "E2E3E5",
+    "hex": "D0D1D3",
     "released": "2021-06-24",
     "key": "White"
    }
@@ -12606,18 +12607,18 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "202020",
+    "hex": "2B2B2B",
     "released": "2023-05-17"
    },
    {
     "name": "Ivory",
-    "hex": "F3EEE8",
+    "hex": "F2EDE7",
     "released": "2023-05-17",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
-    "hex": "A7AEB9",
+    "hex": "B4B7C5",
     "released": "2023-05-17",
     "key": "Transparent"
    }
@@ -12659,18 +12660,18 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "202020",
+    "hex": "2B2B2B",
     "released": "2023-05-17"
    },
    {
     "name": "Ivory",
-    "hex": "F3EEE8",
+    "hex": "F2EDE7",
     "released": "2023-05-17",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
-    "hex": "A7AEB9",
+    "hex": "B4B7C5",
     "released": "2023-05-17",
     "key": "Transparent"
    }
@@ -12712,18 +12713,18 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "202020",
+    "hex": "2B2B2B",
     "released": "2023-05-17"
    },
    {
     "name": "Ivory",
-    "hex": "F3EEE8",
+    "hex": "F2EDE7",
     "released": "2023-05-17",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
-    "hex": "A7AEB9",
+    "hex": "B4B7C5",
     "released": "2023-05-17",
     "key": "Transparent"
    }
@@ -13443,25 +13444,25 @@
    },
    {
     "name": "Electric Orange",
-    "hex": "FE8D13",
+    "hex": "FF9528",
     "released": "2025-02-13",
     "key": "Electric Orange"
    },
    {
     "name": "Hyper Purple",
-    "hex": "A1A8DA",
+    "hex": "BFC5F7",
     "released": "2025-02-13",
     "key": "Hyper Purple"
    },
    {
     "name": "Jet Black",
-    "hex": "202120",
+    "hex": "000000",
     "released": "2025-02-13",
     "key": "Jet Black"
    },
    {
     "name": "Quick Sand",
-    "hex": "A69D94",
+    "hex": "C2BDB6",
     "released": "2025-02-13",
     "key": "Quick Sand"
    }
@@ -13502,25 +13503,25 @@
    },
    {
     "name": "Electric Orange",
-    "hex": "FE8D13",
+    "hex": "FF9528",
     "released": "2025-02-13",
     "key": "Electric Orange"
    },
    {
     "name": "Hyper Purple",
-    "hex": "A1A8DA",
+    "hex": "BFC5F7",
     "released": "2025-02-13",
     "key": "Hyper Purple"
    },
    {
     "name": "Jet Black",
-    "hex": "202120",
+    "hex": "000000",
     "released": "2025-02-13",
     "key": "Jet Black"
    },
    {
     "name": "Quick Sand",
-    "hex": "A69D94",
+    "hex": "C2BDB6",
     "released": "2025-02-13",
     "key": "Quick Sand"
    }
@@ -13561,25 +13562,25 @@
    },
    {
     "name": "Electric Orange",
-    "hex": "FE8D13",
+    "hex": "FF9528",
     "released": "2025-02-13",
     "key": "Electric Orange"
    },
    {
     "name": "Hyper Purple",
-    "hex": "A1A8DA",
+    "hex": "BFC5F7",
     "released": "2025-02-13",
     "key": "Hyper Purple"
    },
    {
     "name": "Jet Black",
-    "hex": "202120",
+    "hex": "000000",
     "released": "2025-02-13",
     "key": "Jet Black"
    },
    {
     "name": "Quick Sand",
-    "hex": "A69D94",
+    "hex": "C2BDB6",
     "released": "2025-02-13",
     "key": "Quick Sand"
    }
@@ -15455,19 +15456,19 @@
    },
    {
     "name": "Champagne Gold",
-    "hex": "A48C70",
+    "hex": "D0C5C2",
     "released": "2024-06-27",
     "key": "Champagne Gold"
    },
    {
     "name": "Matte Black",
-    "hex": "423E3E",
+    "hex": "000000",
     "released": "2024-06-27",
     "key": "Matte Black"
    },
    {
     "name": "Statement Red",
-    "hex": "B02026",
+    "hex": "B91F26",
     "released": "2024-06-27",
     "key": "Statement Red"
    }
@@ -15750,10 +15751,11 @@
   "imageKey": "Bluetooth Module"
  },
  {
-  "name": "Private Cloud Compute Node",
+  "name": "Private Cloud Compute Node (M1)",
   "identifier": [
    "ComputeModule13,1"
   ],
+  "soc": "M1",
   "cpid": "0x8103",
   "type": "Compute Module",
   "board": [
@@ -15767,10 +15769,11 @@
   "imageKey": "ComputeModule13,1"
  },
  {
-  "name": "Private Cloud Compute Node",
+  "name": "Private Cloud Compute Node (M1)",
   "identifier": [
    "ComputeModule13,2"
   ],
+  "soc": "M1",
   "cpid": "0x8103",
   "type": "Compute Module",
   "board": [
@@ -15784,10 +15787,11 @@
   "imageKey": "ComputeModule13,2"
  },
  {
-  "name": "Private Cloud Compute Node",
+  "name": "Private Cloud Compute Node (M1)",
   "identifier": [
    "ComputeModule13,3"
   ],
+  "soc": "M1",
   "cpid": "0x8103",
   "type": "Compute Module",
   "board": [
@@ -15805,6 +15809,7 @@
   "identifier": [
    "ComputeModule13,5"
   ],
+  "soc": "M1",
   "cpid": "0x8103",
   "type": "Compute Module",
   "board": [
@@ -15818,10 +15823,11 @@
   "imageKey": "ComputeModule13,5"
  },
  {
-  "name": "Private Cloud Compute Node",
+  "name": "Private Cloud Compute Node (M2 Ultra)",
   "identifier": [
    "ComputeModule14,1"
   ],
+  "soc": "M2 Ultra",
   "cpid": "0x6022",
   "type": "Compute Module",
   "board": [
@@ -15837,10 +15843,11 @@
   "imageKey": "ComputeModule14,1"
  },
  {
-  "name": "Private Cloud Compute Node",
+  "name": "Private Cloud Compute Node (M5)",
   "identifier": [
    "ComputeModule17,2"
   ],
+  "soc": "M5",
   "cpid": "0x8142",
   "type": "Compute Module",
   "board": [
@@ -41276,7 +41283,7 @@
   "identifier": [
    "iPhone1,1"
   ],
-  "soc": "APL0098",
+  "soc": "Samsung S5L8900",
   "cpid": "0x8900",
   "arch": "armv6",
   "type": "iPhone",
@@ -41323,7 +41330,7 @@
   "identifier": [
    "iPhone1,2"
   ],
-  "soc": "APL0098",
+  "soc": "Samsung S5L8900",
   "cpid": "0x8900",
   "arch": "armv6",
   "type": "iPhone",
@@ -44932,7 +44939,7 @@
   "identifier": [
    "iPhone2,1"
   ],
-  "soc": "APL0298",
+  "soc": "Samsung S5L8920",
   "cpid": "0x8920",
   "arch": "armv7",
   "type": "iPhone",
@@ -47031,7 +47038,7 @@
   "identifier": [
    "iPod1,1"
   ],
-  "soc": "APL0098",
+  "soc": "Samsung S5L8900",
   "cpid": "0x8900",
   "arch": "armv6",
   "type": "iPod touch",
@@ -47064,7 +47071,7 @@
   "identifier": [
    "iPod2,1"
   ],
-  "soc": "APL0278",
+  "soc": "Samsung S5L8720",
   "cpid": "0x8720",
   "arch": "armv6",
   "type": "iPod touch",
@@ -47115,7 +47122,7 @@
   "identifier": [
    "iPod3,1"
   ],
-  "soc": "APL2298",
+  "soc": "Samsung S5L8922",
   "cpid": "0x8922",
   "arch": "armv7",
   "type": "iPod touch",
