@@ -1576,6 +1576,9 @@
  {
   "name": "iPhone Duo Folio with Kickstand",
   "type": "Cases",
+  "model": [
+   "A3732"
+  ],
   "released": "2026-10-23",
   "colors": [
    {
@@ -1591,7 +1594,6 @@
     "key": "Taupe"
    }
   ],
-  "model": [],
   "board": [],
   "identifier": [],
   "key": "iPhone Duo Folio with Kickstand",
@@ -5254,6 +5256,25 @@
   "board": [],
   "key": "AppleTV14,5",
   "imageKey": "AppleTV14,5"
+ },
+ {
+  "name": "Apple TV 4K (4th generation)",
+  "identifier": [
+   "AppleTV18,1"
+  ],
+  "imageKey": "AppleTV14,1",
+  "soc": "A19",
+  "cpid": "0x8150",
+  "arch": "arm64e",
+  "type": "Apple TV",
+  "board": [
+   "J265AP"
+  ],
+  "model": [
+   "A3593"
+  ],
+  "released": "2026-11-13",
+  "key": "AppleTV18,1"
  },
  {
   "name": "Apple TV (2nd generation)",
@@ -16592,6 +16613,25 @@
   "imageKey": "AudioAccessory1,2"
  },
  {
+  "name": "HomePod mini 2",
+  "identifier": [
+   "AudioAccessory11,1"
+  ],
+  "soc": "S10",
+  "cpid": "0x8310",
+  "arch": "arm64e",
+  "type": "HomePod",
+  "board": [
+   "B525AP"
+  ],
+  "model": [
+   "A3374"
+  ],
+  "released": "2026-10-30",
+  "key": "AudioAccessory11,1",
+  "imageKey": "AudioAccessory11,1"
+ },
+ {
   "name": "HomePod mini (China Mainland)",
   "identifier": [
    "AudioAccessory5,1"
@@ -16784,6 +16824,44 @@
   ],
   "key": "AudioAccessory6,1",
   "imageKey": "AudioAccessory6,1"
+ },
+ {
+  "name": "HomeView",
+  "identifier": [
+   "HomeAccessory17,1"
+  ],
+  "soc": "A18",
+  "cpid": "0x8140",
+  "arch": "arm64e",
+  "type": "HomeView",
+  "board": [
+   "J490AP"
+  ],
+  "model": [
+   "A3218"
+  ],
+  "released": "2026-11-13",
+  "key": "HomeAccessory17,1",
+  "imageKey": "HomeAccessory17,1"
+ },
+ {
+  "name": "HomeView (Wall Mounted)",
+  "identifier": [
+   "HomeAccessory17,2"
+  ],
+  "soc": "A18",
+  "cpid": "0x8140",
+  "arch": "arm64e",
+  "type": "HomeView",
+  "board": [
+   "J491AP"
+  ],
+  "model": [
+   "A3300"
+  ],
+  "released": "2026-11-13",
+  "key": "HomeAccessory17,2",
+  "imageKey": "HomeAccessory17,2"
  },
  {
   "name": "Apple Adjustable Keyboard",
@@ -29486,6 +29564,20 @@
   "released": "2022-10-18",
   "key": "ATVRemote1,4",
   "imageKey": "ATVRemote1,4"
+ },
+ {
+  "name": "Siri Remote (4th generation)",
+  "identifier": [
+   "ATVRemote1,5"
+  ],
+  "type": "Remote",
+  "model": [
+   "A3592"
+  ],
+  "released": "2026-11-13",
+  "board": [],
+  "key": "ATVRemote1,5",
+  "imageKey": "ATVRemote1,5"
  },
  {
   "name": "Apple Remote (aluminum)",
