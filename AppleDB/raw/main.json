@@ -5274,6 +5274,14 @@
    "A3593"
   ],
   "released": "2026-11-13",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "2E2E2E",
+    "released": "2026-11-13",
+    "key": "Black"
+   }
+  ],
   "key": "AppleTV18,1"
  },
  {
@@ -29571,11 +29579,13 @@
    "ATVRemote1,5"
   ],
   "type": "Remote",
+  "board": [
+   "B529AP"
+  ],
   "model": [
    "A3592"
   ],
   "released": "2026-11-13",
-  "board": [],
   "key": "ATVRemote1,5",
   "imageKey": "ATVRemote1,5"
  },
@@ -29969,6 +29979,20 @@
   "imageKey": "Alchemy Synth Mobile Studio"
  },
  {
+  "name": "Aperture",
+  "type": "Software",
+  "released": "2005-11-29",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/aperture/id408981426?mt=12",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Aperture",
+  "imageKey": "Aperture"
+ },
+ {
   "name": "App Store Connect",
   "type": "Software",
   "released": "2018-06-13",
@@ -30049,6 +30073,28 @@
   "imageKey": "Apple Configurator (iOS)"
  },
  {
+  "name": "Apple Configurator (macOS)",
+  "type": "Software",
+  "released": "2012-03-07",
+  "appLink": [
+   {
+    "url": "https://apps.apple.com/us/app/apple-configurator/id434433123",
+    "label": "1.x",
+    "active": false
+   },
+   {
+    "url": "https://apps.apple.com/us/app/apple-configurator/id1037126344",
+    "label": "2.x",
+    "active": true
+   }
+  ],
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple Configurator (macOS)",
+  "imageKey": "Apple Configurator (macOS)"
+ },
+ {
   "name": "Apple Developer (iOS)",
   "type": "Software",
   "released": "2013-06-02",
@@ -30102,6 +30148,20 @@
   "identifier": [],
   "key": "Apple Devices",
   "imageKey": "Apple Devices"
+ },
+ {
+  "name": "Apple Events",
+  "type": "Software",
+  "released": "2016-03-16",
+  "appLink": {
+   "url": "https://apps.apple.com/us/app/apple-events/id1090599922",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple Events",
+  "imageKey": "Apple Events"
  },
  {
   "name": "Apple Guide",
@@ -30284,6 +30344,17 @@
   "identifier": [],
   "key": "Apple Podcasts",
   "imageKey": "Apple Podcasts"
+ },
+ {
+  "name": "Apple Remote Desktop",
+  "type": "Software",
+  "released": "2002-03-14",
+  "appLink": "https://apps.apple.com/us/app/id409907375",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple Remote Desktop",
+  "imageKey": "Apple Remote Desktop"
  },
  {
   "name": "Apple Research",
@@ -30561,6 +30632,20 @@
   "imageKey": "Beats (Android)"
  },
  {
+  "name": "Beats Music (Android)",
+  "type": "Software",
+  "released": "2014-01-21",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.beatsmusic.android.client",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Beats Music (Android)",
+  "imageKey": "Beats Music (Android)"
+ },
+ {
   "name": "Beats Music (iOS)",
   "type": "Software",
   "released": "2014-01-21",
@@ -30584,6 +30669,20 @@
   "board": [],
   "identifier": [],
   "imageKey": "Beats Pill+ App"
+ },
+ {
+  "name": "Beddit (Android)",
+  "type": "Software",
+  "released": "2014-05-19",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.beddit.beddit",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Beddit (Android)",
+  "imageKey": "Beddit (Android)"
  },
  {
   "name": "Beddit (for Model 3.5)",
@@ -30855,6 +30954,17 @@
   "imageKey": "Classic Mac"
  },
  {
+  "name": "Classroom (macOS)",
+  "type": "Software",
+  "released": "2018-09-26",
+  "appLink": "https://apps.apple.com/us/app/id1358883623",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Classroom (macOS)",
+  "imageKey": "Classroom (macOS)"
+ },
+ {
   "name": "Classroom",
   "type": "Software",
   "released": "2016-03-21",
@@ -30903,7 +31013,7 @@
  {
   "name": "Compressor",
   "type": "Software",
-  "released": "2003-06-22",
+  "released": "2003-06-14",
   "appLink": "https://apps.apple.com/us/app/compressor/id424390742",
   "model": [],
   "board": [],
@@ -30962,6 +31072,19 @@
   "imageKey": "Dark Echo (iOS)"
  },
  {
+  "name": "Dark Sky Weather (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=net.darksky.darksky",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Dark Sky Weather (Android)",
+  "imageKey": "Dark Sky Weather (Android)"
+ },
+ {
   "name": "Dark Sky Weather (iOS)",
   "type": "Software",
   "released": "2012-04-16",
@@ -30974,6 +31097,20 @@
   "identifier": [],
   "key": "Dark Sky Weather (iOS)",
   "imageKey": "Dark Sky Weather (iOS)"
+ },
+ {
+  "name": "DeskConnect (macOS)",
+  "type": "Software",
+  "released": "2013-08-29",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/deskconnect/id642220194?mt=12",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "DeskConnect (macOS)",
+  "imageKey": "DeskConnect (macOS)"
  },
  {
   "name": "DeskConnect",
@@ -31433,6 +31570,20 @@
   "imageKey": "Flapcraft"
  },
  {
+  "name": "Flyby Messenger",
+  "type": "Software",
+  "released": "2014-02-26",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/flyby-messenger/id791392575",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Flyby Messenger",
+  "imageKey": "Flyby Messenger"
+ },
+ {
   "name": "For All Mankind: Time Capsule",
   "key": "For All Mankind Time Capsule",
   "type": "Software",
@@ -31467,6 +31618,17 @@
   "identifier": [],
   "key": "GarageBand (iOS)",
   "imageKey": "GarageBand (iOS)"
+ },
+ {
+  "name": "GarageBand (macOS)",
+  "type": "Software",
+  "released": "2004-01-16",
+  "appLink": "https://apps.apple.com/us/app/id682658836",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "GarageBand (macOS)",
+  "imageKey": "GarageBand (macOS)"
  },
  {
   "name": "GymKit Certification Assistant",
@@ -31544,6 +31706,20 @@
   "imageKey": "Hearts"
  },
  {
+  "name": "Hello Barbie Companion App (Android)",
+  "type": "Software",
+  "released": "2015-11-16",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.toytalk.hellobarbie",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Hello Barbie Companion App (Android)",
+  "imageKey": "Hello Barbie Companion App (Android)"
+ },
+ {
   "name": "Hello Barbie Companion App",
   "type": "Software",
   "released": "2015-10-23",
@@ -31556,6 +31732,20 @@
   "identifier": [],
   "key": "Hello Barbie Companion App",
   "imageKey": "Hello Barbie Companion App"
+ },
+ {
+  "name": "Hello Dreamhouse Companion App (Android)",
+  "type": "Software",
+  "released": "2016-10-12",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.toytalk.hellohouse",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Hello Dreamhouse Companion App (Android)",
+  "imageKey": "Hello Dreamhouse Companion App (Android)"
  },
  {
   "name": "Hello Dreamhouse Companion App",
@@ -31630,6 +31820,33 @@
   "identifier": [],
   "key": "Indoor Survey",
   "imageKey": "Indoor Survey"
+ },
+ {
+  "name": "Junaio Augmented Reality (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.metaio.junaio",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Junaio Augmented Reality (Android)",
+  "imageKey": "Junaio Augmented Reality (Android)"
+ },
+ {
+  "name": "Junaio Augmented Reality Browser for iPad",
+  "type": "Software",
+  "released": "2011-04-01",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/junaio-augmented-reality-browser/id426387772",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Junaio Augmented Reality Browser for iPad",
+  "imageKey": "Junaio Augmented Reality Browser for iPad"
  },
  {
   "name": "Junaio Augmented Reality Browser",
@@ -31727,6 +31944,19 @@
   "identifier": [],
   "key": "Koalify",
   "imageKey": "Koalify"
+ },
+ {
+  "name": "Laserlike (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.searchlike",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Laserlike (Android)",
+  "imageKey": "Laserlike (Android)"
  },
  {
   "name": "Laserlike",
@@ -31878,7 +32108,7 @@
  {
   "name": "MainStage",
   "type": "Software",
-  "released": "2003-06-22",
+  "released": "2007-09-12",
   "appLink": "https://apps.apple.com/us/app/mainstage/id634159523",
   "model": [],
   "board": [],
@@ -31995,7 +32225,7 @@
  {
   "name": "Motion",
   "type": "Software",
-  "released": "2003-06-22",
+  "released": "2004-08-10",
   "appLink": "https://apps.apple.com/us/app/motion/id434290957",
   "model": [],
   "board": [],
@@ -32065,6 +32295,20 @@
   "identifier": [],
   "key": "News Previewer",
   "imageKey": "News Previewer"
+ },
+ {
+  "name": "NextVR Now (Android)",
+  "type": "Software",
+  "released": "2017-10-17",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.nextvr.lunar.now",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "NextVR Now (Android)",
+  "imageKey": "NextVR Now (Android)"
  },
  {
   "name": "NextVR Now (iOS)",
@@ -32584,6 +32828,31 @@
   "imageKey": "Shazam (iOS)"
  },
  {
+  "name": "Shazam (macOS)",
+  "type": "Software",
+  "released": "2014-07-31",
+  "appLink": "https://apps.apple.com/us/app/id897118787",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Shazam (macOS)",
+  "imageKey": "Shazam (macOS)"
+ },
+ {
+  "name": "Shazam Lite (Android)",
+  "type": "Software",
+  "released": "2016-10-06",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.shazam.android.lite",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Shazam Lite (Android)",
+  "imageKey": "Shazam Lite (Android)"
+ },
+ {
   "name": "Shazam for iPad",
   "type": "Software",
   "released": "2010-04-01",
@@ -32701,6 +32970,17 @@
   "imageKey": "Sneaky Sasquatch (iOS)"
  },
  {
+  "name": "Sneaky Sasquatch (macOS)",
+  "type": "Software",
+  "released": "2019-10-07",
+  "appLink": "https://apps.apple.com/us/app/sneaky-sasquatch/id1465346522?platform=mac",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Sneaky Sasquatch (macOS)",
+  "imageKey": "Sneaky Sasquatch (macOS)"
+ },
+ {
   "name": "Sneaky Sasquatch Stickers",
   "type": "Software",
   "released": "2025-11-15",
@@ -32752,6 +33032,20 @@
   "identifier": [],
   "key": "SpeakaLegend",
   "imageKey": "SpeakaLegend"
+ },
+ {
+  "name": "SpeakaZoo (Android)",
+  "type": "Software",
+  "released": "2016-04-30",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.toytalk.speakazoo",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "SpeakaZoo (Android)",
+  "imageKey": "SpeakaZoo (Android)"
  },
  {
   "name": "SpeakaZoo",
@@ -32822,6 +33116,19 @@
   "identifier": [],
   "key": "Spotsetter",
   "imageKey": "Spotsetter"
+ },
+ {
+  "name": "Super Surf Bros (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.rac7.SuperSurfBros",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Super Surf Bros (Android)",
+  "imageKey": "Super Surf Bros (Android)"
  },
  {
   "name": "Super Surf Bros",
@@ -32918,6 +33225,19 @@
   "imageKey": "Texas Holdem"
  },
  {
+  "name": "Texture (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.nim.discovery",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Texture (Android)",
+  "imageKey": "Texture (Android)"
+ },
+ {
   "name": "Texture (iOS)",
   "type": "Software",
   "released": "2012-07-10",
@@ -32930,6 +33250,33 @@
   "identifier": [],
   "key": "Texture (iOS)",
   "imageKey": "Texture (iOS)"
+ },
+ {
+  "name": "Texture Canada (Android)",
+  "type": "Software",
+  "released": "2014-03-05",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.nim.rogers",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Texture Canada (Android)",
+  "imageKey": "Texture Canada (Android)"
+ },
+ {
+  "name": "Thomas & Friends Talk to You (Android)",
+  "type": "Software",
+  "appLink": {
+   "url": "https://play.google.com/store/apps/details?id=com.toytalk.thomas",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Thomas & Friends Talk to You (Android)",
+  "imageKey": "Thomas & Friends Talk to You (Android)"
  },
  {
   "name": "Thomas & Friends Talk to You",
@@ -32971,6 +33318,17 @@
   "imageKey": "Tracker Detect"
  },
  {
+  "name": "Transporter",
+  "type": "Software",
+  "released": "2019-10-15",
+  "appLink": "https://apps.apple.com/us/app/id1450874784",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Transporter",
+  "imageKey": "Transporter"
+ },
+ {
   "name": "Videos",
   "type": "Software",
   "released": "2016-05-23",
@@ -32980,6 +33338,20 @@
   "identifier": [],
   "key": "Videos",
   "imageKey": "Videos"
+ },
+ {
+  "name": "Vilynx",
+  "type": "Software",
+  "released": "2013-09-30",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/vilynx-protect-upload-manage/id529967063",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Vilynx",
+  "imageKey": "Vilynx"
  },
  {
   "name": "WWDC",
@@ -33024,6 +33396,20 @@
   "imageKey": "Workflow"
  },
  {
+  "name": "XNOR",
+  "type": "Software",
+  "released": "2019-02-21",
+  "appLink": {
+   "url": "https://apps.apple.com/us/app/xnor/id1450969905",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "XNOR",
+  "imageKey": "XNOR"
+ },
+ {
   "name": "Xcode",
   "type": "Software",
   "released": "2003-09-28",
@@ -33061,6 +33447,34 @@
   "identifier": [],
   "key": "iAd Tester",
   "imageKey": "iAd Tester"
+ },
+ {
+  "name": "iBooks Author",
+  "type": "Software",
+  "released": "2012-01-19",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/ibooks-author/id490152466?mt=12",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "iBooks Author",
+  "imageKey": "iBooks Author"
+ },
+ {
+  "name": "iBooks StoryTime",
+  "type": "Software",
+  "released": "2016-11-10",
+  "appLink": {
+   "url": "https://apps.apple.com/us/app/ibooks-storytime/id1116818988",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "iBooks StoryTime",
+  "imageKey": "iBooks StoryTime"
  },
  {
   "name": "iClosure",
@@ -33214,6 +33628,20 @@
   "imageKey": "iPhoto (iOS)"
  },
  {
+  "name": "iPhoto (macOS)",
+  "type": "Software",
+  "released": "2002-01-07",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/iphoto/id408981381?mt=12",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "iPhoto (macOS)",
+  "imageKey": "iPhoto (macOS)"
+ },
+ {
   "name": "iTunes (Windows, x64)",
   "type": "Software",
   "released": "2001-01-09",
@@ -33329,6 +33757,20 @@
   "identifier": [],
   "key": "mInstaller for iPad",
   "imageKey": "mInstaller for iPad"
+ },
+ {
+  "name": "metaio Creator Mobile",
+  "type": "Software",
+  "released": "2012-03-02",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/metaio-creator-mobile/id503881220",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "metaio Creator Mobile",
+  "imageKey": "metaio Creator Mobile"
  },
  {
   "name": "Magic Trackpad (1st generation)",

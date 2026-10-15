@@ -13,7 +13,7 @@ identifier,name,type,soc,arch,released,discontinued,boards,models,appledb_key
 "ATVRemote1,2","Siri Remote (1st generation, Rev A)",Remote,,,2017-09-12,,B439AP,A1962,"ATVRemote1,2"
 "ATVRemote1,3",Siri Remote (2nd generation),Remote,,,2021-05-21,,B519AP,A2540,"ATVRemote1,3"
 "ATVRemote1,4",Siri Remote (3rd generation),Remote,,,2022-10-18,,B519aAP,A2854,"ATVRemote1,4"
-"ATVRemote1,5",Siri Remote (4th generation),Remote,,,2026-11-13,,,A3592,"ATVRemote1,5"
+"ATVRemote1,5",Siri Remote (4th generation),Remote,,,2026-11-13,,B529AP,A3592,"ATVRemote1,5"
 "AirPods1,1","AirPods (Left, 1st generation)",AirPods,W1,armv6,2016-12-19,2019-03-20,B188AP,A1722,"AirPods1,1-left"
 "AirPods1,1","AirPods (Right, 1st generation)",AirPods,W1,armv6,2016-12-19,2019-03-20,B188AP,A1523,"AirPods1,1-right"
 "AirPods1,2","AirPods (Left, 2nd generation)",AirPods,H1,armv7,2019-03-20,2024-09-10,B288AP,A2031,"AirPods1,2-left"
