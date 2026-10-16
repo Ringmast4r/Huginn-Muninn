@@ -5196,11 +5196,13 @@
    "A2737"
   ],
   "released": "2022-11-04",
+  "discontinued": "2026-10-13",
   "colors": [
    {
     "name": "Black",
     "hex": "2E2E2E",
     "released": "2022-11-04",
+    "discontinued": "2026-10-13",
     "key": "Black"
    }
   ]
@@ -5222,11 +5224,13 @@
    "A2843"
   ],
   "released": "2022-11-04",
+  "discontinued": "2026-10-13",
   "colors": [
    {
     "name": "Black",
     "hex": "2E2E2E",
     "released": "2022-11-04",
+    "discontinued": "2026-10-13",
     "key": "Black"
    }
   ],
@@ -9533,6 +9537,18 @@
   "identifier": [],
   "key": "AirPods (3rd generation) Right Battery",
   "imageKey": "AirPods (3rd generation) Right Battery"
+ },
+ {
+  "name": "AirPods 4 Battery",
+  "type": "Batteries",
+  "model": [
+   "A3182"
+  ],
+  "released": "2024-09-20",
+  "board": [],
+  "identifier": [],
+  "key": "AirPods 4 Battery",
+  "imageKey": "AirPods 4 Battery"
  },
  {
   "name": "AirPods Max Battery",
@@ -16661,42 +16677,49 @@
    "2021-10-18",
    "2024-07-17"
   ],
+  "discontinued": "2026-10-13",
   "colors": [
    {
     "name": "Midnight",
     "hex": "404145",
     "released": "2024-07-17",
+    "discontinued": "2026-10-13",
     "key": "Midnight"
    },
    {
     "name": "Blue",
     "hex": "274B61",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Blue"
    },
    {
     "name": "Orange",
     "hex": "EB6D49",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Orange"
    },
    {
     "name": "Yellow",
     "hex": "EAA626",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Yellow"
-   },
-   {
-    "name": "Space Gray",
-    "hex": "3D4042",
-    "released": "2020-12-11",
-    "key": "Space Gray"
    },
    {
     "name": "White",
     "hex": "E6E6E8",
     "released": "2020-12-11",
+    "discontinued": "2026-10-13",
     "key": "White"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "3D4042",
+    "released": "2020-12-11",
+    "discontinued": "2024-07-15",
+    "key": "Space Gray"
    }
   ],
   "imageKey": "AudioAccessory5,1-CHN"
@@ -16723,30 +16746,42 @@
    "2021-10-18",
    "2024-07-17"
   ],
+  "discontinued": "2026-10-13",
   "colors": [
    {
     "name": "Midnight",
     "hex": "404145",
     "released": "2024-07-17",
+    "discontinued": "2026-10-13",
     "key": "Midnight"
    },
    {
     "name": "Blue",
     "hex": "274B61",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Blue"
    },
    {
     "name": "Orange",
     "hex": "EB6D49",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Orange"
    },
    {
     "name": "Yellow",
     "hex": "EAA626",
     "released": "2021-10-18",
+    "discontinued": "2026-10-13",
     "key": "Yellow"
+   },
+   {
+    "name": "White",
+    "hex": "E6E6E8",
+    "released": "2020-11-16",
+    "discontinued": "2026-10-13",
+    "key": "White"
    },
    {
     "name": "Space Gray",
@@ -16754,12 +16789,6 @@
     "released": "2020-11-16",
     "discontinued": "2024-07-15",
     "key": "Space Gray"
-   },
-   {
-    "name": "White",
-    "hex": "E6E6E8",
-    "released": "2020-11-16",
-    "key": "White"
    }
   ],
   "key": "AudioAccessory5,1",
@@ -29570,6 +29599,7 @@
    "A2854"
   ],
   "released": "2022-10-18",
+  "discontinued": "2026-10-13",
   "key": "ATVRemote1,4",
   "imageKey": "ATVRemote1,4"
  },
