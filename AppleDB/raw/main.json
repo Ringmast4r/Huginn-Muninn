@@ -15445,9 +15445,19 @@
    "2024-10-18",
    "2025-04-28",
    "2025-07-18",
-   "2025-08-15"
+   "2025-08-15",
+   "2026-10-15"
   ],
   "colors": [
+   {
+    "name": "Pokémon Special Edition",
+    "hex": [
+     "FFD731",
+     "6F6C69"
+    ],
+    "released": "2026-10-15",
+    "key": "Pokémon Special Edition"
+   },
    {
     "name": "Kiko Kostadinov Edition",
     "hex": [
@@ -16606,6 +16616,7 @@
   "identifier": [
    "AudioAccessory1,2"
   ],
+  "imageKey": "AudioAccessory1,1",
   "soc": "A8",
   "cpid": "0x7000",
   "arch": "arm64",
@@ -16633,8 +16644,7 @@
    }
   ],
   "model": [],
-  "key": "AudioAccessory1,2",
-  "imageKey": "AudioAccessory1,2"
+  "key": "AudioAccessory1,2"
  },
  {
   "name": "HomePod mini 2",
@@ -16652,6 +16662,38 @@
    "A3374"
   ],
   "released": "2026-10-30",
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "627D9C",
+    "released": "2026-10-30",
+    "key": "Blue"
+   },
+   {
+    "name": "Green",
+    "hex": "618774",
+    "released": "2026-10-30",
+    "key": "Green"
+   },
+   {
+    "name": "Midnight",
+    "hex": "3F4245",
+    "released": "2026-10-30",
+    "key": "Midnight"
+   },
+   {
+    "name": "Pink",
+    "hex": "DAC9CD",
+    "released": "2026-10-30",
+    "key": "Pink"
+   },
+   {
+    "name": "White",
+    "hex": "EFEFF0",
+    "released": "2026-10-30",
+    "key": "White"
+   }
+  ],
   "key": "AudioAccessory11,1",
   "imageKey": "AudioAccessory11,1"
  },
@@ -16660,6 +16702,7 @@
   "identifier": [
    "AudioAccessory5,1"
   ],
+  "imageKey": "AudioAccessory5,1",
   "key": "AudioAccessory5,1-CHN",
   "soc": "S5",
   "cpid": "0x8006",
@@ -16721,8 +16764,7 @@
     "discontinued": "2024-07-15",
     "key": "Space Gray"
    }
-  ],
-  "imageKey": "AudioAccessory5,1-CHN"
+  ]
  },
  {
   "name": "HomePod mini",
@@ -16799,6 +16841,7 @@
   "identifier": [
    "AudioAccessory6,1"
   ],
+  "imageKey": "AudioAccessory6,1",
   "key": "AudioAccessory6,1-CHN",
   "soc": "S7",
   "cpid": "0x8301",
@@ -16825,8 +16868,7 @@
     "released": "2023-02-03",
     "key": "White"
    }
-  ],
-  "imageKey": "AudioAccessory6,1-CHN"
+  ]
  },
  {
   "name": "HomePod (2nd generation)",
@@ -16878,6 +16920,32 @@
    "A3218"
   ],
   "released": "2026-11-13",
+  "colors": [
+   {
+    "name": "Rose Pink",
+    "hex": "E5D4D2",
+    "released": "2026-11-13",
+    "key": "Rose Pink"
+   },
+   {
+    "name": "Silver",
+    "hex": "E3E4E5",
+    "released": "2026-11-13",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "B4B4B8",
+    "released": "2026-11-13",
+    "key": "Space Gray"
+   },
+   {
+    "name": "Starlight",
+    "hex": "EBE1D5",
+    "released": "2026-11-13",
+    "key": "Starlight"
+   }
+  ],
   "key": "HomeAccessory17,1",
   "imageKey": "HomeAccessory17,1"
  },
@@ -16897,6 +16965,20 @@
    "A3300"
   ],
   "released": "2026-11-13",
+  "colors": [
+   {
+    "name": "Silver",
+    "hex": "E3E4E5",
+    "released": "2026-11-13",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "B4B4B8",
+    "released": "2026-11-13",
+    "key": "Space Gray"
+   }
+  ],
   "key": "HomeAccessory17,2",
   "imageKey": "HomeAccessory17,2"
  },
