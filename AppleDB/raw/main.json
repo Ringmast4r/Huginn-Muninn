@@ -15553,146 +15553,6 @@
   "imageKey": "Beats Pill XL"
  },
  {
-  "name": "Beats Pill+ Devin Booker Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-booker",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2022-08-01",
-  "board": [],
-  "imageKey": "Device1,9728-booker"
- },
- {
-  "name": "Beats Pill+ FaZe Clan Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-faze",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2020-05-31",
-  "board": [],
-  "imageKey": "Device1,9728-faze"
- },
- {
-  "name": "Beats Pill+ Field Trip Recordings Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-recordings",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2022-06-09",
-  "board": [],
-  "imageKey": "Device1,9728-recordings"
- },
- {
-  "name": "Beats Pill+ KAR AUDIO SYSTEM Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-kar",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2021-06-26",
-  "board": [],
-  "imageKey": "Device1,9728-kar"
- },
- {
-  "name": "Beats Pill+ KITH Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-kith",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2016-06-12",
-  "board": [],
-  "imageKey": "Device1,9728-kith"
- },
- {
-  "name": "Beats Pill+ Madhappy Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-madhappy",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2022-06-20",
-  "board": [],
-  "imageKey": "Device1,9728-madhappy"
- },
- {
-  "name": "Beats Pill+ Quai 54 Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-quai",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2019-06-23",
-  "board": [],
-  "imageKey": "Device1,9728-quai"
- },
- {
-  "name": "Beats Pill+ Stüssy Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-stussy",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2022-03-04",
-  "board": [],
-  "imageKey": "Device1,9728-stussy"
- },
- {
-  "name": "Beats Pill+ The Malbons Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-malbons",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2020-11-12",
-  "board": [],
-  "imageKey": "Device1,9728-malbons"
- },
- {
-  "name": "Beats Pill+ UNDEFEATED Edition",
-  "identifier": [
-   "Device1,9728"
-  ],
-  "key": "Device1,9728-undefeated",
-  "type": "Beats Speakers",
-  "model": [
-   "A1680"
-  ],
-  "released": "2018-09-19",
-  "board": [],
-  "imageKey": "Device1,9728-undefeated"
- },
- {
   "name": "Beats Pill+",
   "identifier": [
    "Device1,9728"
@@ -15701,7 +15561,148 @@
   "model": [
    "A1680"
   ],
-  "released": "2015-10-26",
+  "released": [
+   "2015-10-26",
+   "2016-06-12",
+   "2016-11-19",
+   "2018-09-19",
+   "2019-06-23",
+   "2020-05-31",
+   "2020-11-12",
+   "2021-06-26",
+   "2022-03-04",
+   "2022-06-09",
+   "2022-06-20",
+   "2022-08-01"
+  ],
+  "colors": [
+   {
+    "name": "Devin Booker Edition",
+    "hex": [
+     "F3E7C9",
+     "302A2C"
+    ],
+    "released": "2022-08-01",
+    "key": "Devin Booker Edition"
+   },
+   {
+    "name": "Nightwave - Madhappy Edition",
+    "hex": [
+     "4A5368",
+     "EBEBEC"
+    ],
+    "released": "2022-06-20",
+    "key": "Nightwave - Madhappy Edition"
+   },
+   {
+    "name": "Future - Field Trip Recordings Edition",
+    "hex": [
+     "C4AA97",
+     "040304"
+    ],
+    "released": "2022-06-09",
+    "key": "Future - Field Trip Recordings Edition"
+   },
+   {
+    "name": "Past - Field Trip Recordings Edition",
+    "hex": [
+     "C8A995",
+     "050405"
+    ],
+    "released": "2022-06-09",
+    "key": "Past - Field Trip Recordings Edition"
+   },
+   {
+    "name": "Stüssy Edition",
+    "hex": [
+     "1F1E1C",
+     "EDEEEF"
+    ],
+    "released": "2022-03-04",
+    "key": "Stüssy Edition"
+   },
+   {
+    "name": "KAR AUDIO SYSTEM Edition",
+    "hex": [
+     "2B2E31",
+     "FB1C25"
+    ],
+    "released": "2021-06-26",
+    "key": "KAR AUDIO SYSTEM Edition"
+   },
+   {
+    "name": "The Malbons Edition",
+    "hex": [
+     "FAF9FB",
+     "282827"
+    ],
+    "released": "2020-11-12",
+    "key": "The Malbons Edition"
+   },
+   {
+    "name": "FaZe Clan Edition",
+    "hex": [
+     "E71418",
+     "222829"
+    ],
+    "released": "2020-05-31",
+    "key": "FaZe Clan Edition"
+   },
+   {
+    "name": "Quai 54 Edition (Black)",
+    "hex": [
+     "525457",
+     "FFFFFF"
+    ],
+    "released": "2019-06-23",
+    "key": "Quai 54 Edition (Black)"
+   },
+   {
+    "name": "Quai 54 Edition",
+    "hex": [
+     "525457",
+     "0DF999"
+    ],
+    "released": "2019-06-23",
+    "key": "Quai 54 Edition"
+   },
+   {
+    "name": "UNDEFEATED Edition",
+    "hex": [
+     "353535",
+     "464833"
+    ],
+    "released": "2018-09-19",
+    "key": "UNDEFEATED Edition"
+   },
+   {
+    "name": "KITH × colette Edition",
+    "hex": [
+     "0047A9",
+     "F9FBF8"
+    ],
+    "released": "2016-06-12",
+    "key": "KITH × colette Edition"
+   },
+   {
+    "name": "Black",
+    "hex": "000000",
+    "released": "2015-10-26",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2015-10-26",
+    "key": "White"
+   },
+   {
+    "name": "(PRODUCT)RED",
+    "hex": "F15549",
+    "released": "2016-11-19",
+    "key": "(PRODUCT)RED"
+   }
+  ],
   "board": [],
   "key": "Device1,9728",
   "imageKey": "Device1,9728"
@@ -16905,14 +16906,14 @@
   "imageKey": "AudioAccessory6,1"
  },
  {
-  "name": "HomeView",
+  "name": "Apple HomeView",
   "identifier": [
    "HomeAccessory17,1"
   ],
   "soc": "A18",
   "cpid": "0x8140",
   "arch": "arm64e",
-  "type": "HomeView",
+  "type": "Apple HomeView",
   "board": [
    "J490AP"
   ],
@@ -16950,14 +16951,14 @@
   "imageKey": "HomeAccessory17,1"
  },
  {
-  "name": "HomeView (Wall Mounted)",
+  "name": "Apple HomeView (Wall Mounted)",
   "identifier": [
    "HomeAccessory17,2"
   ],
   "soc": "A18",
   "cpid": "0x8140",
   "arch": "arm64e",
-  "type": "HomeView",
+  "type": "Apple HomeView",
   "board": [
    "J491AP"
   ],
@@ -32019,17 +32020,6 @@
   "imageKey": "Keynote (visionOS)"
  },
  {
-  "name": "Keynote (watchOS)",
-  "type": "Software",
-  "released": "2015-04-21",
-  "appLink": "https://apps.apple.com/us/app/keynote/id361285480?platform=watch",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Keynote (watchOS)",
-  "imageKey": "Keynote (watchOS)"
- },
- {
   "name": "Keynote Remote",
   "type": "Software",
   "released": "2009-01-06",
@@ -34143,7 +34133,7 @@
   "imageKey": "VirtualMac2,3"
  },
  {
-  "name": "Vision Pro",
+  "name": "Apple Vision Pro",
   "identifier": [
    "RealityDevice14,1"
   ],
@@ -34179,7 +34169,7 @@
   "imageKey": "RealityDevice14,1"
  },
  {
-  "name": "Vision Pro (M5)",
+  "name": "Apple Vision Pro (M5)",
   "identifier": [
    "RealityDevice17,1"
   ],

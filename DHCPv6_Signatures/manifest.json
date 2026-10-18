@@ -1,39 +1,39 @@
 {
  "table": "dhcp6_fingerprint",
- "fingerbank_generated_on": 1792032625,
- "rows": 1665,
+ "fingerbank_generated_on": 1792292640,
+ "rows": 1666,
  "files": [
   {
    "file": "csv/dhcp6_signature.csv",
-   "rows": 1665,
-   "bytes": 122810,
-   "sha256": "29d8636a9cfbcda7b0ddd57aaf335208b708c1be76fc98955bf078d82585ae59",
+   "rows": 1666,
+   "bytes": 122868,
+   "sha256": "41e31b5ed527a80838810f5dd71b6be569e68d50260a75ce82cd6716b369dd41",
    "first_id": 2,
-   "last_id": 1680
+   "last_id": 1681
   },
   {
    "file": "sqlite/dhcp6_signature.db",
-   "rows": 1665,
+   "rows": 1666,
    "bytes": 163840,
-   "sha256": "28d64e71ad37f1c34e57ed2203a9532d5cbdd77799660236a330af6e339da8b6",
+   "sha256": "77c5f7a52dc8aa3784d1dd160521db62c054adc4352e136cdc65ab96bfee9d2b",
    "first_id": 2,
-   "last_id": 1680
+   "last_id": 1681
   },
   {
    "file": "parquet/dhcp6_signature.parquet",
-   "rows": 1665,
-   "bytes": 63369,
-   "sha256": "275472321bc2dad95f592f5bdc100a78e6dfac552ac0be62faf8ba3f53e46279",
+   "rows": 1666,
+   "bytes": 63408,
+   "sha256": "63b84c266b98194ea18a741300bc00f86547c62c8ce0d228bb5dce76d26c9e93",
    "first_id": 2,
-   "last_id": 1680
+   "last_id": 1681
   },
   {
    "file": "json/dhcp6_signature.json",
-   "rows": 1665,
-   "bytes": 199418,
-   "sha256": "a7b3e2a2747ffcd4a0353acbfe4cd4fc5e9fd1d07d0c0542729c649019b00ec9",
+   "rows": 1666,
+   "bytes": 199522,
+   "sha256": "d1d1ba988c70626515d3080ba620b045f4170d4a9f4b1c295c3a50b541967eed",
    "first_id": 2,
-   "last_id": 1680,
+   "last_id": 1681,
    "note": "feed: id,value,created_at,updated_at"
   }
  ]
