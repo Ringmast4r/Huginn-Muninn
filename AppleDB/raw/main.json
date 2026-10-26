@@ -12139,13 +12139,24 @@
   "model": [
    "A3152"
   ],
-  "released": "2024-06-20",
+  "released": [
+   "2024-06-20",
+   "2024-10-03",
+   "2025-09",
+   "2026-05-31"
+  ],
   "colors": [
    {
     "name": "Orange",
     "hex": "FE9531",
     "released": "2026-05-31",
     "key": "Orange"
+   },
+   {
+    "name": "Matte Ivory",
+    "hex": "F7EDE4",
+    "released": "2025-09",
+    "key": "Matte Ivory"
    },
    {
     "name": "Festive Special Edition",
@@ -12195,13 +12206,24 @@
    "A3151",
    "A3153"
   ],
-  "released": "2024-06-20",
+  "released": [
+   "2024-06-20",
+   "2024-10-03",
+   "2025-09",
+   "2026-05-31"
+  ],
   "colors": [
    {
     "name": "Orange",
     "hex": "FE9531",
     "released": "2026-05-31",
     "key": "Orange"
+   },
+   {
+    "name": "Matte Ivory",
+    "hex": "F7EDE4",
+    "released": "2025-09",
+    "key": "Matte Ivory"
    },
    {
     "name": "Festive Special Edition",
@@ -12251,13 +12273,24 @@
    "A3150",
    "A3153"
   ],
-  "released": "2024-06-20",
+  "released": [
+   "2024-06-20",
+   "2024-10-03",
+   "2025-09",
+   "2026-05-31"
+  ],
   "colors": [
    {
     "name": "Orange",
     "hex": "FE9531",
     "released": "2026-05-31",
     "key": "Orange"
+   },
+   {
+    "name": "Matte Ivory",
+    "hex": "F7EDE4",
+    "released": "2025-09",
+    "key": "Matte Ivory"
    },
    {
     "name": "Festive Special Edition",
@@ -12823,42 +12856,6 @@
   "imageKey": "Beats Tour2"
  },
  {
-  "name": "Beatsˣ sacai Edition",
-  "identifier": [
-   "BeatsX1,1",
-   "Device1,8197"
-  ],
-  "key": "BeatsX1,1-sacai",
-  "soc": "W1",
-  "type": "Beats Earbuds",
-  "board": [
-   "B282AP"
-  ],
-  "model": [
-   "A1763"
-  ],
-  "released": "2019-03-04",
-  "imageKey": "BeatsX1,1-sacai"
- },
- {
-  "name": "Beatsˣ UNDEFEATED Edition",
-  "identifier": [
-   "BeatsX1,1",
-   "Device1,8197"
-  ],
-  "key": "BeatsX1,1-undefeated",
-  "soc": "W1",
-  "type": "Beats Earbuds",
-  "board": [
-   "B282AP"
-  ],
-  "model": [
-   "A1763"
-  ],
-  "released": "2018-09-19",
-  "imageKey": "BeatsX1,1-undefeated"
- },
- {
   "name": "Beatsˣ",
   "identifier": [
    "BeatsX1,1",
@@ -12872,7 +12869,111 @@
   "model": [
    "A1763"
   ],
-  "released": "2017-02-10",
+  "released": [
+   "2017-02",
+   "2017-02-10",
+   "2017-09-12",
+   "2018-01-31",
+   "2018-06-04",
+   "2018-10",
+   "2019-02-22",
+   "2019-03-04"
+  ],
+  "colors": [
+   {
+    "name": "sacai Edition - Burned Red",
+    "hex": [
+     "A72929",
+     "0046A8"
+    ],
+    "released": "2019-03-04",
+    "key": "sacai Edition - Burned Red"
+   },
+   {
+    "name": "sacai Edition - Deep Black",
+    "hex": [
+     "272727",
+     "00285B"
+    ],
+    "released": "2019-03-04",
+    "key": "sacai Edition - Deep Black"
+   },
+   {
+    "name": "sacai Edition - True White",
+    "hex": [
+     "E6E6E6",
+     "0078BB"
+    ],
+    "released": "2019-03-04",
+    "key": "sacai Edition - True White"
+   },
+   {
+    "name": "Sky Blue",
+    "hex": "9AD6DB",
+    "released": "2019-02-22",
+    "key": "Sky Blue"
+   },
+   {
+    "name": "Satin Silver",
+    "hex": "D1D0CE",
+    "released": "2018-10",
+    "key": "Satin Silver"
+   },
+   {
+    "name": "Defiant Black-Red",
+    "hex": [
+     "1C1D1E",
+     "B51426"
+    ],
+    "released": "2018-06-04",
+    "key": "Defiant Black-Red"
+   },
+   {
+    "name": "UNDEFEATED Edition",
+    "hex": [
+     "262626",
+     "4C442D"
+    ],
+    "released": "2018-01-31",
+    "key": "UNDEFEATED Edition"
+   },
+   {
+    "name": "Matte Gold",
+    "hex": "E2C8BA",
+    "released": "2017-09-12",
+    "key": "Matte Gold"
+   },
+   {
+    "name": "Matte Silver",
+    "hex": "D5D5D5",
+    "released": "2017-09-12",
+    "key": "Matte Silver"
+   },
+   {
+    "name": "Black",
+    "hex": "000000",
+    "released": "2017-02-10",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2017-02-10",
+    "key": "White"
+   },
+   {
+    "name": "Blue",
+    "hex": "154B7D",
+    "released": "2017-02",
+    "key": "Blue"
+   },
+   {
+    "name": "Gray",
+    "hex": "656569",
+    "released": "2017-02",
+    "key": "Gray"
+   }
+  ],
   "key": "BeatsX1,1",
   "imageKey": "BeatsX1,1"
  },
@@ -12941,7 +13042,10 @@
   "model": [
    "A2015"
   ],
-  "released": "2020-03-16",
+  "released": [
+   "2020-03-18",
+   "2020-11-18"
+  ],
   "colors": [
    {
     "name": "AMBUSH Glow Edition",
@@ -12955,19 +13059,19 @@
    {
     "name": "Black",
     "hex": "1E2021",
-    "released": "2020-03-16",
+    "released": "2020-03-18",
     "key": "Black"
    },
    {
     "name": "Red",
     "hex": "991829",
-    "released": "2020-03-16",
+    "released": "2020-03-18",
     "key": "Red"
    },
    {
     "name": "White",
     "hex": "DDDDE7",
-    "released": "2020-03-16",
+    "released": "2020-03-18",
     "key": "White"
    }
   ],
@@ -13739,64 +13843,123 @@
   "imageKey": "iBeats"
  },
  {
-  "name": "urBeats (1st generation) Alexander Wang Edition",
-  "type": "Beats Earbuds",
-  "released": "2013-12-23",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "urBeats (1st generation) Alexander Wang Edition",
-  "imageKey": "urBeats (1st generation) Alexander Wang Edition"
- },
- {
-  "name": "urBeats (1st generation) Hello Kitty Edition",
-  "type": "Beats Earbuds",
-  "released": "2014",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "urBeats (1st generation) Hello Kitty Edition",
-  "imageKey": "urBeats (1st generation) Hello Kitty Edition"
- },
- {
-  "name": "urBeats (1st generation) Nicki Minaj Edition",
-  "type": "Beats Earbuds",
-  "released": "2013-07-11",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "urBeats (1st generation) Nicki Minaj Edition",
-  "imageKey": "urBeats (1st generation) Nicki Minaj Edition"
- },
- {
-  "name": "urBeats (1st generation) Paris Saint-Germain Edition",
-  "type": "Beats Earbuds",
-  "released": "2014-05-09",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "urBeats (1st generation) Paris Saint-Germain Edition",
-  "imageKey": "urBeats (1st generation) Paris Saint-Germain Edition"
- },
- {
   "name": "urBeats (1st generation)",
   "type": "Beats Earbuds",
-  "released": "2012-10-16",
+  "released": [
+   "2012-10-16",
+   "2013",
+   "2013-07-11",
+   "2013-10",
+   "2013-12-16",
+   "2014-05-09",
+   "2014-11"
+  ],
+  "colors": [
+   {
+    "name": "Hello Kitty Edition",
+    "hex": [
+     "FFFFFF",
+     "0073B7"
+    ],
+    "released": "2014-11",
+    "key": "Hello Kitty Edition"
+   },
+   {
+    "name": "Paris Saint-Germain Edition",
+    "hex": [
+     "14335A",
+     "DD353D"
+    ],
+    "released": "2014-05-09",
+    "key": "Paris Saint-Germain Edition"
+   },
+   {
+    "name": "Alexander Wang Edition",
+    "hex": [
+     "967D55",
+     "2B2B2A"
+    ],
+    "released": "2013-12-16",
+    "key": "Alexander Wang Edition"
+   },
+   {
+    "name": "Blue",
+    "hex": "002D6A",
+    "released": "2013-10",
+    "key": "Blue"
+   },
+   {
+    "name": "Gray",
+    "hex": "7C7D7C",
+    "released": "2013-10",
+    "key": "Gray"
+   },
+   {
+    "name": "Pink",
+    "hex": "F95CA9",
+    "released": "2013-10",
+    "key": "Pink"
+   },
+   {
+    "name": "Purple",
+    "hex": "692E85",
+    "released": "2013-10",
+    "key": "Purple"
+   },
+   {
+    "name": "Red",
+    "hex": "CB0909",
+    "released": "2013-10",
+    "key": "Red"
+   },
+   {
+    "name": "Nicki Pink - Nicki Minaj Edition",
+    "hex": "EE98A3",
+    "released": "2013-07-11",
+    "key": "Nicki Pink - Nicki Minaj Edition"
+   },
+   {
+    "name": "Gold",
+    "hex": "D1C2B0",
+    "released": "2013",
+    "key": "Gold"
+   },
+   {
+    "name": "Silver",
+    "hex": "BEBEBE",
+    "released": "2013",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "818084",
+    "released": "2013",
+    "key": "Space Gray"
+   },
+   {
+    "name": "Black",
+    "hex": [
+     "000000",
+     "CB0909"
+    ],
+    "released": "2012-10-16",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": [
+     "FFFFFF",
+     "CB0909"
+    ],
+    "released": "2012-10-16",
+    "key": "White"
+   }
+  ],
   "model": [],
   "board": [],
   "identifier": [],
   "key": "urBeats (1st generation)",
   "imageKey": "urBeats (1st generation)"
- },
- {
-  "name": "urBeats SE",
-  "type": "Beats Earbuds",
-  "released": "2013",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "urBeats SE",
-  "imageKey": "urBeats SE"
  },
  {
   "name": "urBeats²",
@@ -13805,7 +13968,64 @@
   "model": [
    "B0547"
   ],
-  "released": "2016-03-16",
+  "released": [
+   "2015",
+   "2015-11-19",
+   "2016-10"
+  ],
+  "colors": [
+   {
+    "name": "Ultra Violet",
+    "hex": [
+     "9F86CB",
+     "FFFFFF"
+    ],
+    "released": "2016-10",
+    "key": "Ultra Violet"
+   },
+   {
+    "name": "Rose Gold",
+    "hex": "CAA6A2",
+    "released": "2015-11-19",
+    "key": "Rose Gold"
+   },
+   {
+    "name": "Black",
+    "hex": [
+     "363535",
+     "CB0909"
+    ],
+    "released": "2015",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": [
+     "FFFFFF",
+     "CB0909"
+    ],
+    "released": "2015",
+    "key": "White"
+   },
+   {
+    "name": "Gold",
+    "hex": "B8A692",
+    "released": "2015",
+    "key": "Gold"
+   },
+   {
+    "name": "Silver",
+    "hex": "AAABAD",
+    "released": "2015",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "9D9CA1",
+    "released": "2015",
+    "key": "Space Gray"
+   }
+  ],
   "board": [],
   "identifier": [],
   "imageKey": "urBeats2"
@@ -13953,25 +14173,25 @@
   "colors": [
    {
     "name": "Black",
-    "hex": "222222",
+    "hex": "1D1D1D",
     "released": "2026-09-24",
     "key": "Black"
    },
    {
     "name": "Cloud",
-    "hex": "ECE7E1",
+    "hex": "ECE6DF",
     "released": "2026-09-24",
     "key": "Cloud"
    },
    {
     "name": "Pink",
-    "hex": "F8E0F0",
+    "hex": "F9E1F0",
     "released": "2026-09-24",
     "key": "Pink"
    },
    {
     "name": "Sky",
-    "hex": "DEEEEE",
+    "hex": "DFEFEF",
     "released": "2026-09-24",
     "key": "Sky"
    }
@@ -14155,76 +14375,218 @@
   "imageKey": "Beats Solo"
  },
  {
-  "name": "Beats Solo² Chen Man - Year Of The Sheep Edition",
-  "key": "Beats Solo2 Chen Man - Year Of The Sheep Edition",
-  "type": "Beats Headphones",
-  "model": [
-   "B0518"
-  ],
-  "released": "2014-05-06",
-  "board": [],
-  "identifier": [],
-  "imageKey": "Beats Solo2 Chen Man - Year Of The Sheep Edition"
- },
- {
-  "name": "Beats Solo² Hello Kitty Edition",
-  "key": "Beats Solo2 Hello Kitty Edition",
-  "type": "Beats Headphones",
-  "model": [
-   "B0518"
-  ],
-  "released": "2014-10-30",
-  "board": [],
-  "identifier": [],
-  "imageKey": "Beats Solo2 Hello Kitty Edition"
- },
- {
-  "name": "Beats Solo² Wireless MLB All-Star Edition",
-  "key": "Beats Solo2 Wireless MLB All-Star Edition",
-  "type": "Beats Headphones",
-  "model": [
-   "B0534"
-  ],
-  "released": "2016-06-27",
-  "board": [],
-  "identifier": [],
-  "imageKey": "Beats Solo2 Wireless MLB All-Star Edition"
- },
- {
-  "name": "Beats Solo² Wireless Year of the Monkey Edition",
-  "key": "Beats Solo2 Wireless Year of the Monkey Edition",
-  "type": "Beats Headphones",
-  "model": [
-   "B0534"
-  ],
-  "released": "2015-12-30",
-  "board": [],
-  "identifier": [],
-  "imageKey": "Beats Solo2 Wireless Year of the Monkey Edition"
- },
- {
   "name": "Beats Solo² Wireless",
   "key": "Beats Solo2 Wireless",
   "type": "Beats Headphones",
   "model": [
    "B0534"
   ],
-  "released": "2014-11-12",
+  "released": [
+   "2014-11-12",
+   "2015-04-10",
+   "2015-09-22",
+   "2015-11-19",
+   "2015-12-30",
+   "2016-03-26",
+   "2016-06-27"
+  ],
+  "colors": [
+   {
+    "name": "MLB All-Star Edition",
+    "hex": [
+     "E4E3E8",
+     "041C44"
+    ],
+    "released": "2016-06-27",
+    "key": "MLB All-Star Edition"
+   },
+   {
+    "name": "MLB Atlanta Braves Edition",
+    "hex": [
+     "23355A",
+     "EFEEEC"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Atlanta Braves Edition"
+   },
+   {
+    "name": "MLB Boston Red Sox Edition",
+    "hex": [
+     "293557",
+     "D3333D"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Boston Red Sox Edition"
+   },
+   {
+    "name": "MLB Chicago Cubs Edition",
+    "hex": [
+     "19386A",
+     "E43B38"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Chicago Cubs Edition"
+   },
+   {
+    "name": "MLB Detroit Tigers Edition",
+    "hex": [
+     "293557",
+     "F14B1E"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Detroit Tigers Edition"
+   },
+   {
+    "name": "MLB Kansas City Royals Edition",
+    "hex": [
+     "363E74",
+     "F0EEED"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Kansas City Royals Edition"
+   },
+   {
+    "name": "MLB Los Angeles Dodgers Edition",
+    "hex": [
+     "19386A",
+     "F0EEED"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Los Angeles Dodgers Edition"
+   },
+   {
+    "name": "MLB New York Mets Edition",
+    "hex": [
+     "324175",
+     "ED5113"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB New York Mets Edition"
+   },
+   {
+    "name": "MLB New York Yankees Edition",
+    "hex": [
+     "293557",
+     "FEFEFE"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB New York Yankees Edition"
+   },
+   {
+    "name": "MLB Pittsburgh Pirates Edition",
+    "hex": [
+     "2A2A2A",
+     "F0EEED"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB Pittsburgh Pirates Edition"
+   },
+   {
+    "name": "MLB San Francisco Giants Edition",
+    "hex": [
+     "2A2A2A",
+     "F0EEED"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB San Francisco Giants Edition"
+   },
+   {
+    "name": "MLB St. Louis Cardinals Edition",
+    "hex": [
+     "CA2838",
+     "FDFEFD"
+    ],
+    "released": "2016-03-26",
+    "key": "MLB St. Louis Cardinals Edition"
+   },
+   {
+    "name": "Year of the Monkey Edition",
+    "hex": [
+     "F0F0F0",
+     "B7B7B7"
+    ],
+    "released": "2015-12-30",
+    "key": "Year of the Monkey Edition"
+   },
+   {
+    "name": "Rose Gold",
+    "hex": "E9CAC6",
+    "released": "2015-11-19",
+    "key": "Rose Gold"
+   },
+   {
+    "name": "Flash Blue",
+    "hex": [
+     "0080BD",
+     "616266"
+    ],
+    "released": "2015-09-22",
+    "key": "Flash Blue"
+   },
+   {
+    "name": "Shock Yellow",
+    "hex": [
+     "D6FF25",
+     "000000"
+    ],
+    "released": "2015-09-22",
+    "key": "Shock Yellow"
+   },
+   {
+    "name": "Siren Red",
+    "hex": [
+     "F64B54",
+     "000000"
+    ],
+    "released": "2015-09-22",
+    "key": "Siren Red"
+   },
+   {
+    "name": "Gold",
+    "hex": "DBBDA4",
+    "released": "2015-04-10",
+    "key": "Gold"
+   },
+   {
+    "name": "Silver",
+    "hex": "BEBEBF",
+    "released": "2015-04-10",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Gray",
+    "hex": "818084",
+    "released": "2015-04-10",
+    "key": "Space Gray"
+   },
+   {
+    "name": "Black",
+    "hex": "000000",
+    "released": "2014-11-12",
+    "key": "Black"
+   },
+   {
+    "name": "Blue",
+    "hex": "00356D",
+    "released": "2014-11-12",
+    "key": "Blue"
+   },
+   {
+    "name": "Red",
+    "hex": "E51522",
+    "released": "2014-11-12",
+    "key": "Red"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2014-11-12",
+    "key": "White"
+   }
+  ],
   "board": [],
   "identifier": [],
   "imageKey": "Beats Solo2 Wireless"
- },
- {
-  "name": "Beats Solo² fragment design Edition",
-  "key": "Beats Solo2 fragment design Edition",
-  "type": "Beats Headphones",
-  "model": [
-   "B0518"
-  ],
-  "released": "2014-12-05",
-  "board": [],
-  "identifier": [],
-  "imageKey": "Beats Solo2 fragment design Edition"
  },
  {
   "name": "Beats Solo²",
@@ -14233,7 +14595,133 @@
   "model": [
    "B0518"
   ],
-  "released": "2014-06-01",
+  "released": [
+   "2014-06-01",
+   "2014-10-30",
+   "2014-11-19",
+   "2014-12-08",
+   "2015-02-13",
+   "2015-10-27"
+  ],
+  "colors": [
+   {
+    "name": "Luxe Black",
+    "hex": "272727",
+    "released": "2015-10-27",
+    "key": "Luxe Black"
+   },
+   {
+    "name": "Luxe Blue",
+    "hex": "749AEB",
+    "released": "2015-10-27",
+    "key": "Luxe Blue"
+   },
+   {
+    "name": "Luxe Red",
+    "hex": "6D2929",
+    "released": "2015-10-27",
+    "key": "Luxe Red"
+   },
+   {
+    "name": "Luxe Silver",
+    "hex": "94918A",
+    "released": "2015-10-27",
+    "key": "Luxe Silver"
+   },
+   {
+    "name": "Chen Man - Year of the Sheep Edition",
+    "hex": [
+     "F4F4F4",
+     "E9DCB0"
+    ],
+    "released": "2015-02-13",
+    "key": "Chen Man - Year of the Sheep Edition"
+   },
+   {
+    "name": "fragment design Edition",
+    "hex": [
+     "979BA4",
+     "2E527C"
+    ],
+    "released": "2014-12-08",
+    "key": "fragment design Edition"
+   },
+   {
+    "name": "Blush Rose",
+    "hex": "CB3141",
+    "released": "2014-11-19",
+    "key": "Blush Rose"
+   },
+   {
+    "name": "Hunter Green",
+    "hex": "22361D",
+    "released": "2014-11-19",
+    "key": "Hunter Green"
+   },
+   {
+    "name": "Imperial Violet",
+    "hex": "562063",
+    "released": "2014-11-19",
+    "key": "Imperial Violet"
+   },
+   {
+    "name": "Sapphire Blue",
+    "hex": "233670",
+    "released": "2014-11-19",
+    "key": "Sapphire Blue"
+   },
+   {
+    "name": "Stone Gray",
+    "hex": "5D5D6B",
+    "released": "2014-11-19",
+    "key": "Stone Gray"
+   },
+   {
+    "name": "Hello Kitty Edition",
+    "hex": [
+     "DEDEDE",
+     "9A0B1D"
+    ],
+    "released": "2014-10-30",
+    "key": "Hello Kitty Edition"
+   },
+   {
+    "name": "(PRODUCT)RED",
+    "hex": "E51522",
+    "released": "2014-06-01",
+    "key": "(PRODUCT)RED"
+   },
+   {
+    "name": "Black",
+    "hex": "000000",
+    "released": "2014-06-01",
+    "key": "Black"
+   },
+   {
+    "name": "Blue",
+    "hex": "00356D",
+    "released": "2014-06-01",
+    "key": "Blue"
+   },
+   {
+    "name": "Gray",
+    "hex": "849CA6",
+    "released": "2014-06-01",
+    "key": "Gray"
+   },
+   {
+    "name": "Pink",
+    "hex": "F83A82",
+    "released": "2014-06-01",
+    "key": "Pink"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2014-06-01",
+    "key": "White"
+   }
+  ],
   "board": [],
   "identifier": [],
   "imageKey": "Beats Solo2"
@@ -14521,114 +15009,6 @@
   "imageKey": "Beats Wireless"
  },
  {
-  "name": "Beats Solo³ Wireless LINE Friends Edition",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-line",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2017-08-03",
-  "imageKey": "BeatsSolo3,1-line"
- },
- {
-  "name": "Beats Solo³ Wireless Mowalola Edition",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-mawalola",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2023-09-21",
-  "imageKey": "BeatsSolo3,1-mawalola"
- },
- {
-  "name": "Beats Solo³ Wireless Mickey's 90th Anniversary Edition",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-mickey",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2018-11-11",
-  "imageKey": "BeatsSolo3,1-mickey"
- },
- {
-  "name": "Beats Solo³ NAYVA Club Collection",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-nayva",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2019-06-12",
-  "imageKey": "BeatsSolo3,1-nayva"
- },
- {
-  "name": "Beats Solo³ Wireless New Year Special Edition",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-newyears",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2019-01-04",
-  "imageKey": "BeatsSolo3,1-newyears"
- },
- {
-  "name": "Beats Solo³ Wireless Third Man Records Edition",
-  "identifier": [
-   "BeatsSolo3,1",
-   "Device1,8198"
-  ],
-  "key": "BeatsSolo3,1-thirdman",
-  "soc": "W1",
-  "type": "Beats Headphones",
-  "board": [
-   "B352AP"
-  ],
-  "model": [
-   "A1796"
-  ],
-  "released": "2017-11-24",
-  "imageKey": "BeatsSolo3,1-thirdman"
- },
- {
   "name": "Beats Solo³ Wireless",
   "identifier": [
    "BeatsSolo3,1",
@@ -14642,77 +15022,255 @@
   "model": [
    "A1796"
   ],
-  "released": "2016-09-07",
-  "key": "BeatsSolo3,1",
-  "imageKey": "BeatsSolo3,1"
- },
- {
-  "name": "Beats Solo 4 - JENNIE",
-  "identifier": [
-   "BeatsSolo4,1",
-   "Device1,8229"
-  ],
-  "key": "BeatsSolo4,1-jennie",
-  "type": "Beats Headphones",
-  "board": [
-   "B465AP"
-  ],
-  "model": [
-   "A3140"
-  ],
   "released": [
-   "2025-09-05",
-   "2026-04-24"
+   "2016-09-07",
+   "2016-11-02",
+   "2016-11-30",
+   "2017-08-03",
+   "2017-08-25",
+   "2017-09-13",
+   "2017-11-24",
+   "2018-01-14",
+   "2018-06-04",
+   "2018-06-15",
+   "2018-09-12",
+   "2018-11-11",
+   "2019-01-04",
+   "2019-06-10",
+   "2023-09-21"
   ],
   "colors": [
    {
-    "name": "Onyx Black",
-    "hex": "141414",
-    "released": "2026-04-24",
-    "key": "Onyx Black"
+    "name": "Mowalola Edition",
+    "hex": [
+     "C5C5C5",
+     "F1F1F1"
+    ],
+    "released": "2023-09-21",
+    "key": "Mowalola Edition"
    },
    {
-    "name": "Ruby Red",
-    "hex": "E42A3B",
-    "released": "2025-09-05",
-    "key": "Ruby Red"
+    "name": "Club Navy",
+    "hex": [
+     "252E41",
+     "FCEFE4"
+    ],
+    "released": "2019-06-10",
+    "key": "Club Navy"
+   },
+   {
+    "name": "Club Red",
+    "hex": [
+     "BB1826",
+     "273555"
+    ],
+    "released": "2019-06-10",
+    "key": "Club Red"
+   },
+   {
+    "name": "Club White",
+    "hex": [
+     "F8F8F8",
+     "CC2C3A"
+    ],
+    "released": "2019-06-10",
+    "key": "Club White"
+   },
+   {
+    "name": "Club Yellow",
+    "hex": [
+     "FFCC47",
+     "009AAB"
+    ],
+    "released": "2019-06-10",
+    "key": "Club Yellow"
+   },
+   {
+    "name": "Blade Gray - New Year Special Edition",
+    "hex": [
+     "CFCECC",
+     "CBAA67"
+    ],
+    "released": "2019-01-04",
+    "key": "Blade Gray - New Year Special Edition"
+   },
+   {
+    "name": "Mickey's 90th Anniversary Edition",
+    "hex": "B3B2B7",
+    "released": "2018-11-11",
+    "key": "Mickey's 90th Anniversary Edition"
+   },
+   {
+    "name": "Satin Gold",
+    "hex": "EBDFCF",
+    "released": "2018-09-12",
+    "key": "Satin Gold"
+   },
+   {
+    "name": "Satin Silver",
+    "hex": "D1D0CE",
+    "released": "2018-09-12",
+    "key": "Satin Silver"
+   },
+   {
+    "name": "Pop Blue",
+    "hex": [
+     "125572",
+     "93E9F6"
+    ],
+    "released": "2018-06-15",
+    "key": "Pop Blue"
+   },
+   {
+    "name": "Pop Indigo",
+    "hex": [
+     "293974",
+     "D0E63B"
+    ],
+    "released": "2018-06-15",
+    "key": "Pop Indigo"
+   },
+   {
+    "name": "Pop Magenta",
+    "hex": [
+     "672356",
+     "FA5A5C"
+    ],
+    "released": "2018-06-15",
+    "key": "Pop Magenta"
+   },
+   {
+    "name": "Pop Violet",
+    "hex": [
+     "462979",
+     "FCB0D4"
+    ],
+    "released": "2018-06-15",
+    "key": "Pop Violet"
+   },
+   {
+    "name": "Defiant Black-Red",
+    "hex": [
+     "1C1D1E",
+     "B51426"
+    ],
+    "released": "2018-06-04",
+    "key": "Defiant Black-Red"
+   },
+   {
+    "name": "Electric Red - New Year Special Edition",
+    "hex": [
+     "F34837",
+     "616266"
+    ],
+    "released": "2018-01-14",
+    "key": "Electric Red - New Year Special Edition"
+   },
+   {
+    "name": "Third Man Records Edition",
+    "hex": [
+     "272729",
+     "FEC700"
+    ],
+    "released": "2017-11-24",
+    "key": "Third Man Records Edition"
+   },
+   {
+    "name": "Matte Gold",
+    "hex": "CDB19E",
+    "released": "2017-09-13",
+    "key": "Matte Gold"
+   },
+   {
+    "name": "Matte Silver",
+    "hex": "AFB0B0",
+    "released": "2017-09-13",
+    "key": "Matte Silver"
+   },
+   {
+    "name": "Asphalt Gray",
+    "hex": "67686A",
+    "released": "2017-08-25",
+    "key": "Asphalt Gray"
+   },
+   {
+    "name": "Break Blue",
+    "hex": "2C44A8",
+    "released": "2017-08-25",
+    "key": "Break Blue"
+   },
+   {
+    "name": "Brick Red",
+    "hex": "A72A62",
+    "released": "2017-08-25",
+    "key": "Brick Red"
+   },
+   {
+    "name": "Turf Green",
+    "hex": "5D643A",
+    "released": "2017-08-25",
+    "key": "Turf Green"
+   },
+   {
+    "name": "LINE FRIENDS Edition",
+    "hex": [
+     "323232",
+     "F4F4F4"
+    ],
+    "released": "2017-08-03",
+    "key": "LINE FRIENDS Edition"
+   },
+   {
+    "name": "Ultra Violet",
+    "hex": "A88ED7",
+    "released": "2016-11-02",
+    "key": "Ultra Violet"
+   },
+   {
+    "name": "(PRODUCT)RED Citrus Red",
+    "hex": "CE2617",
+    "released": "2016-11-30",
+    "key": "(PRODUCT)RED Citrus Red"
+   },
+   {
+    "name": "Gloss Black",
+    "hex": "000000",
+    "released": "2016-09-07",
+    "key": "Gloss Black"
+   },
+   {
+    "name": "Gloss White",
+    "hex": "FFFFFF",
+    "released": "2016-09-07",
+    "key": "Gloss White"
+   },
+   {
+    "name": "Gold",
+    "hex": "D0AE90",
+    "released": "2016-09-07",
+    "key": "Gold"
+   },
+   {
+    "name": "Matte Black",
+    "hex": "000000",
+    "released": "2016-09-07",
+    "key": "Matte Black"
+   },
+   {
+    "name": "Rose Gold",
+    "hex": "E9CAC6",
+    "released": "2016-09-07",
+    "key": "Rose Gold"
+   },
+   {
+    "name": "Silver",
+    "hex": "B9B9BA",
+    "released": "2016-09-07",
+    "key": "Silver"
    }
   ],
-  "imageKey": "BeatsSolo4,1-jennie"
- },
- {
-  "name": "Beats Solo 4 Minecraft Edition",
-  "identifier": [
-   "BeatsSolo4,1",
-   "Device1,8229"
-  ],
-  "key": "BeatsSolo4,1-minecraft",
-  "type": "Beats Headphones",
-  "board": [
-   "B465AP"
-  ],
-  "model": [
-   "A3140"
-  ],
-  "released": "2024-07-18",
-  "imageKey": "BeatsSolo4,1-minecraft"
- },
- {
-  "name": "Beats Solo 4 Sandy Liang Edition",
-  "identifier": [
-   "BeatsSolo4,1",
-   "Device1,8229"
-  ],
-  "key": "BeatsSolo4,1-sandyliang",
-  "type": "Beats Headphones",
-  "board": [
-   "B465AP"
-  ],
-  "model": [
-   "A3140"
-  ],
-  "released": "2025-03-04",
-  "imageKey": "BeatsSolo4,1-sandyliang"
+  "key": "BeatsSolo3,1",
+  "imageKey": "BeatsSolo3,1"
  },
  {
   "name": "Beats Solo 4",
@@ -14727,7 +15285,109 @@
   "model": [
    "A3140"
   ],
-  "released": "2024-05-02",
+  "released": [
+   "2024-05-02",
+   "2024-07-18",
+   "2024-10-06",
+   "2025-03-04",
+   "2025-09-04",
+   "2025-09-05",
+   "2025-10-21",
+   "2026-04-24",
+   "2026-09-27"
+  ],
+  "colors": [
+   {
+    "name": "Bright Pink",
+    "hex": "F9B6D5",
+    "released": "2026-09-27",
+    "key": "Bright Pink"
+   },
+   {
+    "name": "Onyx Black - JENNIE Special Edition",
+    "hex": "141414",
+    "released": "2026-04-24",
+    "key": "Onyx Black - JENNIE Special Edition"
+   },
+   {
+    "name": "Drenched Gray",
+    "hex": "DDDDDD",
+    "released": "2025-10-21",
+    "key": "Drenched Gray"
+   },
+   {
+    "name": "Ruby Red - JENNIE Special Edition",
+    "hex": "E42A3B",
+    "released": "2025-09-05",
+    "key": "Ruby Red - JENNIE Special Edition"
+   },
+   {
+    "name": "Metallic Gold",
+    "hex": "E0CBAE",
+    "released": "2025-09-04",
+    "key": "Metallic Gold"
+   },
+   {
+    "name": "Metallic Pink",
+    "hex": "EAB9C4",
+    "released": "2025-09-04",
+    "key": "Metallic Pink"
+   },
+   {
+    "name": "Sandy Liang Limited Edition",
+    "hex": [
+     "CDCDCF",
+     "F9DBE3"
+    ],
+    "released": "2025-03-04",
+    "key": "Sandy Liang Limited Edition"
+   },
+   {
+    "name": "Warm White",
+    "hex": [
+     "F0F1F6",
+     "F7E9CA"
+    ],
+    "released": "2024-10-06",
+    "key": "Warm White"
+   },
+   {
+    "name": "Black & Gold",
+    "hex": [
+     "242527",
+     "E6D5AA"
+    ],
+    "released": "2024-10-06",
+    "key": "Black & Gold"
+   },
+   {
+    "name": "Charged Black - Minecraft Special Edition",
+    "hex": [
+     "161616",
+     "5AFA32"
+    ],
+    "released": "2024-07-18",
+    "key": "Charged Black - Minecraft Special Edition"
+   },
+   {
+    "name": "Cloud Pink",
+    "hex": "F2E7EE",
+    "released": "2024-05-02",
+    "key": "Cloud Pink"
+   },
+   {
+    "name": "Matte Black",
+    "hex": "000000",
+    "released": "2024-05-02",
+    "key": "Matte Black"
+   },
+   {
+    "name": "Slate Blue",
+    "hex": "6C8BAB",
+    "released": "2024-05-02",
+    "key": "Slate Blue"
+   }
+  ],
   "key": "BeatsSolo4,1",
   "imageKey": "BeatsSolo4,1"
  },
@@ -15291,19 +15951,102 @@
   "imageKey": "Beatbox"
  },
  {
-  "name": "Beats Pill (1st generation) Alexander Wang Edition",
-  "type": "Beats Speakers",
-  "released": "2013-12-23",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pill (1st generation) Alexander Wang Edition",
-  "imageKey": "Beats Pill (1st generation) Alexander Wang Edition"
- },
- {
   "name": "Beats Pill (1st generation)",
   "type": "Beats Speakers",
-  "released": "2012-10-16",
+  "released": [
+   "2012-10-16",
+   "2013-01-14",
+   "2013-04-04",
+   "2013-05-20",
+   "2013-05-29",
+   "2013-12-16"
+  ],
+  "colors": [
+   {
+    "name": "Alexander Wang Edition",
+    "hex": [
+     "1C1C1C",
+     "F6ECD2"
+    ],
+    "released": "2013-12-16",
+    "key": "Alexander Wang Edition"
+   },
+   {
+    "name": "Silver",
+    "hex": "999999",
+    "released": "2013-05-29",
+    "key": "Silver"
+   },
+   {
+    "name": "Neon Blue",
+    "hex": "09B7E2",
+    "released": "2013-05-20",
+    "key": "Neon Blue"
+   },
+   {
+    "name": "Neon Green",
+    "hex": "47DC4D",
+    "released": "2013-05-20",
+    "key": "Neon Green"
+   },
+   {
+    "name": "Neon Orange",
+    "hex": "FF721B",
+    "released": "2013-05-20",
+    "key": "Neon Orange"
+   },
+   {
+    "name": "Neon Pink",
+    "hex": "FF4290",
+    "released": "2013-05-20",
+    "key": "Neon Pink"
+   },
+   {
+    "name": "Neon Yellow",
+    "hex": "E7F232",
+    "released": "2013-05-20",
+    "key": "Neon Yellow"
+   },
+   {
+    "name": "Nicki Pink",
+    "hex": "EE98A3",
+    "released": "2013-04-04",
+    "key": "Nicki Pink"
+   },
+   {
+    "name": "Pretty Sweet (Black)",
+    "hex": "000000",
+    "released": "2013-01-14",
+    "key": "Pretty Sweet (Black)"
+   },
+   {
+    "name": "Pretty Sweet (White)",
+    "hex": [
+     "00B2EE",
+     "E80000"
+    ],
+    "released": "2013-01-14",
+    "key": "Pretty Sweet (White)"
+   },
+   {
+    "name": "Black",
+    "hex": "000000",
+    "released": "2012-10-16",
+    "key": "Black"
+   },
+   {
+    "name": "Red",
+    "hex": "CC0000",
+    "released": "2012-10-16",
+    "key": "Red"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2012-10-16",
+    "key": "White"
+   }
+  ],
   "model": [],
   "board": [],
   "identifier": [],
@@ -15734,15 +16477,6 @@
   "board": [],
   "key": "Device1,9728",
   "imageKey": "Device1,9728"
- },
- {
-  "name": "Pretty Sweet Pill",
-  "type": "Beats Speakers",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Pretty Sweet Pill",
-  "imageKey": "Pretty Sweet Pill"
  },
  {
   "name": "Beddit 1.0",
@@ -16946,6 +17680,7 @@
   "board": [
    "J490AP"
   ],
+  "bdid": "0x02",
   "model": [
    "A3218"
   ],
@@ -16991,6 +17726,7 @@
   "board": [
    "J491AP"
   ],
+  "bdid": "0x06",
   "model": [
    "A3300"
   ],
