@@ -184,13 +184,13 @@ pie showData
 | FOLDER | WHAT IT HOLDS | RECORDS | FORMATS |
 |:-------|:--------------|:-------:|:-------:|
 | `MAC_Vendors/` | Hardware manufacturer identities (OUI extended) | 10.4M | csv/json/parquet/sqlite |
-| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 525K | csv/json/parquet/sqlite |
+| `DHCP_Signatures/` | DHCP Option 55 fingerprint patterns | 526K | csv/json/parquet/sqlite |
 | `DHCP_Vendors/` | DHCP Option 60 vendor class strings | 463K | csv/json/parquet/sqlite |
 | `Devices/` | Full device profiles | 123K | csv/json/parquet/sqlite |
 | `DHCPv6_Enterprise/` | IPv6 IANA enterprise identifiers | 58K | csv/json/parquet/sqlite |
 | `DHCPv6_Signatures/` | IPv6 DHCP fingerprints | 2K | csv/json/parquet/sqlite |
 | `Satori_Fingerprints/` | Protocol behavior signatures (13 protocols) | `1,980` | csv/json/sqlite/xml |
-| `AppleDB/` | Apple device identifiers (iPhone15,2 -> name, chip, release dates; MIT, mirrored from AppleDB) | `925` | csv/json/sqlite/raw |
+| `AppleDB/` | Apple device identifiers (iPhone15,2 -> name, chip, release dates; MIT, mirrored from AppleDB) | `927` | csv/json/sqlite/raw |
 
 | `Combinations/` | Fingerprint → device mappings (the bridge) | `813` | csv/json/sqlite |
 

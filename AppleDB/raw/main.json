@@ -113,6 +113,32 @@
   "imageKey": "Apple Watch Magnetic Charging Try-on Case"
  },
  {
+  "name": "Smart Folio for iPad mini (A20 Pro)",
+  "type": "Cases",
+  "model": [
+   "A3632"
+  ],
+  "released": "2026-10-30",
+  "colors": [
+   {
+    "name": "Navy Blue",
+    "hex": "626558",
+    "released": "2026-10-30",
+    "key": "Navy Blue"
+   },
+   {
+    "name": "Taupe",
+    "hex": "66604E",
+    "released": "2026-10-30",
+    "key": "Taupe"
+   }
+  ],
+  "board": [],
+  "identifier": [],
+  "key": "Smart Folio for iPad mini (A20 Pro)",
+  "imageKey": "Smart Folio for iPad mini (A20 Pro)"
+ },
+ {
   "name": "iPad Smart Folio Case for iPad Air (M3)",
   "type": "Cases",
   "model": [
@@ -12100,25 +12126,26 @@
    },
    {
     "name": "Flame Blue",
-    "hex": "ADDDF3",
+    "hex": "02BDE4",
     "released": "2021-01-20",
     "key": "Flame Blue"
    },
    {
     "name": "Smoke Gray",
-    "hex": "E0E5E5",
+    "hex": "D3D9D9",
     "released": "2021-01-20",
     "key": "Smoke Gray"
    },
    {
     "name": "Yuzu Yellow",
-    "hex": "F3FB97",
+    "hex": "DBE482",
     "released": "2020-10-21",
     "key": "Yuzu Yellow"
    },
    {
     "name": "Beats Black",
-    "hex": "2B2B2B",
+    "hex": "262626",
+    "released": "2020-10-21",
     "key": "Beats Black"
    }
   ],
@@ -12143,13 +12170,16 @@
    "2024-06-20",
    "2024-10-03",
    "2025-09",
-   "2026-05-31"
+   "2026-06-30"
   ],
   "colors": [
    {
     "name": "Orange",
-    "hex": "FE9531",
-    "released": "2026-05-31",
+    "hex": [
+     "FE9531",
+     "F12001"
+    ],
+    "released": "2026-06-30",
     "key": "Orange"
    },
    {
@@ -12160,31 +12190,34 @@
    },
    {
     "name": "Festive Special Edition",
-    "hex": "FE9531",
+    "hex": [
+     "FE9531",
+     "473D89"
+    ],
     "released": "2024-10-03",
     "key": "Festive Special Edition"
    },
    {
     "name": "Arctic Purple",
-    "hex": "BEC1E4",
+    "hex": "B6BADD",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "000000",
+    "hex": "393939",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "C7CCCA",
+    "hex": "C2CAC8",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "A9182A",
+    "hex": "C72F3C",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12210,13 +12243,16 @@
    "2024-06-20",
    "2024-10-03",
    "2025-09",
-   "2026-05-31"
+   "2026-06-30"
   ],
   "colors": [
    {
     "name": "Orange",
-    "hex": "FE9531",
-    "released": "2026-05-31",
+    "hex": [
+     "FE9531",
+     "F12001"
+    ],
+    "released": "2026-06-30",
     "key": "Orange"
    },
    {
@@ -12227,31 +12263,34 @@
    },
    {
     "name": "Festive Special Edition",
-    "hex": "FE9531",
+    "hex": [
+     "FE9531",
+     "473D89"
+    ],
     "released": "2024-10-03",
     "key": "Festive Special Edition"
    },
    {
     "name": "Arctic Purple",
-    "hex": "BEC1E4",
+    "hex": "B6BADD",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "000000",
+    "hex": "393939",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "C7CCCA",
+    "hex": "C2CAC8",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "A9182A",
+    "hex": "C72F3C",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12277,13 +12316,16 @@
    "2024-06-20",
    "2024-10-03",
    "2025-09",
-   "2026-05-31"
+   "2026-06-30"
   ],
   "colors": [
    {
     "name": "Orange",
-    "hex": "FE9531",
-    "released": "2026-05-31",
+    "hex": [
+     "FE9531",
+     "F12001"
+    ],
+    "released": "2026-06-30",
     "key": "Orange"
    },
    {
@@ -12294,31 +12336,34 @@
    },
    {
     "name": "Festive Special Edition",
-    "hex": "FE9531",
+    "hex": [
+     "FE9531",
+     "473D89"
+    ],
     "released": "2024-10-03",
     "key": "Festive Special Edition"
    },
    {
     "name": "Arctic Purple",
-    "hex": "BEC1E4",
+    "hex": "B6BADD",
     "released": "2024-06-20",
     "key": "Arctic Purple"
    },
    {
     "name": "Matte Black",
-    "hex": "000000",
+    "hex": "393939",
     "released": "2024-06-20",
     "key": "Matte Black"
    },
    {
     "name": "Storm Gray",
-    "hex": "C7CCCA",
+    "hex": "C2CAC8",
     "released": "2024-06-20",
     "key": "Storm Gray"
    },
    {
     "name": "Transparent Red",
-    "hex": "A9182A",
+    "hex": "C72F3C",
     "released": "2024-06-20",
     "key": "Transparent Red"
    }
@@ -12378,10 +12423,10 @@
     "key": "Daily Paper Edition"
    },
    {
-    "name": "Moon Grey",
+    "name": "Moon Gray",
     "hex": "A4A4A4",
     "released": "2022-04-13",
-    "key": "Moon Grey"
+    "key": "Moon Gray"
    },
    {
     "name": "Ocean Blue",
@@ -12487,10 +12532,10 @@
     "key": "Daily Paper Edition"
    },
    {
-    "name": "Moon Grey",
+    "name": "Moon Gray",
     "hex": "A4A4A4",
     "released": "2022-04-13",
-    "key": "Moon Grey"
+    "key": "Moon Gray"
    },
    {
     "name": "Ocean Blue",
@@ -12596,10 +12641,10 @@
     "key": "Daily Paper Edition"
    },
    {
-    "name": "Moon Grey",
+    "name": "Moon Gray",
     "hex": "A4A4A4",
     "released": "2022-04-13",
-    "key": "Moon Grey"
+    "key": "Moon Gray"
    },
    {
     "name": "Ocean Blue",
@@ -12667,7 +12712,7 @@
    "A2870"
   ],
   "released": [
-   "2023-05-17",
+   "2023-05-18",
    "2023-09-07"
   ],
   "colors": [
@@ -12686,19 +12731,22 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "2B2B2B",
-    "released": "2023-05-17"
+    "hex": [
+     "2B2B2B",
+     "93784B"
+    ],
+    "released": "2023-05-18"
    },
    {
     "name": "Ivory",
     "hex": "F2EDE7",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
     "hex": "B4B7C5",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Transparent"
    }
   ],
@@ -12720,7 +12768,7 @@
    "A2952"
   ],
   "released": [
-   "2023-05-17",
+   "2023-05-18",
    "2023-09-07"
   ],
   "colors": [
@@ -12739,19 +12787,22 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "2B2B2B",
-    "released": "2023-05-17"
+    "hex": [
+     "2B2B2B",
+     "93784B"
+    ],
+    "released": "2023-05-18"
    },
    {
     "name": "Ivory",
     "hex": "F2EDE7",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
     "hex": "B4B7C5",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Transparent"
    }
   ],
@@ -12773,7 +12824,7 @@
    "A2952"
   ],
   "released": [
-   "2023-05-17",
+   "2023-05-18",
    "2023-09-07"
   ],
   "colors": [
@@ -12792,19 +12843,22 @@
    {
     "name": "Black / Gold",
     "key": "Black Gold",
-    "hex": "2B2B2B",
-    "released": "2023-05-17"
+    "hex": [
+     "2B2B2B",
+     "93784B"
+    ],
+    "released": "2023-05-18"
    },
    {
     "name": "Ivory",
     "hex": "F2EDE7",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Ivory"
    },
    {
     "name": "Transparent",
     "hex": "B4B7C5",
-    "released": "2023-05-17",
+    "released": "2023-05-18",
     "key": "Transparent"
    }
   ],
@@ -12870,12 +12924,11 @@
    "A1763"
   ],
   "released": [
-   "2017-02",
    "2017-02-10",
    "2017-09-12",
    "2018-01-31",
    "2018-06-04",
-   "2018-10",
+   "2018-10-02",
    "2019-02-22",
    "2019-03-04"
   ],
@@ -12916,7 +12969,7 @@
    {
     "name": "Satin Silver",
     "hex": "D1D0CE",
-    "released": "2018-10",
+    "released": "2018-10-02",
     "key": "Satin Silver"
    },
    {
@@ -12964,13 +13017,13 @@
    {
     "name": "Blue",
     "hex": "154B7D",
-    "released": "2017-02",
+    "released": "2017-02-10",
     "key": "Blue"
    },
    {
     "name": "Gray",
     "hex": "656569",
-    "released": "2017-02",
+    "released": "2017-02-10",
     "key": "Gray"
    }
   ],
@@ -13262,7 +13315,15 @@
   "model": [
    "A2078"
   ],
-  "released": "2020-06-09",
+  "released": [
+   "2020-06-09",
+   "2021-01-29",
+   "2021-03-22",
+   "2022-02-19",
+   "2022-04-23",
+   "2022-05-06",
+   "2022-11-11"
+  ],
   "colors": [
    {
     "name": "Melody Ehsani Edition - Royal Purple",
@@ -13336,7 +13397,15 @@
   "model": [
    "A2453"
   ],
-  "released": "2020-06-09",
+  "released": [
+   "2020-06-09",
+   "2021-01-29",
+   "2021-03-22",
+   "2022-02-19",
+   "2022-04-23",
+   "2022-05-06",
+   "2022-11-11"
+  ],
   "colors": [
    {
     "name": "Melody Ehsani Edition - Blue/Yellow",
@@ -13455,7 +13524,15 @@
   "model": [
    "A2454"
   ],
-  "released": "2020-06-09",
+  "released": [
+   "2020-06-09",
+   "2021-01-29",
+   "2021-03-22",
+   "2022-02-19",
+   "2022-04-23",
+   "2022-05-06",
+   "2022-11-11"
+  ],
   "colors": [
    {
     "name": "Melody Ehsani Edition - Pink/Red",
@@ -19770,11 +19847,13 @@
    "A2330"
   ],
   "released": "2020-06-22",
+  "discontinued": "2021-03-31",
   "colors": [
    {
     "name": "Space Gray",
     "hex": "6A6B70",
     "released": "2020-06-22",
+    "discontinued": "2021-03-31",
     "key": "Space Gray"
    }
   ],
@@ -39863,29 +39942,34 @@
    "A2993"
   ],
   "released": "2024-10-23",
+  "discontinued": "2026-10-26",
   "colors": [
    {
     "name": "Blue",
     "hex": "9FB6B8",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Blue"
    },
    {
     "name": "Purple",
     "hex": "C4BCC8",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Purple"
    },
    {
     "name": "Space Gray",
     "hex": "555456",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Space Gray"
    },
    {
     "name": "Starlight",
     "hex": "CCC5BC",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Starlight"
    }
   ],
@@ -40004,29 +40088,34 @@
    "A2996"
   ],
   "released": "2024-10-23",
+  "discontinued": "2026-10-26",
   "colors": [
    {
     "name": "Blue",
     "hex": "9FB6B8",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Blue"
    },
    {
     "name": "Purple",
     "hex": "C4BCC8",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Purple"
    },
    {
     "name": "Space Gray",
     "hex": "555456",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Space Gray"
    },
    {
     "name": "Starlight",
     "hex": "CCC5BC",
     "released": "2024-10-23",
+    "discontinued": "2026-10-26",
     "key": "Starlight"
    }
   ],
@@ -40412,6 +40501,75 @@
    }
   ],
   "key": "iPad17,4"
+ },
+ {
+  "name": "iPad mini (A20 Pro) Wi-Fi",
+  "identifier": [
+   "iPad19,1"
+  ],
+  "soc": "A20 Pro",
+  "cpid": "0x8160",
+  "arch": "arm64e.x1",
+  "type": "iPad mini",
+  "board": [
+   "J510AP"
+  ],
+  "bdid": "0x04",
+  "model": [
+   "A3595"
+  ],
+  "released": "2026-11-06",
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "393E42",
+    "released": "2026-11-06",
+    "key": "Midnight"
+   },
+   {
+    "name": "Starlight",
+    "hex": "CCC5BC",
+    "released": "2026-11-06",
+    "key": "Starlight"
+   }
+  ],
+  "key": "iPad19,1",
+  "imageKey": "iPad19,1"
+ },
+ {
+  "name": "iPad mini (A20 Pro) Wi-Fi + Cellular",
+  "identifier": [
+   "iPad19,2"
+  ],
+  "soc": "A20 Pro",
+  "cpid": "0x8160",
+  "arch": "arm64e.x1",
+  "type": "iPad mini",
+  "board": [
+   "J511AP"
+  ],
+  "bdid": "0x06",
+  "model": [
+   "A3596",
+   "A3597"
+  ],
+  "released": "2026-11-06",
+  "colors": [
+   {
+    "name": "Midnight",
+    "hex": "393E42",
+    "released": "2026-11-06",
+    "key": "Midnight"
+   },
+   {
+    "name": "Starlight",
+    "hex": "CCC5BC",
+    "released": "2026-11-06",
+    "key": "Starlight"
+   }
+  ],
+  "key": "iPad19,2",
+  "imageKey": "iPad19,2"
  },
  {
   "name": "iPad 2 Wi-Fi",
