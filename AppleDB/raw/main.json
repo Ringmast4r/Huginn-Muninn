@@ -13929,9 +13929,16 @@
    "2013-10",
    "2013-12-16",
    "2014-05-09",
-   "2014-11"
+   "2014-11",
+   "2015-11-19"
   ],
   "colors": [
+   {
+    "name": "Rose Gold",
+    "hex": "CAA6A2",
+    "released": "2015-11-19",
+    "key": "Rose Gold"
+   },
    {
     "name": "Hello Kitty Edition",
     "hex": [
@@ -14046,8 +14053,7 @@
    "B0547"
   ],
   "released": [
-   "2015",
-   "2015-11-19",
+   "2016-03-13",
    "2016-10"
   ],
   "colors": [
@@ -14063,7 +14069,7 @@
    {
     "name": "Rose Gold",
     "hex": "CAA6A2",
-    "released": "2015-11-19",
+    "released": "2016-03-13",
     "key": "Rose Gold"
    },
    {
@@ -14072,7 +14078,7 @@
      "363535",
      "CB0909"
     ],
-    "released": "2015",
+    "released": "2016-03-13",
     "key": "Black"
    },
    {
@@ -14081,25 +14087,25 @@
      "FFFFFF",
      "CB0909"
     ],
-    "released": "2015",
+    "released": "2016-03-13",
     "key": "White"
    },
    {
     "name": "Gold",
     "hex": "B8A692",
-    "released": "2015",
+    "released": "2016-03-13",
     "key": "Gold"
    },
    {
     "name": "Silver",
     "hex": "AAABAD",
-    "released": "2015",
+    "released": "2016-03-13",
     "key": "Silver"
    },
    {
     "name": "Space Gray",
     "hex": "9D9CA1",
-    "released": "2015",
+    "released": "2016-03-13",
     "key": "Space Gray"
    }
   ],
@@ -23868,17 +23874,20 @@
    "A3434"
   ],
   "released": "2025-10-22",
+  "discontinued": "2026-10-27",
   "colors": [
    {
     "name": "Silver",
     "hex": "ACADAF",
     "released": "2025-10-22",
+    "discontinued": "2026-10-27",
     "key": "Silver"
    },
    {
     "name": "Space Black",
     "hex": "252425",
     "released": "2025-10-22",
+    "discontinued": "2026-10-27",
     "key": "Space Black"
    }
   ],
@@ -24019,6 +24028,39 @@
    }
   ],
   "key": "Mac17,9"
+ },
+ {
+  "name": "MacBook Pro 14-inch (M6)",
+  "identifier": [
+   "Mac18,1"
+  ],
+  "imageKey": "Mac15,6",
+  "soc": "M6",
+  "cpid": "0x8152",
+  "arch": "arm64e.x1",
+  "type": "MacBook Pro",
+  "board": [
+   "J804AP"
+  ],
+  "model": [
+   "A3536"
+  ],
+  "released": "2026-11-06",
+  "colors": [
+   {
+    "name": "Silver",
+    "hex": "ACADAF",
+    "released": "2026-11-06",
+    "key": "Silver"
+   },
+   {
+    "name": "Space Black",
+    "hex": "252425",
+    "released": "2026-11-06",
+    "key": "Space Black"
+   }
+  ],
+  "key": "Mac18,1"
  },
  {
   "name": "MacBook Pro (15-inch, Early 2006)",
@@ -36212,47 +36254,55 @@
    "A3247"
   ],
   "released": "2024-11-08",
+  "discontinued": "2026-10-27",
   "colors": [
    {
     "name": "Blue",
     "hex": "4F78A7",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Blue"
    },
    {
     "name": "Green",
     "hex": "3A8B57",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Green"
    },
    {
     "name": "Orange",
     "hex": "DD6A45",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Orange"
    },
    {
     "name": "Pink",
     "hex": "DA5D7D",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Pink"
    },
    {
     "name": "Purple",
     "hex": "7C78AB",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Purple"
    },
    {
     "name": "Silver",
     "hex": "C5C6C9",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Silver"
    },
    {
     "name": "Yellow",
     "hex": "E6C73B",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Yellow"
    }
   ],
@@ -36276,52 +36326,124 @@
    "A3137"
   ],
   "released": "2024-11-08",
+  "discontinued": "2026-10-27",
   "colors": [
    {
     "name": "Blue",
     "hex": "4F78A7",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Blue"
    },
    {
     "name": "Green",
     "hex": "3A8B57",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Green"
    },
    {
     "name": "Orange",
     "hex": "DD6A45",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Orange"
    },
    {
     "name": "Pink",
     "hex": "DA5D7D",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Pink"
    },
    {
     "name": "Purple",
     "hex": "7C78AB",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Purple"
    },
    {
     "name": "Silver",
     "hex": "C5C6C9",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Silver"
    },
    {
     "name": "Yellow",
     "hex": "E6C73B",
     "released": "2024-11-08",
+    "discontinued": "2026-10-27",
     "key": "Yellow"
    }
   ],
   "key": "Mac16,3",
   "imageKey": "Mac16,3"
+ },
+ {
+  "name": "iMac (24-inch, M6, 2026)",
+  "identifier": [
+   "Mac18,2"
+  ],
+  "imageKey": "Mac16,3",
+  "soc": "M6",
+  "cpid": "0x8152",
+  "arch": "arm64e.x1",
+  "type": "iMac",
+  "board": [
+   "J833AP"
+  ],
+  "model": [
+   "A3589",
+   "A3590"
+  ],
+  "released": "2026-11-06",
+  "colors": [
+   {
+    "name": "Blue",
+    "hex": "4F78A7",
+    "released": "2026-11-06",
+    "key": "Blue"
+   },
+   {
+    "name": "Green",
+    "hex": "3A8B57",
+    "released": "2026-11-06",
+    "key": "Green"
+   },
+   {
+    "name": "Orange",
+    "hex": "DD6A45",
+    "released": "2026-11-06",
+    "key": "Orange"
+   },
+   {
+    "name": "Pink",
+    "hex": "DA5D7D",
+    "released": "2026-11-06",
+    "key": "Pink"
+   },
+   {
+    "name": "Purple",
+    "hex": "7C78AB",
+    "released": "2026-11-06",
+    "key": "Purple"
+   },
+   {
+    "name": "Silver",
+    "hex": "C5C6C9",
+    "released": "2026-11-06",
+    "key": "Silver"
+   },
+   {
+    "name": "Yellow",
+    "hex": "E6C73B",
+    "released": "2026-11-06",
+    "key": "Yellow"
+   }
+  ],
+  "key": "Mac18,2"
  },
  {
   "name": "iMac G5 (17-inch, iSight)",
