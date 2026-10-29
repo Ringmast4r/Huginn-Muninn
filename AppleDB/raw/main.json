@@ -27633,6 +27633,18 @@
  },
  {
   "name": "140W USB-C Power Adapter",
+  "imageKey": "140W USB-C Power Adapter",
+  "key": "140W USB-C Power Adapter-3",
+  "type": "Power",
+  "model": [
+   "A3498"
+  ],
+  "released": "2026-10-30",
+  "board": [],
+  "identifier": []
+ },
+ {
+  "name": "140W USB-C Power Adapter",
   "type": "Power",
   "board": [
    "B930AP"
@@ -28343,6 +28355,18 @@
   "identifier": [],
   "key": "67W USB-C Power Adapter",
   "imageKey": "67W USB-C Power Adapter"
+ },
+ {
+  "name": "70W USB-C Power Adapter",
+  "imageKey": "70W USB-C Power Adapter",
+  "key": "70W USB-C Power Adapter-2",
+  "type": "Power",
+  "model": [
+   "A3543"
+  ],
+  "released": "2026-10-30",
+  "board": [],
+  "identifier": []
  },
  {
   "name": "70W USB-C Power Adapter",
