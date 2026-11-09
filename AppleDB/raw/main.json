@@ -32186,6 +32186,17 @@
   "imageKey": "Classic Mac"
  },
  {
+  "name": "Classroom (iOS)",
+  "type": "Software",
+  "released": "2016-03-21",
+  "appLink": "https://apps.apple.com/us/app/classroom/id1085319084",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Classroom (iOS)",
+  "imageKey": "Classroom (iOS)"
+ },
+ {
   "name": "Classroom (macOS)",
   "type": "Software",
   "released": "2018-09-26",
@@ -32195,17 +32206,6 @@
   "identifier": [],
   "key": "Classroom (macOS)",
   "imageKey": "Classroom (macOS)"
- },
- {
-  "name": "Classroom",
-  "type": "Software",
-  "released": "2016-03-21",
-  "appLink": "https://apps.apple.com/us/app/classroom/id1085319084",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Classroom",
-  "imageKey": "Classroom"
  },
  {
   "name": "Clips",
@@ -32331,6 +32331,20 @@
   "imageKey": "Dark Sky Weather (iOS)"
  },
  {
+  "name": "DeskConnect (iOS)",
+  "type": "Software",
+  "released": "2013-08-29",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/deskconnect/id642218244?mt=8",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "DeskConnect (iOS)",
+  "imageKey": "DeskConnect (iOS)"
+ },
+ {
   "name": "DeskConnect (macOS)",
   "type": "Software",
   "released": "2013-08-29",
@@ -32343,20 +32357,6 @@
   "identifier": [],
   "key": "DeskConnect (macOS)",
   "imageKey": "DeskConnect (macOS)"
- },
- {
-  "name": "DeskConnect",
-  "type": "Software",
-  "released": "2013-08-29",
-  "appLink": {
-   "url": "https://itunes.apple.com/us/app/deskconnect/id642218244?mt=8",
-   "active": false
-  },
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "DeskConnect",
-  "imageKey": "DeskConnect"
  },
  {
   "name": "DockKit Certification Assistant",
@@ -32952,7 +32952,7 @@
   "imageKey": "Hello Barbie Companion App (Android)"
  },
  {
-  "name": "Hello Barbie Companion App",
+  "name": "Hello Barbie Companion App (iOS)",
   "type": "Software",
   "released": "2015-10-23",
   "appLink": {
@@ -32962,8 +32962,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Hello Barbie Companion App",
-  "imageKey": "Hello Barbie Companion App"
+  "key": "Hello Barbie Companion App (iOS)",
+  "imageKey": "Hello Barbie Companion App (iOS)"
  },
  {
   "name": "Hello Dreamhouse Companion App (Android)",
@@ -32980,7 +32980,7 @@
   "imageKey": "Hello Dreamhouse Companion App (Android)"
  },
  {
-  "name": "Hello Dreamhouse Companion App",
+  "name": "Hello Dreamhouse Companion App (iOS)",
   "type": "Software",
   "released": "2016-09-25",
   "appLink": {
@@ -32990,8 +32990,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Hello Dreamhouse Companion App",
-  "imageKey": "Hello Dreamhouse Companion App"
+  "key": "Hello Dreamhouse Companion App (iOS)",
+  "imageKey": "Hello Dreamhouse Companion App (iOS)"
  },
  {
   "name": "HomeKit Companion",
@@ -33067,6 +33067,20 @@
   "imageKey": "Junaio Augmented Reality (Android)"
  },
  {
+  "name": "Junaio Augmented Reality Browser (iOS)",
+  "type": "Software",
+  "released": "2009-11-11",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/junaio-augmented-reality-browser/id337415615",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Junaio Augmented Reality Browser (iOS)",
+  "imageKey": "Junaio Augmented Reality Browser (iOS)"
+ },
+ {
   "name": "Junaio Augmented Reality Browser for iPad",
   "type": "Software",
   "released": "2011-04-01",
@@ -33079,20 +33093,6 @@
   "identifier": [],
   "key": "Junaio Augmented Reality Browser for iPad",
   "imageKey": "Junaio Augmented Reality Browser for iPad"
- },
- {
-  "name": "Junaio Augmented Reality Browser",
-  "type": "Software",
-  "released": "2009-11-11",
-  "appLink": {
-   "url": "https://itunes.apple.com/us/app/junaio-augmented-reality-browser/id337415615",
-   "active": false
-  },
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Junaio Augmented Reality Browser",
-  "imageKey": "Junaio Augmented Reality Browser"
  },
  {
   "name": "Keynote (iOS)",
@@ -33180,7 +33180,7 @@
   "imageKey": "Laserlike (Android)"
  },
  {
-  "name": "Laserlike",
+  "name": "Laserlike (iOS)",
   "type": "Software",
   "released": "2016-10-20",
   "appLink": {
@@ -33190,8 +33190,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Laserlike",
-  "imageKey": "Laserlike"
+  "key": "Laserlike (iOS)",
+  "imageKey": "Laserlike (iOS)"
  },
  {
   "name": "LiveNLearn",
@@ -33277,6 +33277,20 @@
   "imageKey": "MIPACT"
  },
  {
+  "name": "MOG (iOS)",
+  "type": "Software",
+  "released": "2010-07-20",
+  "appLink": {
+   "url": "https://itunes.apple.com/us/app/id372093286/",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "MOG (iOS)",
+  "imageKey": "MOG (iOS)"
+ },
+ {
   "name": "MOG for iPad",
   "type": "Software",
   "released": "2012-03-24",
@@ -33289,20 +33303,6 @@
   "identifier": [],
   "key": "MOG for iPad",
   "imageKey": "MOG for iPad"
- },
- {
-  "name": "MOG",
-  "type": "Software",
-  "released": "2010-07-20",
-  "appLink": {
-   "url": "https://itunes.apple.com/us/app/id372093286/",
-   "active": false
-  },
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "MOG",
-  "imageKey": "MOG"
  },
  {
   "name": "MagSafe Certification Asst.",
@@ -34123,7 +34123,7 @@
   "imageKey": "Shazam Encore (iOS)"
  },
  {
-  "name": "Shazam(RED)",
+  "name": "Shazam(RED) (iOS)",
   "type": "Software",
   "released": "2009-11-23",
   "appLink": {
@@ -34133,8 +34133,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Shazam(RED)",
-  "imageKey": "Shazam(RED)"
+  "key": "Shazam(RED) (iOS)",
+  "imageKey": "Shazam(RED) (iOS)"
  },
  {
   "name": "Shimmer",
@@ -34301,7 +34301,7 @@
   "imageKey": "SpeakaZoo (Android)"
  },
  {
-  "name": "SpeakaZoo",
+  "name": "SpeakaZoo (iOS)",
   "type": "Software",
   "released": "2014-04-16",
   "appLink": {
@@ -34311,8 +34311,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "SpeakaZoo",
-  "imageKey": "SpeakaZoo"
+  "key": "SpeakaZoo (iOS)",
+  "imageKey": "SpeakaZoo (iOS)"
  },
  {
   "name": "Spek",
@@ -34384,7 +34384,7 @@
   "imageKey": "Super Surf Bros (Android)"
  },
  {
-  "name": "Super Surf Bros",
+  "name": "Super Surf Bros (iOS)",
   "type": "Software",
   "released": "2014-05-15",
   "appLink": {
@@ -34394,8 +34394,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Super Surf Bros",
-  "imageKey": "Super Surf Bros"
+  "key": "Super Surf Bros (iOS)",
+  "imageKey": "Super Surf Bros (iOS)"
  },
  {
   "name": "Swell Radio",
@@ -34552,7 +34552,7 @@
   "imageKey": "Thomas & Friends Talk to You (Android)"
  },
  {
-  "name": "Thomas & Friends Talk to You",
+  "name": "Thomas & Friends Talk to You (iOS)",
   "type": "Software",
   "released": "2015-07-31",
   "appLink": {
@@ -34562,8 +34562,8 @@
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Thomas & Friends Talk to You",
-  "imageKey": "Thomas & Friends Talk to You"
+  "key": "Thomas & Friends Talk to You (iOS)",
+  "imageKey": "Thomas & Friends Talk to You (iOS)"
  },
  {
   "name": "Tipit Video Editor",
