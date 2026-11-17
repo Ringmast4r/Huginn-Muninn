@@ -1,37 +1,37 @@
 {
  "table": "device",
- "fingerbank_generated_on": 1794798197,
- "rows": 123166,
+ "fingerbank_generated_on": 1794884693,
+ "rows": 123142,
  "files": [
   {
    "file": "csv/device.csv",
-   "rows": 123166,
-   "bytes": 17246439,
-   "sha256": "7c282ce067d01e0c0146824a335c7b25cb4a6e8bbfa10c417ed5071a81eb877f",
+   "rows": 123142,
+   "bytes": 17243011,
+   "sha256": "72bc60d5225746424d1260b0e4484c38d6d2e8e4d4cdcbe3626c1e151310dfa3",
    "first_id": 1,
    "last_id": 166947
   },
   {
    "file": "sqlite/device.db",
-   "rows": 123166,
+   "rows": 123142,
    "bytes": 18866176,
-   "sha256": "0a062968430046068922542c7e878fbe00117c5f095a21d72acbe3dc975096c3",
+   "sha256": "6684eb6b8dc2a1a7b77e2298ec49c244dfc87f9eb537990f02701ebe624d03ee",
    "first_id": 1,
    "last_id": 166947
   },
   {
    "file": "parquet/device.parquet",
-   "rows": 123166,
-   "bytes": 4875456,
-   "sha256": "7e601ef438826bd2e1604376befa72deabada1eb38c8dd59b770d8b9ce8cbfdb",
+   "rows": 123142,
+   "bytes": 4874209,
+   "sha256": "86d0f0958c4d6cc6ead7874e619f6efe592341d097fbe9245e0d77fa4f116c11",
    "first_id": 1,
    "last_id": 166947
   },
   {
    "file": "json/device.json",
-   "rows": 123166,
-   "bytes": 46722000,
-   "sha256": "6a62301204c77496c609f565d80f9cfb4fc21a7fb53711dff255e48ac3786657",
+   "rows": 123142,
+   "bytes": 46712866,
+   "sha256": "18157ae4ad23a838f63495e089b66e60d6b4e61e44dcf79deebae5ea4d239b71",
    "first_id": 1,
    "last_id": 166947,
    "note": "feed: id,name,mobile,tablet,created_at,updated_at,parent_id,inherit,submitter_id,approved,devices_count,details,updated_by_id,virtual_parent_id,virtual_devices_count,simplified_name"

@@ -1,10 +1,10 @@
 {
- "fingerbank_generated_on": 1794798197,
+ "fingerbank_generated_on": 1794884693,
  "tables": {
   "dhcp_fingerprint": {
    "table": "dhcp_fingerprint",
-   "fingerbank_generated_on": 1794798197,
-   "rows": 536759,
+   "fingerbank_generated_on": 1794884693,
+   "rows": 537309,
    "files": [
     {
      "file": "json/dhcp_signature.part-00000000-00249999.json",
@@ -72,60 +72,60 @@
     },
     {
      "file": "json/dhcp_signature.part-00500000-00749999.json",
-     "rows": 74692,
-     "bytes": 15306772,
-     "sha256": "4388b69d805f738c3dc7660ad72c95dc1961ec33234921370704d931428ac94b",
+     "rows": 75242,
+     "bytes": 15416121,
+     "sha256": "ccab30396a10a0d235932b3dfa3210693273dc9deb7f9a9833e1b93b4c956fab",
      "first_id": 500000,
-     "last_id": 574691
+     "last_id": 575241
     },
     {
      "file": "csv/dhcp_signature.part-00500000-00749999.csv",
-     "rows": 74692,
-     "bytes": 11124048,
-     "sha256": "71a859aae306433ad55ce8f919df9a86daa5252326ae6024fefbfb70bc337514",
+     "rows": 75242,
+     "bytes": 11202597,
+     "sha256": "1f1c18542fde1c269812ca4e7aa89b80c70c13d84deca92aa31c8ea6e180782b",
      "first_id": 500000,
-     "last_id": 574691
+     "last_id": 575241
     },
     {
      "file": "sqlite/dhcp_signature.part-00500000-00749999.db",
-     "rows": 74692,
-     "bytes": 12447744,
-     "sha256": "f4d499a6a7b01a243d018836204c10b63edc9b0abadc12a7ca078cedfea38fc8",
+     "rows": 75242,
+     "bytes": 12537856,
+     "sha256": "ae44de78c6969b1321d6136314f9791fbfc1a0cde12b2c4c1644801811c8940e",
      "first_id": 500000,
-     "last_id": 574691
+     "last_id": 575241
     },
     {
      "file": "parquet/dhcp_signature.part-00500000-00749999.parquet",
-     "rows": 74692,
-     "bytes": 4228784,
-     "sha256": "ff2e4dbc73c5d0e9bb90224831a46f4d335bd3ed94146ef7f040b9ecbfd26bd0",
+     "rows": 75242,
+     "bytes": 4254440,
+     "sha256": "7c7aac1a6cd0263d097e287c74a13dcfe889763bb8162f1b567e64ac08fdf8f3",
      "first_id": 500000,
-     "last_id": 574691
+     "last_id": 575241
     },
     {
      "file": "json/dhcp_signature.json",
-     "rows": 536759,
-     "bytes": 74658424,
-     "sha256": "d2896a2423e193404583f3d20aa6c33cb0f5fb7ab48cc32ffd2d776b2be9d759",
+     "rows": 537309,
+     "bytes": 74729273,
+     "sha256": "4e39a89957a7175eaea08880e802d2650110a9beb9e27f76c02b8e1749bbb9e1",
      "first_id": 0,
-     "last_id": 574691,
+     "last_id": 575241,
      "note": "feed: id,value,ignored"
     },
     {
      "file": "json/dhcp_signature_timestamps.json",
-     "rows": 536759,
-     "bytes": 45561091,
-     "sha256": "7049b6e39afb40ec0410c3b0ad5c62c06655fba911ccc663c04efc765c57ee50",
+     "rows": 537309,
+     "bytes": 45607841,
+     "sha256": "ccf2d79a2655bfcde4afa85a48f9f374bcd269f06bcb3d286a9ec81ef39700a3",
      "first_id": 0,
-     "last_id": 574691,
+     "last_id": 575241,
      "note": "companion: id,created_at,updated_at"
     }
    ]
   },
   "dhcp_vendor": {
    "table": "dhcp_vendor",
-   "fingerbank_generated_on": 1794798197,
-   "rows": 465208,
+   "fingerbank_generated_on": 1794884693,
+   "rows": 465313,
    "files": [
     {
      "file": "json/dhcp_vendor.part-00000000-00249999.json",
@@ -161,59 +161,59 @@
     },
     {
      "file": "json/dhcp_vendor.part-00250000-00499999.json",
-     "rows": 225167,
-     "bytes": 26470526,
-     "sha256": "25151b4a990b4bc2c02776e4c9498b5a6635c8bf1c4011d6d4744e8fcb64895b",
+     "rows": 225272,
+     "bytes": 26482651,
+     "sha256": "334b6d108f1bb07a99d93c5be94ce09ca3c91f4d38f81f5a3972cd59ed9f08e1",
      "first_id": 250000,
-     "last_id": 475172
+     "last_id": 475277
     },
     {
      "file": "csv/dhcp_vendor.part-00250000-00499999.csv",
-     "rows": 225167,
-     "bytes": 15749824,
-     "sha256": "1a07072235c16be0b7c6ac6f1893f507bb6d940f3a298ff2959bbdbe7b2b1765",
+     "rows": 225272,
+     "bytes": 15756937,
+     "sha256": "8bde7bdc3f89b54dd791b153ea58cd29c7a2b933639ddeb835549354bfebb530",
      "first_id": 250000,
-     "last_id": 475172
+     "last_id": 475277
     },
     {
      "file": "sqlite/dhcp_vendor.part-00250000-00499999.db",
-     "rows": 225167,
-     "bytes": 19419136,
-     "sha256": "af914657d5bb2afffe9fac909719cf6c6f4265f11fb12a8c5e164b2699074586",
+     "rows": 225272,
+     "bytes": 19423232,
+     "sha256": "77c9a76005546095b0bf0da69d03ac93da5d4eb8129c4f017b97eff3dd400e02",
      "first_id": 250000,
-     "last_id": 475172
+     "last_id": 475277
     },
     {
      "file": "parquet/dhcp_vendor.part-00250000-00499999.parquet",
-     "rows": 225167,
-     "bytes": 9097892,
-     "sha256": "4f1221b5f662b923d415e6538c4303fc0b45789eee5206dbd7268fa0c77fb6ad",
+     "rows": 225272,
+     "bytes": 9102006,
+     "sha256": "18f396b49bd534983f0078516f11b3aea8ea0f38be38932546fa15ac9e5daf93",
      "first_id": 250000,
-     "last_id": 475172
+     "last_id": 475277
     },
     {
      "file": "json/dhcp_vendor.json",
-     "rows": 465208,
-     "bytes": 22468175,
-     "sha256": "a1cc95893fc7be11b5747d05602a1fc993fb9b39ef038d42c40a365ff37c086f",
+     "rows": 465313,
+     "bytes": 22472950,
+     "sha256": "56497f40a325cc054a3fe57f4912448fb77248a5604176c32db7522717be651e",
      "first_id": 0,
-     "last_id": 475172,
+     "last_id": 475277,
      "note": "feed: id,value"
     },
     {
      "file": "json/dhcp_vendor_timestamps.json",
-     "rows": 465208,
-     "bytes": 39450098,
-     "sha256": "8f32f868c1ec861d9fcc5b2976cc6affe24584028326b1ee53257dcd0433fc42",
+     "rows": 465313,
+     "bytes": 39459023,
+     "sha256": "50a5148c016c42925645084c70981635197aa84b41f8f37f6006856ab8dfb62d",
      "first_id": 0,
-     "last_id": 475172,
+     "last_id": 475277,
      "note": "companion: id,created_at,updated_at"
     }
    ]
   },
   "dhcp6_fingerprint": {
    "table": "dhcp6_fingerprint",
-   "fingerbank_generated_on": 1794798197,
+   "fingerbank_generated_on": 1794884693,
    "rows": 1666,
    "files": [
     {
@@ -253,7 +253,7 @@
   },
   "dhcp6_enterprise": {
    "table": "dhcp6_enterprise",
-   "fingerbank_generated_on": 1794798197,
+   "fingerbank_generated_on": 1794884693,
    "rows": 58405,
    "files": [
     {
@@ -293,8 +293,8 @@
   },
   "mac_vendor": {
    "table": "mac_vendor",
-   "fingerbank_generated_on": 1794798197,
-   "rows": 10450634,
+   "fingerbank_generated_on": 1794884693,
+   "rows": 10450755,
    "files": [
     {
      "file": "json/mac_vendor.part-00000000-00399999.json",
@@ -1130,72 +1130,72 @@
     },
     {
      "file": "json/mac_vendor.part-10400000-10799999.json",
-     "rows": 168288,
-     "bytes": 23392035,
-     "sha256": "0917a09120745d6093ea9d6c4038155605b0d5e53d6fea9fe3a1773b5f47f50c",
+     "rows": 168409,
+     "bytes": 23408854,
+     "sha256": "f2c9efde9bd051f05cbf549a7a90d936ec8c7b67c65767145859343fb0347332",
      "first_id": 10400000,
-     "last_id": 10568287
+     "last_id": 10568408
     },
     {
      "file": "csv/mac_vendor.part-10400000-10799999.csv",
-     "rows": 168288,
-     "bytes": 14136226,
-     "sha256": "ca27404207ea09e42a2c5869280483541e4aec5d2a2ecc02e45413a795d5edd9",
+     "rows": 168409,
+     "bytes": 14146390,
+     "sha256": "ad81650c9b379662bad12163155b2d0f5485806a30a0e5b3d84c6daf1633c8d7",
      "first_id": 10400000,
-     "last_id": 10568287
+     "last_id": 10568408
     },
     {
      "file": "sqlite/mac_vendor.part-10400000-10799999.db",
-     "rows": 168288,
-     "bytes": 17174528,
-     "sha256": "1e2ff949f0c8c6db35c4e840292d39dc5c37458c906c0bb62dcf024a18e26199",
+     "rows": 168409,
+     "bytes": 17186816,
+     "sha256": "e7a636f80fb7584d16c2576257d9c1eb31f090101c5a212af5e593ca3035d95c",
      "first_id": 10400000,
-     "last_id": 10568287
+     "last_id": 10568408
     },
     {
      "file": "parquet/mac_vendor.part-10400000-10799999.parquet",
-     "rows": 168288,
-     "bytes": 5473006,
-     "sha256": "0ba754fca84fe2be7a197d7307d8890ad70335d62f0a4ee517181564e33f5d24",
+     "rows": 168409,
+     "bytes": 5476854,
+     "sha256": "3d5dd63d9b7fbccd6bbb3b3debb27201f8c7d4d35735ca3d0ed09c23d2b9856f",
      "first_id": 10400000,
-     "last_id": 10568287
+     "last_id": 10568408
     }
    ]
   },
   "device": {
    "table": "device",
-   "fingerbank_generated_on": 1794798197,
-   "rows": 123166,
+   "fingerbank_generated_on": 1794884693,
+   "rows": 123142,
    "files": [
     {
      "file": "csv/device.csv",
-     "rows": 123166,
-     "bytes": 17246439,
-     "sha256": "7c282ce067d01e0c0146824a335c7b25cb4a6e8bbfa10c417ed5071a81eb877f",
+     "rows": 123142,
+     "bytes": 17243011,
+     "sha256": "72bc60d5225746424d1260b0e4484c38d6d2e8e4d4cdcbe3626c1e151310dfa3",
      "first_id": 1,
      "last_id": 166947
     },
     {
      "file": "sqlite/device.db",
-     "rows": 123166,
+     "rows": 123142,
      "bytes": 18866176,
-     "sha256": "0a062968430046068922542c7e878fbe00117c5f095a21d72acbe3dc975096c3",
+     "sha256": "6684eb6b8dc2a1a7b77e2298ec49c244dfc87f9eb537990f02701ebe624d03ee",
      "first_id": 1,
      "last_id": 166947
     },
     {
      "file": "parquet/device.parquet",
-     "rows": 123166,
-     "bytes": 4875456,
-     "sha256": "7e601ef438826bd2e1604376befa72deabada1eb38c8dd59b770d8b9ce8cbfdb",
+     "rows": 123142,
+     "bytes": 4874209,
+     "sha256": "86d0f0958c4d6cc6ead7874e619f6efe592341d097fbe9245e0d77fa4f116c11",
      "first_id": 1,
      "last_id": 166947
     },
     {
      "file": "json/device.json",
-     "rows": 123166,
-     "bytes": 46722000,
-     "sha256": "6a62301204c77496c609f565d80f9cfb4fc21a7fb53711dff255e48ac3786657",
+     "rows": 123142,
+     "bytes": 46712866,
+     "sha256": "18157ae4ad23a838f63495e089b66e60d6b4e61e44dcf79deebae5ea4d239b71",
      "first_id": 1,
      "last_id": 166947,
      "note": "feed: id,name,mobile,tablet,created_at,updated_at,parent_id,inherit,submitter_id,approved,devices_count,details,updated_by_id,virtual_parent_id,virtual_devices_count,simplified_name"

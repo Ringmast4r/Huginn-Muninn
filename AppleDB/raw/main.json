@@ -31423,6 +31423,17 @@
   "imageKey": "Apple Guide"
  },
  {
+  "name": "Apple Health AI Study",
+  "type": "Software",
+  "released": "2026-11-15",
+  "appLink": "https://apps.apple.com/us/app/apple-health-ai-study-app/id6800060365",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple Health AI Study",
+  "imageKey": "Apple Health AI Study"
+ },
+ {
   "name": "Apple Health Link",
   "type": "Software",
   "released": "2020-11-04",
@@ -31515,6 +31526,18 @@
   "identifier": [],
   "key": "Apple Music (Windows)",
   "imageKey": "Apple Music (Windows)"
+ },
+ {
+  "name": "Apple Music (Xbox)",
+  "type": "Software",
+  "released": "2020-07-10",
+  "windowsStoreId": "9PP5M2PJ95GX",
+  "appLink": "https://apps.microsoft.com/store/detail/9PP5M2PJ95GX",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple Music (Xbox)",
+  "imageKey": "Apple Music (Xbox)"
  },
  {
   "name": "Apple Music Classical (Android)",
@@ -31748,6 +31771,18 @@
   "identifier": [],
   "key": "Apple TV (Windows)",
   "imageKey": "Apple TV (Windows)"
+ },
+ {
+  "name": "Apple TV (Xbox)",
+  "type": "Software",
+  "released": "2020-11-09",
+  "windowsStoreId": "9MW0ZWQFH0M2",
+  "appLink": "https://apps.microsoft.com/store/detail/9MW0ZWQFH0M2",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Apple TV (Xbox)",
+  "imageKey": "Apple TV (Xbox)"
  },
  {
   "name": "Apple TV F1 The Movie Theme",
@@ -32189,6 +32224,20 @@
   "identifier": [],
   "key": "Claris Go",
   "imageKey": "Claris Go"
+ },
+ {
+  "name": "Claris Harbor",
+  "type": "Software",
+  "released": "2026-10-27",
+  "appLink": {
+   "url": "https://apps.apple.com/us/app/claris-harbor-unlisted/id6784378948",
+   "active": false
+  },
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Claris Harbor",
+  "imageKey": "Claris Harbor"
  },
  {
   "name": "Classic Mac",
