@@ -1,7 +1,7 @@
 {
  "table": "dhcp_fingerprint",
- "fingerbank_generated_on": 1795489405,
- "rows": 540723,
+ "fingerbank_generated_on": 1795575855,
+ "rows": 541415,
  "files": [
   {
    "file": "json/dhcp_signature.part-00000000-00249999.json",
@@ -69,52 +69,52 @@
   },
   {
    "file": "json/dhcp_signature.part-00500000-00749999.json",
-   "rows": 78656,
-   "bytes": 16093073,
-   "sha256": "264ab683ba906c02a113c5a852ce5379bcf7dae809d0a3239a0356512bb994ca",
+   "rows": 79348,
+   "bytes": 16228575,
+   "sha256": "e187624a06bdc5e18e1ec52966f99e1fefa28da2c187883ba03608963652a314",
    "first_id": 500000,
-   "last_id": 578655
+   "last_id": 579347
   },
   {
    "file": "csv/dhcp_signature.part-00500000-00749999.csv",
-   "rows": 78656,
-   "bytes": 11688365,
-   "sha256": "85d364686df9040d07e43b601d9d7b4d96216e1592cc0f3d1c9db44c9d154f57",
+   "rows": 79348,
+   "bytes": 11785115,
+   "sha256": "210d686ccbc42c68fd150422dd65bd04b6f8cc2986bda1096d391561c04d2642",
    "first_id": 500000,
-   "last_id": 578655
+   "last_id": 579347
   },
   {
    "file": "sqlite/dhcp_signature.part-00500000-00749999.db",
-   "rows": 78656,
-   "bytes": 13082624,
-   "sha256": "bf656efe96779a9f462d95d61f16b91866a34d2bef8e0621ac6088eadb7e09bd",
+   "rows": 79348,
+   "bytes": 13189120,
+   "sha256": "70b8e88a00b4022bf9521130164cc3d6774df3034b30d71ba410e607085c76d3",
    "first_id": 500000,
-   "last_id": 578655
+   "last_id": 579347
   },
   {
    "file": "parquet/dhcp_signature.part-00500000-00749999.parquet",
-   "rows": 78656,
-   "bytes": 4414147,
-   "sha256": "028b84528397a04d9ccef9e335ecaae6a1ecaa889a822e4cd16100db73e02b94",
+   "rows": 79348,
+   "bytes": 4444359,
+   "sha256": "5b1d3224ce77072e00bc1aa682e58682fd56b739747f40d91a3665e5280d7da4",
    "first_id": 500000,
-   "last_id": 578655
+   "last_id": 579347
   },
   {
    "file": "json/dhcp_signature.json",
-   "rows": 540723,
-   "bytes": 75167245,
-   "sha256": "9336fd1af79c5e94525dc0cbe89ebdba20c724bcd6cc9ae8c0c52228afd02a69",
+   "rows": 541415,
+   "bytes": 75254307,
+   "sha256": "35aa7699ad36485ef5ec6fedfe3edf6e01fe521462f3c0312b53d862c8041eba",
    "first_id": 0,
-   "last_id": 578655,
+   "last_id": 579347,
    "note": "feed: id,value,ignored"
   },
   {
    "file": "json/dhcp_signature_timestamps.json",
-   "rows": 540723,
-   "bytes": 45898031,
-   "sha256": "89b0e4837aee721ef587dc67472e2171dcfa5136d4e43449accffb62ec3b7f60",
+   "rows": 541415,
+   "bytes": 45956851,
+   "sha256": "1ada18affaf9debd5a25d8a2c60b40d1de253a7bde700678da08a61cf2ee920c",
    "first_id": 0,
-   "last_id": 578655,
+   "last_id": 579347,
    "note": "companion: id,created_at,updated_at"
   }
  ]
