@@ -11785,22 +11785,22 @@
   ],
   "colors": [
    {
-    "name": "Alo Edition - Reflective Black",
+    "name": "Alo Special Edition - Reflective Black",
     "hex": "1F2022",
     "released": "2024-04-04",
-    "key": "Alo Edition - Reflective Black"
+    "key": "Alo Special Edition - Reflective Black"
    },
    {
-    "name": "fragment design Edition - Ink Black",
+    "name": "Fragment Design Special Edition - Ink Black",
     "hex": "262626",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Ink Black"
+    "key": "Fragment Design Special Edition - Ink Black"
    },
    {
-    "name": "fragment design Edition - Pure White",
+    "name": "Fragment Design Special Edition - Pure White",
     "hex": "E3E4E6",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Pure White"
+    "key": "Fragment Design Special Edition - Pure White"
    },
    {
     "name": "Coral Pink",
@@ -11821,22 +11821,22 @@
     "key": "Volt Yellow"
    },
    {
-    "name": "Kim K Edition - Dune",
-    "hex": "B9876E",
+    "name": "Kim K Special Edition - Dune",
+    "hex": "B37F66",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Dune"
+    "key": "Kim K Special Edition - Dune"
    },
    {
-    "name": "Kim K Edition - Earth",
-    "hex": "6A433B",
+    "name": "Kim K Special Edition - Earth",
+    "hex": "66423A",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Earth"
+    "key": "Kim K Special Edition - Earth"
    },
    {
-    "name": "Kim K Edition - Moon",
-    "hex": "E4C7B9",
+    "name": "Kim K Special Edition - Moon",
+    "hex": "ECD1C4",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Moon"
+    "key": "Kim K Special Edition - Moon"
    },
    {
     "name": "Beats Black",
@@ -11892,22 +11892,22 @@
   ],
   "colors": [
    {
-    "name": "Alo Edition - Reflective Black",
+    "name": "Alo Special Edition - Reflective Black",
     "hex": "1F2022",
     "released": "2024-04-04",
-    "key": "Alo Edition - Reflective Black"
+    "key": "Alo Special Edition - Reflective Black"
    },
    {
-    "name": "fragment design Edition - Ink Black",
+    "name": "Fragment Design Special Edition - Ink Black",
     "hex": "262626",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Ink Black"
+    "key": "Fragment Design Special Edition - Ink Black"
    },
    {
-    "name": "fragment design Edition - Pure White",
+    "name": "Fragment Design Special Edition - Pure White",
     "hex": "E3E4E6",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Pure White"
+    "key": "Fragment Design Special Edition - Pure White"
    },
    {
     "name": "Coral Pink",
@@ -11928,22 +11928,22 @@
     "key": "Volt Yellow"
    },
    {
-    "name": "Kim K Edition - Dune",
-    "hex": "B9876E",
+    "name": "Kim K Special Edition - Dune",
+    "hex": "B37F66",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Dune"
+    "key": "Kim K Special Edition - Dune"
    },
    {
-    "name": "Kim K Edition - Earth",
-    "hex": "6A433B",
+    "name": "Kim K Special Edition - Earth",
+    "hex": "66423A",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Earth"
+    "key": "Kim K Special Edition - Earth"
    },
    {
-    "name": "Kim K Edition - Moon",
-    "hex": "E4C7B9",
+    "name": "Kim K Special Edition - Moon",
+    "hex": "ECD1C4",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Moon"
+    "key": "Kim K Special Edition - Moon"
    },
    {
     "name": "Beats Black",
@@ -11999,22 +11999,22 @@
   ],
   "colors": [
    {
-    "name": "Alo Edition - Reflective Black",
+    "name": "Alo Special Edition - Reflective Black",
     "hex": "1F2022",
     "released": "2024-04-04",
-    "key": "Alo Edition - Reflective Black"
+    "key": "Alo Special Edition - Reflective Black"
    },
    {
-    "name": "fragment design Edition - Ink Black",
+    "name": "Fragment Design Special Edition - Ink Black",
     "hex": "262626",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Ink Black"
+    "key": "Fragment Design Special Edition - Ink Black"
    },
    {
-    "name": "fragment design Edition - Pure White",
+    "name": "Fragment Design Special Edition - Pure White",
     "hex": "E3E4E6",
     "released": "2023-07-07",
-    "key": "fragment design Edition - Pure White"
+    "key": "Fragment Design Special Edition - Pure White"
    },
    {
     "name": "Coral Pink",
@@ -12035,22 +12035,22 @@
     "key": "Volt Yellow"
    },
    {
-    "name": "Kim K Edition - Dune",
-    "hex": "B9876E",
+    "name": "Kim K Special Edition - Dune",
+    "hex": "B37F66",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Dune"
+    "key": "Kim K Special Edition - Dune"
    },
    {
-    "name": "Kim K Edition - Earth",
-    "hex": "6A433B",
+    "name": "Kim K Special Edition - Earth",
+    "hex": "66423A",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Earth"
+    "key": "Kim K Special Edition - Earth"
    },
    {
-    "name": "Kim K Edition - Moon",
-    "hex": "E4C7B9",
+    "name": "Kim K Special Edition - Moon",
+    "hex": "ECD1C4",
     "released": "2022-08-16",
-    "key": "Kim K Edition - Moon"
+    "key": "Kim K Special Edition - Moon"
    },
    {
     "name": "Beats Black",
@@ -14285,16 +14285,6 @@
   "imageKey": "Beats3601,1"
  },
  {
-  "name": "Beats Detox Pro",
-  "type": "Beats Headphones",
-  "released": "2011-05-10",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Detox Pro",
-  "imageKey": "Beats Detox Pro"
- },
- {
   "name": "Beats EP",
   "type": "Beats Headphones",
   "model": [
@@ -14337,72 +14327,104 @@
   "imageKey": "Beats Mixr"
  },
  {
-  "name": "Beats Pro Fendi Edition",
-  "type": "Beats Headphones",
-  "released": [
-   "2014-01",
-   "2016-01-18"
-  ],
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro Fendi Edition",
-  "imageKey": "Beats Pro Fendi Edition"
- },
- {
-  "name": "Beats Pro Illest Edition",
-  "type": "Beats Headphones",
-  "released": "2011-10-25",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro Illest Edition",
-  "imageKey": "Beats Pro Illest Edition"
- },
- {
-  "name": "Beats Pro Lamborghini Edition",
-  "type": "Beats Headphones",
-  "released": "2011-05-11",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro Lamborghini Edition",
-  "imageKey": "Beats Pro Lamborghini Edition"
- },
- {
-  "name": "Beats Pro LeBron James MVP Edition",
-  "type": "Beats Headphones",
-  "released": "2013",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro LeBron James MVP Edition",
-  "imageKey": "Beats Pro LeBron James MVP Edition"
- },
- {
-  "name": "Beats Pro Lil Wayne Edition",
-  "type": "Beats Headphones",
-  "released": "2013",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro Lil Wayne Edition",
-  "imageKey": "Beats Pro Lil Wayne Edition"
- },
- {
-  "name": "Beats Pro Nicki Minaj Edition",
-  "type": "Beats Headphones",
-  "released": "2013-11-22",
-  "model": [],
-  "board": [],
-  "identifier": [],
-  "key": "Beats Pro Nicki Minaj Edition",
-  "imageKey": "Beats Pro Nicki Minaj Edition"
- },
- {
   "name": "Beats Pro",
   "type": "Beats Headphones",
-  "released": "2010-09-29",
+  "released": [
+   "2010-10",
+   "2013-04-24",
+   "2013-11-22",
+   "2014-01"
+  ],
+  "colors": [
+   {
+    "name": "Infinite Black",
+    "hex": "000000",
+    "released": "2014-01",
+    "key": "Infinite Black"
+   },
+   {
+    "name": "Nicki Pink - Nicki Minaj Edition",
+    "hex": "EE98AA",
+    "released": "2013-11-22",
+    "key": "Nicki Pink - Nicki Minaj Edition"
+   },
+   {
+    "name": "Red-Black - Lil Wayne Edition",
+    "hex": "FF3333",
+    "released": "2013-04-24",
+    "key": "Red-Black - Lil Wayne Edition"
+   },
+   {
+    "name": "Black",
+    "hex": "333333",
+    "released": "2010-10",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": "FFFFFF",
+    "released": "2010-10",
+    "key": "White"
+   },
+   {
+    "name": "Detox Edition",
+    "hex": "3A3836",
+    "key": "Detox Edition"
+   },
+   {
+    "name": "Fendi Edition - Black",
+    "hex": "1A1A1A",
+    "key": "Fendi Edition - Black"
+   },
+   {
+    "name": "Fendi Edition - Blue",
+    "hex": "004A93",
+    "key": "Fendi Edition - Blue"
+   },
+   {
+    "name": "Fendi Edition - Gray Asphalt",
+    "hex": "4B4B4B",
+    "key": "Fendi Edition - Gray Asphalt"
+   },
+   {
+    "name": "Fendi Edition - Red Fire",
+    "hex": "C41E38",
+    "key": "Fendi Edition - Red Fire"
+   },
+   {
+    "name": "Fendi Edition - True Blue",
+    "hex": "1B2759",
+    "key": "Fendi Edition - True Blue"
+   },
+   {
+    "name": "Fendi Edition - White",
+    "hex": "D1D1D1",
+    "key": "Fendi Edition - White"
+   },
+   {
+    "name": "Fendi Edition - Yellow Sunflower",
+    "hex": "D1AB26",
+    "key": "Fendi Edition - Yellow Sunflower"
+   },
+   {
+    "name": "Illest Edition",
+    "hex": "C5C6CA",
+    "key": "Illest Edition"
+   },
+   {
+    "name": "LeBron James MVP Edition",
+    "hex": [
+     "1D3050",
+     "E60925"
+    ],
+    "key": "LeBron James MVP Edition"
+   },
+   {
+    "name": "Red Limited Edition",
+    "hex": "CC0000",
+    "key": "Red Limited Edition"
+   }
+  ],
   "model": [],
   "board": [],
   "identifier": [],
@@ -14453,6 +14475,25 @@
   "name": "Beats Solo",
   "type": "Beats Headphones",
   "released": "2009",
+  "colors": [
+   {
+    "name": "Black",
+    "hex": "333333",
+    "released": "2009",
+    "key": "Black"
+   },
+   {
+    "name": "White",
+    "hex": "CCCCCC",
+    "released": "2009",
+    "key": "White"
+   },
+   {
+    "name": "HTC White",
+    "hex": "E8E8E8",
+    "key": "HTC White"
+   }
+  ],
   "model": [],
   "board": [],
   "identifier": [],
@@ -34478,15 +34519,26 @@
   "imageKey": "Swell Radio"
  },
  {
-  "name": "Swift Playground",
+  "name": "Swift Playground (iOS)",
   "type": "Software",
   "released": "2016-09-13",
   "appLink": "https://apps.apple.com/us/app/swift-playground/id908519492",
   "model": [],
   "board": [],
   "identifier": [],
-  "key": "Swift Playground",
-  "imageKey": "Swift Playground"
+  "key": "Swift Playground (iOS)",
+  "imageKey": "Swift Playground (iOS)"
+ },
+ {
+  "name": "Swift Playground (macOS)",
+  "type": "Software",
+  "released": "2020-02-11",
+  "appLink": "https://apps.apple.com/us/app/swift-playground/id1496833156?mt=12",
+  "model": [],
+  "board": [],
+  "identifier": [],
+  "key": "Swift Playground (macOS)",
+  "imageKey": "Swift Playground (macOS)"
  },
  {
   "name": "TestFlight (iOS)",
